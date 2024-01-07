@@ -1,5 +1,5 @@
 # Site
-name: "Set Things Right"
+name: "SharanX"
 title: "Set Things Right"
 description: "Sharan's Digital Workbench"
 logo: 'assets/images/logo.png'
@@ -7,18 +7,20 @@ favicon: 'assets/images/logo.png'
 baseurl: '/blog/'
 google_analytics: ''
 disqus: 'sharanx'
-mailchimp-list: ''
+mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
   sharanx:
-    name: Sharan X
+    name: Sharan
     display_name: sharanx
     gravatar: sharan467777e876
     email: sharanx@redd.in
     twitter: https://twitter.com/sharan01x
+    mastodon: https://mastodon.social/@sharanx
+    lens: https://hey.lens.zone/@sharanx
     description: "Fluent in design, code and finance"
 
 # Plugins

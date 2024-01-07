@@ -5,385 +5,739 @@
     <description>Sharan&apos;s Digital Workbench</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jan 2024 13:08:09 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2024 13:08:09 +0100</lastBuildDate>
+    <pubDate>Sun, 07 Jan 2024 15:50:44 +0100</pubDate>
+    <lastBuildDate>Sun, 07 Jan 2024 15:50:44 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <title>Is there room for another dating app?</title>
+        <description>&lt;p&gt;Examining whether there’s an actual need missing or a packaging problem&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;h1 id=&quot;the-need&quot;&gt;The Need&lt;/h1&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;Meeting the person that is now my wife had been quite a challenge. I probably have been helped by friends, family and work colleagues and when that didn’t work, I even joined a singles group, signed up online on matrimonial sites and even dating apps. I finally met my wife on a dating app called OkCupid. To say that this field of allowing people to find each other is dear to me would be an understatement.&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;I’ve been happily married for a while now. I have several single friends my age and while a few of them want to find someone and get married eventually, some are choosing to stay single and are quite content doing so. However they would still like companionship and would like to meet people that are similarly inclined.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;In a recent conversation with four twenty-something user experience designers, I asked about dating apps and whether they are serving the needs of people their age group. But surprisingly the complaints were the same as for those that belong to the older group I spoke of above. All of them said they had issues meeting people and that no dating app was serving them well.&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;On a broader societal level India has always been thought of as a nation with very traditional values and therefore the population had a majority of married people. But this trend is changing. People are getting married later in life if at all and many are also choosing to stay single, not seeing getting married and having kids as the final goal. Divorce laws in India are also complicated to say the least and this may be a contributing factor to people choosing to stay single.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/Pencil-sketch-of-a-happy-couple-sitting-across-each-other-at-a-sidewalk-cafe-in-a-European-city-with-2.jpeg.webp&quot; /&gt;&lt;/p&gt;
 
-&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+&lt;h1 id=&quot;the-problems&quot;&gt;The Problems&lt;/h1&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;In my research, I’ve funnily had absolutely no trouble getting people to tell me about the issues they’ve faced while using dating apps. It usually ends up becoming an hour-long conversation and everyone wants to explain their individual journeys and issues that they’ve run into. In a lot of ways they want to vent their frustration and when someone like me comes along and asks what the issues are, it’s like opening the flood gates to a dam. But I feel their pain as I’ve been there myself.&lt;/p&gt;
 
-&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+&lt;p&gt;To whit, the issues they presented for dating were as follows:&lt;/p&gt;
 
-&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; 
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;Men find it harder to meet women as the percentage of men on dating platforms is much higher. This may be because it’s traditionally been uncommon for women to put their profiles online.&lt;/li&gt;
+  &lt;li&gt;It is not easy to convert an online encounter into a physical meeting due to concerns regarding security. They typically want to be very sure of the person before they meet.&lt;/li&gt;
+  &lt;li&gt;People prefer to meet others in real life rather than online as that is a more authentic way to find someone.&lt;/li&gt;
+  &lt;li&gt;Creating a good profile is key and people request others who have found success to create their profiles. But this inadvertently also adds to the catfishing concern as the profiles may not be authentic at all.&lt;/li&gt;
+  &lt;li&gt;People don’t always know that the person they are meeting online are verified in any way and this adds to security concerns.&lt;/li&gt;
+  &lt;li&gt;Dating apps that require women to initiate the connection may be adding a hurdle to introverted women. They may prefer to be approached instead. But this an an all-or-nothing kind of offering on such platforms.&lt;/li&gt;
+  &lt;li&gt;Ghosting is a big concern as people may be spending inordinate amounts of time trying to build a relationship with someone they met online whereas the other person may be not be interested at all but doesn’t know how to end this.&lt;/li&gt;
+  &lt;li&gt;The online medium is skewed towards good-looking people. The fact is that most platforms offer huge databases of people and it’s practically impossible to sift through all without being extremely quick to judge either based on photos or based on scanning of profiles very quickly.&lt;/li&gt;
+  &lt;li&gt;There are several scams that have occurred based on people meeting each other online in India. Scams involve extortion, confidence scams, honey traps and lots of other such issues that make this kind of meeting very dubious.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+&lt;p&gt;There are some things that could be solved through better employment of technology. But there are a lot of things that can be solved in the real-world realm.&lt;/p&gt;
 
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-6
-7
-8
-9
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
-&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr /&gt;
 
-&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;Hello World&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h1 id=&quot;room-for-another&quot;&gt;Room for Another&lt;/h1&gt;
+&lt;p&gt;With the passage of time, it’s a good idea to evaluate old decisions over again. While I had previously thought that this market is overcrowded and that there is dating-app-fatigue that has set in, I think the advent of AI has made it possible to evaluate this once again.&lt;/p&gt;
 
-&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+&lt;p&gt;Yes, I am very aware that platforms like e-harmony and OKCupid, and lots of others, have indeed marketed based on this idea. However, I don’t think they had the tools we have today to make that claim in earnest. Besides, the one flaw in their thinking was that they were only able to go so far as making a recommendation of who they would match with; they were never able to evaluate whether they had made the right prediction because they had no mechanism to receive such feedback. If they didn’t get any feedback, it definitely didn’t help make future recommendations any better either.&lt;/p&gt;
 
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&apos;redcarpet&apos;&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;If one were to venture into this field, this is a key aspect that I would evaluate: did they have good recommendation engines that not only had recommendations but also had feedback loops to make future recommendations better?&lt;/p&gt;
 
-&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
+&lt;hr /&gt;
 
-&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;the-business-case&quot;&gt;The Business Case&lt;/h1&gt;
+&lt;p&gt;In my quick study of this field I’ve come to the conclusion that the demand is off-the-charts. No platform has solved this problem as yet, so there’s definitely room for another entrant. There is no dearth of money as people are willing to pay out of money in order to meet the right person. So it can definitely be a profitable venture. But the solution has to be packaged correctly and the right promises need to be made.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;h2 id=&quot;the-goal&quot;&gt;The Goal&lt;/h2&gt;
+&lt;p&gt;First and foremost it is important to set the right goals for a platform. Is it meant to result in a date, is it meant to result in a relationship, is it meant to result in a marriage or is it simply to develop companionship in this changing world. I think apps and platforms that promise finding the person to get married to are obviously overselling what they are capable of. I’d go so far as to say that even if they promise a great date. It takes a lot more to make a date memorable than the matching of characteristics in databases. I’d love to see an app that promises that the user would meet good people and that’s it, because that’s a promise that can be kept.&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;h2 id=&quot;target-audience&quot;&gt;Target Audience&lt;/h2&gt;
+&lt;p&gt;While some people may be looking at getting married, some may simply be looking for companionship or even to meet other singles because the conversations with their married friends maybe something they can’t relate with anymore. I think it would be prudent to simply focus on the people looking to make friends. If something more were to develop from this, that’s just the cherry on top and not the baseline expectation.&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;This may also therefore not be an age or gender-related qualification.&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+&lt;h2 id=&quot;packaging&quot;&gt;Packaging&lt;/h2&gt;
+&lt;p&gt;In my mind, the following are the core areas to keep in mind when designing a solution:&lt;/p&gt;
 
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+&lt;h3 id=&quot;1-security&quot;&gt;1. Security&lt;/h3&gt;
+&lt;p&gt;As mentioned above, we need to make security the main focus area. We need to find ways to make sure that people feel confident when participating on a platform. Vetted profiles, membership through recommendations, attracting people through the right channels, etc. are some of the things that we can do to make sure of this.&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;h3 id=&quot;2-authenticity&quot;&gt;2. Authenticity&lt;/h3&gt;
+&lt;p&gt;While making an effort to make all the profiles on the platform look good, the authenticity of the profile must not be lost. There is a fine balance here that must be found. Maybe the profile is written by those trained in it, but there could also be a video that the user records of themselves saying things that should be added with it.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-matching&quot;&gt;3. Matching&lt;/h3&gt;
+&lt;p&gt;At the fundamental level this is a matching problem. There is a lot of noise to sift through to find good information and characteristics to match people against. People often lie about themselves in order to appear a certain way and no questionnaire can overcome this hurdle. Or, they may not express what they want for fear of being judged for it. Yet again, they may simply not know what they want. All of this makes the matching problem more difficult for any system, but not for machine learning systems. Building a good matching engine that powers all of this is therefore the most important task. And for this, we need as many signals and feedback as possible.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-efficiency&quot;&gt;4. Efficiency&lt;/h3&gt;
+&lt;p&gt;This is one of the most ignored metrics within this field. People spend inordinate amounts of time trying to find the right person that they would like to be with. This increases the fatigue that they face and makes a lot of people give up in the middle of the process. Any new system that is built should definitely consider making this entire process more efficient. The system should try to match a person with a group of people that they share common ground with. The individual they meet within that group that they connect with is almost unnecessary to focus on.&lt;/p&gt;
+
+&lt;h2 id=&quot;pricing&quot;&gt;Pricing&lt;/h2&gt;
+&lt;p&gt;Pricing will obviously play a key role here. Pricing can be used to create an elite group that keeps the non-serious participants out, but too high a price and it will become elitist and exclusionary. People should also not be paying for individual participation, but rather for a few different events together so that they interact repeatedly as that is key to the success of this program.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;The world is yearning for deeper connections. With the power of technology at our fingertips, it’s time to harness it and create platforms that truly bring people together. We must seize this opportunity to build communities, foster companionship, and combat the growing loneliness in our society. It’s time to reimagine dating platforms as platforms that serve this need, where the focus is on meeting good people and forming meaningful connections. Let’s embrace the advancements in AI and recommendation engines to make this vision a reality. We have the tools, the potential, and the responsibility to improve the human connection. It’s time to take action and create a platform that truly changes lives. It must be attempted because it is important to achieve.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/powerful-things-markdown-editor/</link>
-        <guid isPermaLink="true">http://localhost:4000/powerful-things-markdown-editor/</guid>
+        <pubDate>Tue, 18 Jul 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/is-there-room-for-another-dating-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/is-there-room-for-another-dating-app/</guid>
+        
+        <category>opinion</category>
+        
+        <category>society</category>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Ideas</category>
         
       </item>
     
       <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+        <title>Better tools should be better employed</title>
+        <description>&lt;p&gt;When you have access to tools that provide you unlimited capability, how should these tools be used&lt;/p&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;In the age of AI, the only limitation to creating things is our ability to imagine them. While AI tools allow for new possibilities, there is a real growing concern that our ability to imagine itself may be eviscerated. But uniquely to our time, there are dire consequences to using &lt;em&gt;and&lt;/em&gt; not using the technologies. The only way forward is to pay attention to where we employ these tools and where we don’t.&lt;/p&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;Design is about changing and managing perceptions and ideas about the world we live in. It’s powerful because when employed well, it works wonders as a way of wielding influence. This influence can broaden our horizons, make us aware of our hidden biases and even train good behaviour. Or, on the other hand, it can block progress and foster addictive and unhealthy behaviours such as providing positive reinforcement when we buy stuff we don’t need.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/BetterTools-2.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;two-stories&quot;&gt;Two Stories&lt;/h1&gt;
+&lt;p&gt;I recently watched this wonderful video by Dami Lee where she analysed the fantastic amount of detail that the people at &lt;a href=&quot;https://www.ghibli.jp/&quot;&gt;Studio Ghibli&lt;/a&gt; went into while creating some of the award-winning animated movies that they are known for. Since Dami Lee is an architect, she analysed the movies from that perspective and highlighted how thoughtfully the buildings were detailed, including the details of lobbies, the rooms themselves, and even what the long passageways mean in terms of the Japanese culture they represent. She’s fascinated that the studio is able to be this observant and dives in to find out what about their design process makes this possible. And this, to me, in my current role as the head of a design team, was what I found most interesting.&lt;/p&gt;
+
+&lt;p&gt;In the video, there are clips of interviews with one of the founders &lt;a href=&quot;https://en.wikipedia.org/wiki/Hayao_Miyazaki&quot;&gt;Hayao Miyazaki&lt;/a&gt; where he states that they force everyone to animate things in the traditional way “by hand” even though this is far more painstaking and tedious. He says that this, in fact, is the reason the studio has been able to be as observant as they have been. He insists that this is the case and goes on to berate anyone that wants to use technology or find a faster way to do things. He famously has said, “Anyone that eats instant ramen three times a day cannot be an animator,” further emphasising the idea.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;“Anyone that eats instant Ramen three times a day cannot be an animator”
+– Hayao Miyazaki, Co-Founder, Studio Ghibli&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;In a completely different part of the world, a friend of mine had developed an appreciation for calligraphy and had begun dabbling with it. He showed me the various pages where he had written the same letter over and over again. Being extremely observant he had observed how he had to move his hand in order to achieve the right shape of the stroke and paid attention to how the ink flowed on the paper. He had even crafted the right kind of pens and nibs to be able to do this easily. But his biggest learning was that the effort involved in the art actually made him think many times about what it is that he wanted to convey. It had to be something important as the very act of embellishing the letters took a lot of time and effort.&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/first-mass-produced/</link>
-        <guid isPermaLink="true">http://localhost:4000/first-mass-produced/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+&lt;p&gt;He went on to remark at the virtues of the art of letter writing of the ages past that our grandparents were very familiar with. He saw that there was something beautiful in the effort one put not only into the writing of the letters, but also the pasting, stamping, walking the letter over to the nearby postbox that somehow conveyed to the recipient and made them so happy or at least important for being the beneficiary of such effort.&lt;/p&gt;
 
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;It seems there was something to the deliberation involved and the lack of speed, that made for greater appreciation. And this got me thinking about the design process I use in my daily work as a user experience designer.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/BetterTools-3.webp&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;h1 id=&quot;a-better-ux-design-process&quot;&gt;A Better UX Design Process&lt;/h1&gt;
+&lt;p&gt;User Experience Design as a field gained foothold with the advent of computers and the invention of the Graphical User Interface. It’s been a digital pursuit since it’s inception and as such technology has been used to improve every aspect of the process, right from research, wire-framing, visual design, implementation and testing.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;For those unfamiliar with this field, the main job of a UX designer is to visualise how an application would look and feel like before it has been developed by programmers, much like an architect would render drawings of a building on paper before the building gets built. The task therefore is of communication to all the stakeholders. The hope is that any fixes that are required are done at the design stage when it is cheaper rather than at the development stage when it is definitely much more expensive.&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;But even a considerably simple application requires more than fifty screens to be designed if every scenario anticipated while using it needs to be thought through. For example, how does a user login, how do they set their preferences, how do they communicate with support personnel, how do they bring their friends onto the app, and so on. When you factor in the additional operating systems and the various devices and screen sizes that the application should work on, you can easily understand how many screens need to be developed.&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;p&gt;Imagine if something that appears on all the screens needs to be changed (which happens more frequently than one thinks), a designer will have to manually locate the said element in each of the screens and replace them. Using Photoshop, Illustrator or Fireworks, which were tools we used to use to design these screens, this took hours or even days of mind-numbing effort and designers hated doing this. They would do anything to avoid rework, including pushing back on any change requests, pushing the task to the developers to handle at the time of development or even just changing the process to seek inputs and feedback on just key screens before all the associated screens in the process are completely developed which is not really the best way to do this as the stakeholders are evaluating based on insufficient information.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Today, we have much better tools like Figma which make these changes across hundreds of screens in a matter of seconds. This one ability has allowed us to create much better designs, seek feedback after a lot of screens covering a lot of scenarios are actually developed improving the quality of the output immensely. From my vantage point, it’s clearly evident that this kind of technology has been great for the industry.&lt;/p&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;But in this mad rush to achieve outputs faster, the same tools also offers the ability for designers to use templates to speed up the work even further. There are AI design tools that are being created that would create entire workflows and in some cases even apps with a single prompt. Like painters of canvasses, UX designers have also got to pay attention to every pixel that they place on the screen. Everything is deliberated upon and nothing happens by accident which is why the outputs are meaningful. This part of the process should remain slow for a reason. If technology is used to reduce the deliberation in an effort to ease this part of the process, the outputs of such processes will undoubtedly be mediocre.
+___&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/images/BetterTools-4.webp&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;counter-arguments&quot;&gt;Counter Arguments&lt;/h1&gt;
+&lt;p&gt;In some cases, “mediocre” may be a desirable step up. For example, A business owner for instance may simply want to test out an idea for an app without the kinds of expenses involved in the design and development of a custom-built application. But there’s a risk here. A friend of mine advised me about which bicycle to buy this way, “Don’t get a basic bike if you intend to get into this sport. You won’t like the bike and you’ll end up rejecting the sport instead.” I think there’s a lot of truth in that statement and I’d like to provide the same warning to the business owner who may be tempted to use this route. Testing out a good idea using mediocre ways to get you to the output is actually not testing out the idea at all.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/education/</link>
-        <guid isPermaLink="true">http://localhost:4000/education/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Accumulated experience of social living</title>
-        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;A UX designer also may be tempted to use these tools to define a baseline for the app that they want to develop. These tools may still serve a purpose, but fixing a bad output is probably harder than creating the right output from scratch. There’s also the possibility that not every aspect of the output is examined as well as when creating the output in the first place. Would you want your app to go out to developers with these flaws still in it?&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;“Don’t get a basic bike if you intend to get into this sport. You won’t like the bike and you’ll end up rejecting the sport instead.”
+– Rohan Kini, Bums on the Saddle&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;I think technology is a tool like any other and can be beneficial or detrimental depending on how we use it. It will always lure us with its promise of speed, scale, spread, smarts and asynchrony. While it can improve our lives, indiscriminate employment of it will only result in poor outputs. We must be vigilant about what we employ these tools for. Reduction of effort is a great reason to use technology, but if it can impede our thoughtfulness, it is probably a bad use of it.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/acumulated-experience/</link>
-        <guid isPermaLink="true">http://localhost:4000/acumulated-experience/</guid>
+        <pubDate>Thu, 29 Jun 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/better-tools-should-be-better-employed/</link>
+        <guid isPermaLink="true">http://localhost:4000/better-tools-should-be-better-employed/</guid>
+        
+        <category>ux</category>
+        
+        <category>opinion</category>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Ideas</category>
         
       </item>
     
       <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
+        <title>Eight Essential Rules for Mastering Ethical UX Design</title>
+        <description>&lt;p&gt;Reflecting on the work of many others and my own work within the field, I have distilled the following rules to act as a guide&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 
-&lt;p&gt;The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;While UX design is a relatively young field, its importance in a product’s success cannot be overstated. Its impact on the world today is clear, but sadly its ability to effect positive change is coupled with its ability to inflict harm. As with anything that has such powerful duality, a code of ethics is necessary to act as a lodestone to guide those venturing into this field in the future.&lt;/p&gt;
 
-&lt;p&gt;When you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
+&lt;p&gt;Reflecting on the work of many others and my own work within the field, I have distilled the following rules that should act as a guide:&lt;/p&gt;
 
-&lt;p&gt;For more information about how to use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
+&lt;h1 id=&quot;rule-1-your-foremost-duty-is-to-help-your-client-succeed&quot;&gt;Rule #1: Your foremost duty is to help your client succeed&lt;/h1&gt;
+
+&lt;p&gt;I started my design career at Adobe Systems and then went on to build my own UX design agency. My ideas regarding this subject have evolved from “The designer’s job is to advocate for the user within a company” to “The designer is the servant of two masters and needs to figure out how to balance the two”, and finally to understanding that a company simply cannot have interests in opposition to those of its customers for any reasonable length of time, as customers are not naive people waiting to be tricked and will just switch to the nearest substitute. So, it’s enough to simply take the interest of your client — their true long-term interest — and design for that.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-2-your-task-is-to-help-a-user-simply-navigate-a-complex-world&quot;&gt;Rule #2: Your task is to help a user simply navigate a complex world&lt;/h1&gt;
+
+&lt;p&gt;Software is usually employed by a user for the completion of reasonably complicated tasks. Depending on the user, they may be unfamiliar with how to use the software, use the hardware, understand how technology functions, or even have physical limitations such as not being able to see small fonts clearly. Our job as designers is to help them navigate the technology in such a way that it is very simple for them to achieve their tasks. We may need to help them understand the decisions they need to make better, they may need settings that make interfaces more visible, they may rely on the software to make certain choices for them, etc. The better we understand our users, the better we can serve them.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-3-dont-treat-the-user-like-a-commodity&quot;&gt;Rule #3: Don’t treat the user like a commodity&lt;/h1&gt;
+
+&lt;p&gt;The anonymity one has on the internet is a double-edged sword. While it encourages free speech and discourse, it allows people to behave worse online than they would in real life. In the commercial world, this extends to thinking of users of a product in the abstract, reducing them to single dimensions as pockets that need to be picked, resources meant to be exploited, rats to be subjected to dopamine experiments, or as commodities meant to be traded. This is not good for the company in the long run (a la rule #1), but people attempt to do it anyway. Designers can play a big role in breaking these mindsets and making product managers or companies look at the long-term welfare of their users and, consequently, their own companies.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-4-your-counsel-is-as-important-as-your-labour&quot;&gt;Rule #4: Your counsel is as important as your labour&lt;/h1&gt;
+
+&lt;p&gt;Far too often, we measure our work by the effort we put in or the number of screens and experiences we produce. But I’ve always felt that they hire you for your skills in the early part of your career, and when you’ve gained more experience, they &lt;a href=&quot;https://re/&quot;&gt;h&lt;/a&gt;ire you for your opinions . When we’re designing something, we’re deeply considering a specific point, making decisions based on them and learning from their outcomes. It is this distillation of experience that is more important to a client than our labour. They shouldn’t have to spend new money to learn old lessons.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-5-a-designer-must-respect-cultures-genders-physical-abilities-political-leanings-and-privacy-preferences-and-must-design-to-enhance-all-of-them&quot;&gt;Rule #5: A designer must respect cultures, genders, physical abilities, political leanings and privacy preferences and must design to enhance all of them&lt;/h1&gt;
+
+&lt;p&gt;Much too often we think only through the lens of our biases and it’s all too easy to exclude certain people or groups from our thinking. I am myself guilty of not accommodating people with poor eyesight and early on in my life as a designer, I’d design applications with small fonts because they made the interfaces so cool. But this meant I’d ostracise a large group of people that found it hard to read the small fonts.&lt;/p&gt;
+
+&lt;p&gt;An even more subtle example is the frustration that one feels while using tools like Google Docs or Microsoft Word or many other software, where they have to change the locale setting &lt;em&gt;every&lt;/em&gt; time they create a new document as it usually defaults to ‘US English’ even if you’ve previously gone and set this to ‘Indian English’, ‘UK English’ or ‘Australian English’, or any of the many other dialects. I’ve seen people delivering food in India wearing t-shirts that say “Hunger Savior” instead of “Hunger Saviour” because someone forgot to change the locale setting while writing the copy for that t-shirt ! But there are even worse examples I have seen websites that use “Father’s Name” as a label for a field where “Parent’s Name” would have been more appropriate. Should someone really pick the option that says “childless”, even if they &lt;em&gt;chose&lt;/em&gt; not to have children and wouldn’t choosing “0” against children not be a more neutral choice! But here’s something that probably affects a lot more people — the methods of proving that you’re a human by typing in the English text displayed in a box. The majority of the world &lt;strong&gt;&lt;em&gt;doesn’t&lt;/em&gt;&lt;/strong&gt; speak English natively!&lt;/p&gt;
+
+&lt;p&gt;While it may be challenging to cater to every user’s unique preferences, being aware of these potential biases is the first step in creating more inclusive designs. By being open to feedback from users and making an effort to understand their perspectives, designers can work towards creating applications and products that are welcoming and accommodating for everyone.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-6-protect-the-privacy-of-your-users&quot;&gt;Rule #6: Protect the privacy of your users&lt;/h1&gt;
+
+&lt;p&gt;In the digital age, privacy has become a vital concern for users as their personal information is often at risk of being exploited by powerful entities. Although many people understand the importance of privacy, not everyone is aware of its implications on their own lives or how to select platforms that prioritize this aspect.&lt;/p&gt;
+
+&lt;p&gt;As a result, it falls upon product designers to make critical decisions on behalf of their users, ensuring that privacy is protected throughout their designs. By being conscious of potential privacy risks and implementing robust security measures, designers can help safeguard users’ personal information and maintain their trust in the products and platforms they use.&lt;/p&gt;
+
+&lt;p&gt;Anne Cavoukian, the Information and Privacy officer of Ontario, proposed a set of seven foundational principles to protect the users of most information systems called “Privacy by Design” (PbD). The core idea is to address privacy concerns from the beginning, instead of adding privacy measures as an afterthought. PbD comprises seven foundational principles:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Proactive not Reactive; Preventative not Remedial: Privacy by Design emphasises anticipating and preventing privacy invasions before they happen, rather than waiting for breaches to occur and then taking remedial action.&lt;/li&gt;
+  &lt;li&gt;Privacy as the Default Setting: Privacy should be built into systems and services by default, so users don’t have to take any action to protect their privacy. This means that personal data should be automatically protected without requiring any user intervention.&lt;/li&gt;
+  &lt;li&gt;Privacy Embedded into Design: Privacy should be an integral part of the design and architecture of IT systems and business practices. This ensures that privacy is not treated as an add-on but is a core component of the system or service.&lt;/li&gt;
+  &lt;li&gt;Full Functionality — Positive-Sum, not Zero-Sum: PbD advocates for a “win-win” approach where both privacy and functionality are achieved, without compromising either. It rejects the idea that privacy must be sacrificed for security or other objectives.&lt;/li&gt;
+  &lt;li&gt;End-to-End Security — Lifecycle Protection: Privacy by Design emphasises the need for strong security measures throughout the entire data lifecycle — from collection to use, storage, and eventual disposal. This involves implementing robust access controls, encryption, and other security techniques.&lt;/li&gt;
+  &lt;li&gt;Visibility and Transparency: PbD emphasises being open and transparent about privacy practices, allowing users and other stakeholders to verify that privacy measures are in place and functioning as intended. This fosters trust and confidence in the system or service.&lt;/li&gt;
+  &lt;li&gt;Respect for User Privacy: Privacy by Design puts users at the centre, giving them control over their personal data and making it easy for them to exercise their privacy rights. This includes mechanisms for obtaining consent, providing access to personal information, and allowing users to correct or delete their data.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To make applications respect users’ privacy, follow these steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Conduct a privacy impact assessment at the beginning of the project to identify potential privacy risks and develop strategies to address them.&lt;/li&gt;
+  &lt;li&gt;Design the application with privacy in mind, incorporating the Privacy by Design principles from the start.&lt;/li&gt;
+  &lt;li&gt;Collect only the minimum necessary personal data and anonymise or pseudonymise data where possible.&lt;/li&gt;
+  &lt;li&gt;Implement strong access controls and encryption to protect personal data in transit and at rest.&lt;/li&gt;
+  &lt;li&gt;Establish clear and transparent privacy policies, making them easily accessible to users.&lt;/li&gt;
+  &lt;li&gt;Offer users options to manage their privacy settings, giving them control over their personal data.&lt;/li&gt;
+  &lt;li&gt;Regularly review and update privacy practices, staying informed of changes in regulations and industry best practices.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;rule-7-find-every-opportunity-to-reduce-the-carbon-footprint&quot;&gt;Rule #7: Find every opportunity to reduce the carbon footprint&lt;/h1&gt;
+
+&lt;p&gt;When e-commerce companies first launched in India, every step from the moment a user completed payment on a website to the final delivery of the product to the user’s home was new and untested. One such process was the packaging method.&lt;/p&gt;
+
+&lt;p&gt;It appears that packaging and shipping standards from another country were adopted, with every product arriving in bubble wrap and oversized boxes, regardless of the contents. However, it is well-known that India is averse to waste, be it food on a plate or in business, nothing is allowed to go to waste. When oversized boxes started appearing at people’s doorsteps for items as small as lipstick, deodorant, or a bar of soap, people began to complain!&lt;/p&gt;
+
+&lt;p&gt;This led to someone in the logistics department reevaluating the situation and adapting the Standard Operating Procedures (SOPs) to suit waste-intolerant Indian conditions. Packaging underwent a rapid transformation across all e-commerce players: boxes were replaced by envelopes when possible, clothes were wrapped in brown paper, the number of shipments decreased, and items were grouped. Other changes included shipping items to a neighbourhood store for customer pick-up and making numerous other adjustments in a short time. Encouraging a company to adopt environmentally-friendly practices is challenging, but e-commerce companies embraced these strategies because they aligned with their interests.&lt;/p&gt;
+
+&lt;p&gt;This prompted me to think about design interventions that could benefit the company, customer, and environment. A few ideas immediately came to mind that e-commerce companies could implement:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Allow users to specify their preferred packaging for the products they order.&lt;/li&gt;
+  &lt;li&gt;Let users indicate if they need their items urgently or are willing to wait for grouped deliveries with others in the area, enabling the packaging department to avoid always defaulting to the “safest” option.&lt;/li&gt;
+  &lt;li&gt;Food delivery companies can improve the value-per-mile metric for their delivery personnel by allowing them to collect used plastic containers from customers, streamlining recycling efforts.&lt;/li&gt;
+  &lt;li&gt;Offer subscription options for frequently ordered products, optimising delivery routes and making them more predictable.&lt;/li&gt;
+  &lt;li&gt;Allow users to inform product manufacturers of their preference for eco-friendly alternatives, which could encourage manufacturers to develop such options if there is sufficient demand.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These are five ideas with me spending a few hours thinking about the problem. Imagine the possibilities if designers everywhere also focussed on this problem. And that’s the main call to action in this rule.&lt;/p&gt;
+
+&lt;h1 id=&quot;rule-8-design-for-delight-not-for-addiction&quot;&gt;Rule #8: Design for delight, not for addiction&lt;/h1&gt;
+
+&lt;p&gt;Design is an incredibly powerful tool that can help achieve any goal. There have been numerous shows and documentaries highlighting how design can make applications addictive. It is possible to devise countless ways to captivate users, keeping them glued to your application. The primary benefits of this approach are pushing more ads to users or spying on them to build a profile for sale to the highest bidder. However, these are shortsighted goals and tactics. Awareness is growing among people, who now understand that if the product is free, they themselves are the product.&lt;/p&gt;
+
+&lt;p&gt;Moreover, there is a trend towards paying for software nowadays, as demonstrated by the growth of SaaS products, consumers’ willingness to pay for digital content on platforms like Netflix, Apple+, and others, and the increased use of cloud-only products such as the popular design tool Figma. Such services depend less on ad revenue and more on providing quality products and delightful experiences.&lt;/p&gt;
+
+&lt;p&gt;Users of these services have demonstrated that they are not only willing to pay for quality products and services but will also remain loyal to the company long-term. This contrasts with the software of the past, which would be uninstalled as soon as users had finished their intended tasks. In an era when the cost of acquiring customers is skyrocketing, wouldn’t you prefer to be the one retaining customers for the long haul?&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Ethics encompass the principles and values that guide human behaviour and decision-making, with a focus on concepts such as fairness, justice, and moral obligation. Ethics inspire individuals and organisations to contemplate the wider implications of their actions on others and the environment. By embracing these values, we can forge the kind of societies in which we yearn to live.&lt;/p&gt;
+
+&lt;p&gt;As UX designers, we now hold immense power and the capacity to shape the digital worlds we increasingly inhabit. It is time for us to take responsibility for our actions, learn from the best practices, and strive to create a positive impact that fosters long-term well-being. Let us seize this opportunity, embrace our ethical obligations, and design a brighter future for all.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 May 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/about-bundler/</link>
-        <guid isPermaLink="true">http://localhost:4000/about-bundler/</guid>
+        <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</guid>
+        
+        <category>ux</category>
         
         
-        <category>Jekyll</category>
+        <category>Ideas</category>
         
       </item>
     
       <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
+        <title>Fixing Censorship with Web3</title>
+        <description>&lt;p&gt;It’s important to keep striving for better models of censorship that can benefit society without infringing on individual rights and freedoms.&lt;/p&gt;
 
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Censorship has been around as long as information has been recorded and shared. Different groups, including religious authorities, governments, and corporations, have used censorship as a way to control what people can see and hear, sometimes for legitimate reasons but often to influence public opinion in their favour. It’s important to keep striving for better models of censorship that can benefit society without infringing on individual rights and freedoms.&lt;/p&gt;
+
+&lt;p&gt;The emergence of both Web3 and AI presents an opportunity to find new solutions to this problem. These two fields intersect and could potentially lead to innovative approaches that balance the need for censorship with respect for individual liberties. The following is such an idea.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-need-for-a-redesign&quot;&gt;The Need for a Redesign&lt;/h1&gt;
+&lt;p&gt;The shortcomings of the current censorship system have led to a demand for a new approach. To illustrate this, consider a tech company that creates a massive social media platform with over a billion users across several countries like Twitter or Facebook.&lt;/p&gt;
+
+&lt;p&gt;On this platform, let’s take one example of a video that was actually posted by a user that depicted the burning of an American flag. This is very likely to offend some users who may hail from the country that the flag represents. The offended users have a few options at their disposal. They may respond to the initial post and ask the user to take down the post because they’re offended, or, they may report the post to the platform for being offensive. The platform then decides whether the post is required to be taken down.&lt;/p&gt;
+
+&lt;p&gt;Then some form of the following decision tree ensues within the department of the social media platform in charge of handling such user reports:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Is the post in line with the published set of standards related to posting content on the platform?&lt;/li&gt;
+  &lt;li&gt;Was the first user right to post the content?&lt;/li&gt;
+  &lt;li&gt;Was the second user right to be offended by the content?&lt;/li&gt;
+  &lt;li&gt;Is the offensiveness “sufficient” to warrant the removal of the post?&lt;/li&gt;
+  &lt;li&gt;How much of a political or economic backlash will the platform face if it chooses to leave the post online or take it down?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Consider another example that occurred more recently. The artist Lindsay Mills shared a photo of her baby on various social media platforms. The photo showed the mother and baby, with only the baby’s butt visible. While some platforms allowed the photo to remain, one platform not only removed the post but also banned Mills’ account. This decision was made by an algorithm without human involvement, and appeals to restore the account were unsuccessful. The incident gained attention because Mills is married to Edward Snowden.&lt;/p&gt;
+
+&lt;p&gt;These examples demonstrate the gray areas surrounding censorship, as society was divided on the appropriate course of action in each case. They highlight the problems with the mechanisms behind censorship, as corporations hold significant influence over society but are not elected to make these decisions.:&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the following questions arise:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Will the platform make a decision based on standards that have been clearly published?&lt;/li&gt;
+  &lt;li&gt;What was considered during the setting of these standards?&lt;/li&gt;
+  &lt;li&gt;Who was involved in setting these standards? Were the people that weighed in on the standards representative of the population of users that will eventually use it or was it more representative of the standards of the corporation and where it was founded?&lt;/li&gt;
+  &lt;li&gt;Should the standards be the same across geographies and cultures? Is it a lowest-common-denominator approach that is safe for all or were other factors taken into account for setting these standards?&lt;/li&gt;
+  &lt;li&gt;What is the basis for judging whether the content that clearly lies in the grey areas should be taken down or not? Is it simply how large a body of people it offends? How is the voice expressing the minority opinion protected?&lt;/li&gt;
+  &lt;li&gt;Do these standards change based on who the audience is, by age, by gender, by their own level of maturity? Can a user have control over what they want to be able to see or not?&lt;/li&gt;
+  &lt;li&gt;Can I make up my own mind after exposure to the said content?&lt;/li&gt;
+  &lt;li&gt;Does it evolve as a society’s views on issues change over time? What doesn’t change?&lt;/li&gt;
+  &lt;li&gt;How does the platform handle pressure from external entities such as influential people, large groups or even governments of countries? What are the concessions it will make in this regard?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The platform cannot avoid adopting a specific political viewpoint because there’s no way around it. But if it holds any political leaning too strongly, it may loose users to rival platforms that do the same thing but only differ in their political ideologies. This is exactly what happened when Twitter decided to de-platform Trump. The problem with this then is it creates echo chambers where users are surrounded only by people that agree with them and view anyone with an alternative viewpoint as the other. We loose the public town squares where ideas are debated which is essential to building stable societies with moderate political leanings instead of societies that may erupt into civil wars at any moment.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, we are entrusting the responsibility of making decisions beneficial for society as a whole to a corporation whose sole purpose is generating profits for its shareholders. The mechanism does not allow for the consideration of societal well-being, as corporations must prioritise profits and their ability to sustain losses in a confrontation with political figures or governments pressuring them to make specific decisions. A single misstep can lead to lawsuits that could bankrupt the company.&lt;/p&gt;
+
+&lt;p&gt;When did it become a tech company’s responsibility to determine censorship implementation on a platform? Why do we accept this as the only approach when tech companies have consistently demonstrated their inadequacy in handling the responsibility of building good societies?&lt;/p&gt;
+
+&lt;h1 id=&quot;a-decentralised-solution&quot;&gt;A Decentralised Solution&lt;/h1&gt;
+&lt;p&gt;A more effective approach would be to begin with the recognition that free speech is a fundamental right for all individuals. From this foundation, the solution should not focus on prohibiting certain forms of expression, but rather on preventing individuals from encountering offensive content. Although the distinction may appear subtle, the solutions for each approach differ significantly. By focusing on the latter, several benefits arise, as outlined below:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The fundamental right to freedom of speech is maintained with no one being de-platformed&lt;/li&gt;
+  &lt;li&gt;The user can control what they want to be exposed to or not be exposed to on an individual level and it can change over time on an individual basis&lt;/li&gt;
+  &lt;li&gt;No other individual or entity dictates the standards for determining what someone should or should not be exposed to&lt;/li&gt;
+  &lt;li&gt;This system cannot be corrupted by external forces putting pressure on any single body&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While researching how a solution for this could work, the movie industry stood out as having a model that we could build upon. The film industry rates movies with suitability ratings like “PG-13,” indicating whether it’s appropriate for viewers aged 13 or older, and streaming services like Netflix provide additional information such as “Contains adult themes” or “Has crude humor” to help audiences make informed decisions. Even if two audiences are demographically identical, they may choose differently based on their preferences. This model has been effective in movies, so what if it was applied to content on the internet with the necessary modifications?&lt;/p&gt;
+
+&lt;p&gt;One potential approach is to assign tags to all posts on a fictional social media platform that describe the content. Viewers could then apply filters based on these tags to allow or prevent the content from appearing in their timeline. This central idea serves as the starting point for outlining how such a system could operate.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-1-tagging-the-content&quot;&gt;Step 1: Tagging the content&lt;/h2&gt;
+&lt;p&gt;While AI models had to be trained to properly identify content in the beginning, the models have become pretty good at this task today. Now the model can be tested against the content to produce the right tags in the content. This is true for text, audio or video based content and across languages. So in the first pass, any new content that’s posted on a platform can be processed through AI models first to create a tag cloud for the content.&lt;/p&gt;
+
+&lt;p&gt;Tags can be improved upon by groups of people post the initial stage to provide an additional layer of meaning through the lens of different individuals. This should happen over time as well so as to not allow the meaning of the content to stagnate in time as the same content could change its relevance at a different point in time.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-2-setting-up-filters&quot;&gt;Step 2: Setting up filters&lt;/h2&gt;
+&lt;p&gt;On the receiving end of the content pipeline, the users need to mark content that they find offensive. But this process could be explicitly done with the user flagging some content as offensive, but also could be done through observing the viewing patterns such as the user scrolling past the content faster than they do on other content or hitting the ‘skip’ or ‘stop’ buttons on videos. One may argue that platforms like YouTube are already doing some version of this, but there are two big differences. Firstly, the data is maintained in a silo on the YouTube servers and not by the users themselves. Secondly, the goal of these platforms is self-serving and to increase viewership on the platform, not to do what the user wants.&lt;/p&gt;
+
+&lt;p&gt;While the above process gets better over time, users could also adopt filter sets from other pre-built filters created by people they trust, as starting points for their own filters to achieve immediate relief. This set then gets modified with the users own interactions with various platforms over time using on-device AI engines that are becoming more and more prevalent.&lt;/p&gt;
+
+&lt;h2 id=&quot;step-3-viewing-content&quot;&gt;Step 3: Viewing content&lt;/h2&gt;
+&lt;p&gt;This is probably the simplest part. There can be timelines titled “For You” which is a view that applies the preference filters on the content being viewed and a second timeline titled, “Unfiltered” which shows all the content on the timeline if the user so wishes. This again is not even a new mechanism as most content platforms already use such devices.&lt;/p&gt;
+
+&lt;h1 id=&quot;a-solution-for-the-age-of-ai-and-web3&quot;&gt;A Solution for the Age of AI and Web3&lt;/h1&gt;
+&lt;p&gt;While thinking through the solutions here, it was clear that the solution to the problem of censorship is not based on the imagining of technologies that don’t yet exist but the repurposing of those that already do. So why hasn’t it been done yet? I believe there are two reasons. Firstly, as anyone in software can tell you, the higher the amount of input you require from a user, the lower it’s adoption rate is going to be. So a self-learning system like AI or ML was necessary to exist for this to work otherwise it would have been humanly impossible to build a system that works. Secondly, the filters and learnings that a company like YouTube would develop about it’s user’s preferences were guarded as intellectual property of the company and not shared with even the user. So a decentralised system like Web3 needed to exist for such a system to work across the web.&lt;/p&gt;
+
+&lt;p&gt;We’re living in some really interesting times when these kinds of ideas will suddenly come to life because of the fertile ground created by AI and decentralisation that have culminated to put the user at the centre of the technological universe.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;There are obviously a lot more steps and nuances to consider when building this system, for example, how would such a system work for children and those that are not as tech savvy or even handle content that is clearly illegal across all nations. But I’m sure there are smarter people that could propose better ideas based on the foundation that has been proposed here. I just didn’t want to write an article pointing out all the problems without at least proposing a potentially better solution. If you are interested in discussing any of the ideas proposed here a little further, please do reach out.&lt;/p&gt;
+
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/we-all-wait-for-summer/</link>
-        <guid isPermaLink="true">http://localhost:4000/we-all-wait-for-summer/</guid>
+        <pubDate>Tue, 28 Feb 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/censoring-censorship/</link>
+        <guid isPermaLink="true">http://localhost:4000/censoring-censorship/</guid>
+        
+        <category>opinion</category>
+        
+        <category>decentralisation</category>
+        
+        <category>web3</category>
+        
+        <category>design</category>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Ideas</category>
         
       </item>
     
       <item>
-        <title>Tree of Codes</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+        <title>Seven Structural Elements to Keep in Mind for Web3 UX Design</title>
+        <description>&lt;p&gt;The structure of web3 influences the design of the applications&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b1EKFhTJfdk?si=4zbUpZP9iV4fz326&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Web3 is a decentralised internet powered by cryptography and blockchain technology that allows for transacting with any entity in the world without the need for trusted middle men. It has specific uses in fields where having a trusted third-party middleman may prove to be corruptible, inefficient or expensive. But far too often UX designers are starting from equivalents in Web2 creating poor user experiences.&lt;/p&gt;
+
+&lt;h1 id=&quot;unique-elements&quot;&gt;Unique Elements&lt;/h1&gt;
+
+&lt;p&gt;There are several effects that the difference between these two structures affect the UX of applications built on top and the following are some main differences that UX designers must account for while designing Web3 applications:&lt;/p&gt;
+
+&lt;h2 id=&quot;1--decentralisation-is-slow-and-expensive&quot;&gt;1.  DECENTRALISATION IS SLOW AND EXPENSIVE&lt;/h2&gt;
+
+&lt;p&gt;Since nodes in Web3 are distributed and are of different technical capabilities, data transmission across the network takes a lot of time compared to centralised systems. These processes can cause delays on the application layer, making them slow and expensive. In order to combat this, transactions are bunched up together before being written to the blockchain as a single write operation if far less expensive than several transactions writing the same amount of data.&lt;/p&gt;
+
+&lt;p&gt;It’s therefore essential for a UX designer designing applications to decide which data needs to be written to the blockchain and also when in a user’s sessions that needs to happen. For instance, in building a decentralised version of Instagram, would you record every “like” of the user as they occur, or collect all of them and commit them only at the end of the user’s session?&lt;/p&gt;
+
+&lt;p&gt;Many applications also adopt a Web2.5 design approach, where less critical interactions such as “likes” are stored on a centralised server for faster processing, while more critical data, such as who posted which picture, is written to the blockchain.&lt;/p&gt;
+
+&lt;p&gt;But there may other approaches that suit your applications and the right solution would entirely depend on the specifics.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-the-blockchain-has-the-data&quot;&gt;2. THE BLOCKCHAIN HAS THE DATA&lt;/h2&gt;
+
+&lt;p&gt;One of the most surprising ideas to me was that in the Web2 world, an application typically includes both a front-end and a back-end/storage layer delivered as an app. However, with data and storage openly available on a blockchain, the user interface and user experience &lt;strong&gt;is&lt;/strong&gt; the application. This means that someone else could write a new UX layer for the same data, and the user could choose which application they prefer, losing nothing when switching between apps.&lt;/p&gt;
+
+&lt;p&gt;So, what’s the knock-on effect of this? It makes the UX layer super competitive, and the quality of experiences will only improve going forward. The app no longer stands for how well it manages to hoard and guard user data, but rather how good the experience and community behind it are.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-its-community-owned&quot;&gt;3. IT’S COMMUNITY OWNED&lt;/h2&gt;
+
+&lt;p&gt;Unlike products and services in Web2 that are owned by corporations driven by the interests of investors and shareholders, Web3 has “projects” and “protocols” that are owned by communities, not individuals, due to the philosophy of decentralisation.&lt;/p&gt;
+
+&lt;p&gt;While there are participants attempting to amass wealth rather than distribute it to the community, more and more projects are evaluated on their decentralisation and ownership distribution. This impacts how things are designed because in traditional Web2 UX design, a good designer tries to balance the user’s needs against the needs of the company. However, in Web3, the success of the project is aligned with its users, as they hold the tokens and assign them their value.&lt;/p&gt;
+
+&lt;p&gt;With data no longer locked into an app residing in a database, it brings honesty to the equation. Apps that prioritise user interests will win in the future. App that use dark UX patterns to deceive users will not be successful in Web3.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-no-communication-channels-exist-yet&quot;&gt;4. NO COMMUNICATION CHANNELS EXIST, YET&lt;/h2&gt;
+
+&lt;p&gt;In Web3, there is a lack of email or chat communication tools for peer-to-peer communication, and there is no de-facto protocol that can be assumed to be universally subscribed to such as email in Web2. Although tools like Push protocol and EthMail exist, they are not yet widely used and cannot be relied on for communication. This means that if someone buys something from your Web3 marketplace, there is currently no way to follow up with them to update them on the status of their purchase or to fix any issues, and they must come back and check with you.&lt;/p&gt;
+
+&lt;p&gt;Asking for their email address is not always an option, as it could compromise their pseudonymity, allowing you to connect their email address to their wallet and potentially uncover all their blockchain activities. Therefore, it is important to design around this depending on the context.&lt;/p&gt;
+
+&lt;p&gt;What I did on one project where a certain process would take upwards of a few days to complete was to allow the user to download a calendar appointment that stated when they needed to come back and check on the status of this process. You just need to be innovative about how to solve these kinds of problems.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-the-wallet-is-everything&quot;&gt;5. THE WALLET IS EVERYTHING&lt;/h2&gt;
+
+&lt;p&gt;In Web3, everything is based on cryptography using the concept of a pair of public and private keys. This provides users with pseudonymity, but not anonymity, in an otherwise transparent and open world. These keys are essential not only for authorising payments but also for verifying wallet ownership, interacting with smart contracts and linking all purchases to the wallet. Essentially, everything is connected to the wallet.&lt;/p&gt;
+
+&lt;p&gt;However, this user-facing aspect of Web3 is largely unfamiliar to most people. Although it is vitally important to understand, most people do not know what these keys are. Losing or exposing the private key can result in the loss of all assets tied to it. Therefore, this area requires considerable design intervention to help people understand the significance of the keys, the right way to generate key pairs and the proper ways to store and protect them.&lt;/p&gt;
+
+&lt;p&gt;Then comes the usage of the wallet itself. It is used to sign messages from applications to authenticate yourself and also authorise transactions being made on your behalf. But these messages keep popping up with messages asking you permission for something reminding me of the early days of Windows 10 where the user kept getting asked to authorise even the most banal tasks. A lot more polish is required to only seek the user’s attention when you absolutely need it.&lt;/p&gt;
+
+&lt;p&gt;The technology is still so new that sometimes the messages from the underlying stack are exposed to the user, and they are presented with only hexadecimal code, asking them to sign the transactions. Wallet developers have a lot of work to do to make this a lot more user-friendly.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-smart-contracts-rule&quot;&gt;6. SMART CONTRACTS RULE&lt;/h2&gt;
+
+&lt;p&gt;This is another concept in Web3 that has no equivalent in Web2. Smart Contracts are computer essentially programs that run on a network that was created to enforce an agreement between two parties. This means that two parties can rely on a transaction completing as agreed without the need for third-party guarantors and any associated expenses or delays, making transactions more efficient.&lt;/p&gt;
+
+&lt;p&gt;However, since Smart Contracts are written in code and they can be difficult for people to understand. Although the code behind these contracts can be viewed on blockchain explorers, more work needs to be done to make them accessible to the mainstream. When this happens, it will revolutionise everything!&lt;/p&gt;
+
+&lt;h2 id=&quot;7-censorship-is-done-differently&quot;&gt;7. CENSORSHIP IS DONE DIFFERENTLY&lt;/h2&gt;
+
+&lt;p&gt;In Web2, platforms that are owned by individuals or a small group have another problem in that they are also held responsible for implementing the censorship on them. In theory this sounds okay and the obvious thing to do, but if you explore this question more closely, there are many problems with this supposition:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;They may very well be ill-suited to doing the job and may end up censoring things that shouldn’t have been censored excluding ideas that shouldn’t be excluded.&lt;/li&gt;
+  &lt;li&gt;They have no option but to impose their world views on their systems and if they have a very large world-wide user-base, they will essentially be imposing their views on all of them superseding what’s culturally right.&lt;/li&gt;
+  &lt;li&gt;Because they’re a central authority that can make these changes, they may be pressured by external individuals or groups to impose censorship that they themselves may not agree with.&lt;/li&gt;
+  &lt;li&gt;There is always the question of “But what about the children?” that sneaks into every conversation about censorship and since there’s no argument against that, the lowest common denominator is set as the bar.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The political leanings of a platform have been the reason for new ones to be setup creating silos and echo chambers that only confirm your already held beliefs without public discourse or the meeting of minds in the middle. This technology has the potential to fracture societies instead of bringing them together.&lt;/p&gt;
+
+&lt;p&gt;Web3 has a different architecture that does not have central authorities that can censor others, making it a haven for free speech absolutists. Adults who believe they should be exposed to all kinds of ideas to progress in life can do so without censorship. For individuals who want a certain level of censorship, they can choose to use a filter and block certain types of content. This step allows individuals to make their own choices without resorting to drastic measures of stifling someone’s voice or de-platforming them. Although it is not a whole solution, it is a step in the right direction. A lot of work has to be done in this field in terms of making this UX better.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;A decentralised internet can solve a lot of the issues that plague the world right now and give rise to new ways of interacting with others around the world. For this to become a reality, it needs mass adoption and the only thing stopping it is the complexity. User Experience designers can make a huge difference to adoption by making things much simpler for the everyday user. So if you’re a designer on this journey, kudos to you, you’re making a huge difference to the world.&lt;/p&gt;
+
+&lt;p&gt;However, things need to be evaluated from the ground up based on the underlying decentralised architecture in order to deliver superlative experiences that are either at par or even better than the Web2 versions as this is indeed possible.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/Seven-Structural-Elements-to-Keep-in-Mind-for-Web3-UX-Design/</link>
+        <guid isPermaLink="true">http://localhost:4000/Seven-Structural-Elements-to-Keep-in-Mind-for-Web3-UX-Design/</guid>
+        
+        <category>ux</category>
+        
+        <category>web3</category>
+        
+        <category>decentralisation</category>
+        
+        <category>design</category>
+        
+        
+        <category>Ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Six Ways to Supercharge the UX of Web3 Wallets</title>
+        <description>&lt;p&gt;Wallets are the entry point to web3 and they shoulder a huge responsibility&lt;/p&gt;
+&lt;h1 id=&quot;lets-set-the-context&quot;&gt;Let’s Set the Context&lt;/h1&gt;
+
+&lt;p&gt;The debate surrounding ideal ways to organise societies is nearly as old as there have been people on this planet. We’ve gone from small bands of people living as hunter-gatherers whose primary concern was survival, to settlements centred around agriculture, which then formed countries whose primary concern became security.&lt;/p&gt;
+
+&lt;p&gt;Because of the labour surplus created by each successive organisational structure of society, individuals gained more time to focus and specialise since they were able to depend on other members for the things necessary for their survival instead of having to produce it themselves. For example, the hunter-gatherers had to do the hunting, sheltering, protecting, entertaining, sewing, medicating and child-rearing all by themselves, leaving them little time in the day to focus on figuring out the science behind space travel; whereas today, I can write this article without worrying about hunting a boar to feed myself later. Interestingly, this specialisation of individuals has allowed the group to flourish and grow and this has spurred people on to develop even more focussed skillsets.&lt;/p&gt;
+
+&lt;p&gt;On a side note, one of my favourite quotes is that of Robert Heinlein’s where he’s defining the “competent man” as I do feel a fuller perspective is useful. But it’s also special to me because it highlights how rapidly society has changed in the 50 years since it was coined!&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.”&lt;/p&gt;
+
+  &lt;p&gt;— Robert Heinlein, Author&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;But while constructing societies around specialisation has obviously been beneficial, it hasn’t been without its flaws. There are still gross inefficiencies, inequities and injustices in any sizeable society. One may be tempted to blame it on corruption, but I think of it as a symptom and not the cause because it’s extremely hard to align any large group of people along a common goal — ask anyone who’s tried to arrange a dinner for a group! You try to select the restaurant that the majority prefer, or the most neutral place, or simply the boss’s favourite eatery — but none of these are going to satisfy the desires of the whole group and is bound to leave someone dissatisfied. While these strategies may be okay to apply in the case of planning dinners, they are problematic if used for anything more important; but these are also the models for the distribution of wealth, voting rights, laws to guide society, etc.&lt;/p&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;The problems with organising societies based on majoritarian or authoritarian models are not new. They usually leave minorities without a voice and positive evolution takes a much longer time to take effect. Moreover, they enable a few of those in power to not just unduly enrich themselves, but to also change laws and processes that benefit them greatly. And far too often, there is discord between factions of people (domestically or internationally) so those in power are portrayed as necessary to maintain the peace. We allow these paradigms for societies to exist because we believe there isn’t a better way. But that’s an assumption based on the technologies of the past. However, technology has evolved and it’s time to reconsider our long-held beliefs.&lt;/p&gt;
 
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/tree-of-codes/</link>
-        <guid isPermaLink="true">http://localhost:4000/tree-of-codes/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;p&gt;To develop a better model for societies, you need three things — the first is a way to organise groups around a common goal to achieve the things that can’t be done as individuals; second, a method to transact with other individuals in a trustworthy way so we don’t have to use violence as a method of resolving disagreements; and third, a foolproof system of owning property that allows us to benefit from the fruits of our labour. It wasn’t possible to provide these privileges without relying on central power structures to enforce them. Those in charge of these power structures (either through divine decree or as elected officials) used a varied set of tools like organised religion, currencies, laws, public relations and censorship to keep societies compliant and under control. When they weren’t able to do so with some individuals, they resorted to their usurped monopoly on violence to impose that control.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;I once heard the line in a movie: “Geography is destiny, my friend”, and it struck me as the fundamental definition of life for a lot of us. It’s purely the luck of the draw and far too few have opportunities to change them.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;The world of cryptography, blockchains and cryptocurrencies is one where trustless architectures are laying the foundations that will enable the reorganisation of societies in any number of ways that we may wish. These technologies allow for individuals to hold custody over their currencies on their own; organise themselves into groups, vote to perform a certain action and immediately disband thereafter; recognise efforts put in by people who participate in developing “public goods” that benefit society and many others. And if the crypto world can achieve what it has set out to, societies may never be organised around geographies again and instead be driven by ideas and philosophies. One could even belong to more than one society at a time if they chose to. How amazing would that world be?&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/red-riding/</link>
-        <guid isPermaLink="true">http://localhost:4000/red-riding/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
+&lt;h1 id=&quot;now-the-design-stuff&quot;&gt;Now, the Design Stuff&lt;/h1&gt;
 
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
+&lt;p&gt;If you’ve navigated through the sociology nerd forest above and are still reading this, you may be wondering what all that has to do with Web3 wallets. Well, I’ve always believed that any good UX designer has to understand the context they’re designing within as well as possible.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
+  &lt;p&gt;“Always design a thing by considering it in its next larger context — a chair in a room, a room in a house, a house in an environment, an environment in a city plan.”&lt;/p&gt;
+
+  &lt;p&gt;— Eliel Saarinen, Architect&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
+&lt;p&gt;Web3 wallets are the first things anyone who is interested in becoming a part of the decentralised world will be exposed to. So it’s important to understand what its role is in the bigger picture before designing it otherwise your work will always be incremental.&lt;/p&gt;
 
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
+&lt;p&gt;Having been first exposed to cryptocurrencies back in 2016, I’ve made mistakes, understood and overcome many of the technical limitations placed on me by the tech involved. I am now in a position to list improvements that will have the greatest impact on improving the user experience of these wallets and I’ve boiled it down to the following six areas:&lt;/p&gt;
 
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Education and awareness&lt;/li&gt;
+  &lt;li&gt;Security&lt;/li&gt;
+  &lt;li&gt;Daily usage&lt;/li&gt;
+  &lt;li&gt;Motivation for usage&lt;/li&gt;
+  &lt;li&gt;Taxation management&lt;/li&gt;
+  &lt;li&gt;Preferences management&lt;/li&gt;
+&lt;/ol&gt;
 
+&lt;p&gt;Let’s get into each of these in detail below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*VvxeiUlxaXoJ3Uf2&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@kellysikkema?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Kelly Sikkema&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-1-education-and-awareness&quot;&gt;Focus Area #1: Education and Awareness&lt;/h2&gt;
+
+&lt;p&gt;In my crypto-related conversations with people over the years, I’ve found that there are specific questions that most seem to have before they feel comfortable enough to dive in and learn the concepts themselves. The following are topics we need to cover whether through simple FAQs, orientation videos and/or interactive experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;How can cryptocurrency be better than fiat?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Incremental benefits will not captivate anyone. We need to find a way to explain why cryptocurrencies and decentralised apps are 10X better than the fiat equivalents. We need to:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Explain why decentralised money is better than allowing a select few to decide what’s good for everyone else.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Show how no one will be able to confiscate them for reasons as trivial as “the home address on record hasn’t been updated in a while”.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Talk about the layers of people that are involved in traditional banking and how their salaries translate to the fees they apply on allowing us to perform even the most basic of transactions with our own money.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Highlight the convenience of being able to transact with anyone instantaneously, without restrictions, and for a very small fee.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Illustrate the benefits of being able to carry our capital anywhere in the world without any kind of constraints.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What are the benefits of using Web3?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No one will use something if they don’t understand the reasons for doing so. Once the benefits of decentralised currencies are understood by our users, we need to explain the advantages of Web3 dApps.&lt;/p&gt;
+
+&lt;p&gt;Here, we can highlight the obvious privacy benefits, the ability to carry our social network with us across platforms, the capacity to earn from anywhere, new job opportunities (including the ones for non-techies, which is usually a surprise to most) in the space and new business models that can help launch entirely new services and products that have not yet been built.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;What exactly are these Web3 concepts?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We need to create a glossary of terms and concepts that explains all the ideas that one needs to understand in order to use a Web3 wallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Are there security measures in place?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the biggest fears is about security and the potential of losing money. We should build interfaces that take users step-by-step through the security measures that they need to take in order to secure themselves on the decentralised web. This section can also be updated on an ongoing basis if new threat vectors are found.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;There’s no substitute for real sandboxes, is there?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s face it, there’s no substitute to actually using the wallets and sending and receiving our first transactions for us to get the hang of using it. We must create sandboxes in which people can send and receive test tokens to simulate the real environment that they are working with. This should be as real as possible, including the ability to send and receive test tokens from friends.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversation, anyone?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This has been one of the best ways to learn about crypto for me. I can ask the questions that aren’t covered by videos, discussion threads, FAQs or the like to figure out exactly what we need to do. Wallets should have interfaces where such conversations can take place because asking someone to jump on Discord isn’t really a good alternative.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*bKZv1FWAqIjmcuDi&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@fantasyflip?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Philipp Katzenberger&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-2-security&quot;&gt;Focus Area #2: Security&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest hurdles to adoption are the fears about security — security of key generation and management, recovery methods, volatility of currencies and, of course, scams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Seed Phrases&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While seed phrases have come a long way in simplifying the generation of private and public keys, it could be further eased by allowing users to specify their own words. They could then try to form sentences that will help with better recall if it ever becomes necessary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Key Management&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s a common phrase in the crypto world that goes: “Not your keys, not your crypto”, that encourages people to get off centralised exchanges and store their crypto on their own in cold wallets. But counterintuitively, it’s even more frightening to the everyday user because most of them don’t feel qualified enough to manage their own keys. This is a crucial area that needs to be addressed and solutions like those being developed by the likes of Arcana could help alleviate this problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Recovery Methods&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Forgetting to store your keys is an all-too familiar problem as evidenced by the number of support calls on Coinbase about retrieving access to wallets because the users no longer remembered where their keys were. Good UX is forgiving and allows for people to recover from mistakes. So developing good and secure ways to regain wallet access is a necessity. There are several proposals for doing this, each trying to solve the problem for a certain type of user because there really isn’t a one-size-fits-all solution.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Assistance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Users that are unfamiliar with crypto wallets should be able to seek assistance from their family or friends. They could also appoint them as “guardians” who jump in to verify transactions in case the payment is an unexpectedly high amount or is being performed on an unsafe website or dApp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scams&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Unfortunately there are rug pulls and cons all the time on the web — something about the anonymity seems to bring out the worst in some people. However, the wallet can take on the role of notifying users that they are operating on a website, a dApp or a wallet that’s been reported for scams by others. There are lots of details to wade through here to make this successful, but this is the higher-order bit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*Q2eH6YV78--HHhzl&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@rupixen?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;rupixen.com&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-3-daily-usage&quot;&gt;Focus Area #3: Daily Usage**&lt;/h2&gt;
+
+&lt;p&gt;The greatest impact will lie in UX refinements in the parts of the wallet that are used frequently. This includes making payment for purchases made, receiving of funds, buying things, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Payments&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the primary use of most wallets, but it’s too complex primarily because of wallet addresses. We will need to focus on ways to make it as easy as sending payments on Venmo or Google Pay where the transfer of money takes place using people’s names or phone numbers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Receipts&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Receiving money is usually a four-step process where we have to first determine the currency to be used, share the appropriate wallet address next, then specify the amount that needs to be transferred and finally verify if the right amount was received. Simplification? Yes, please! Ethereum Name Service has taken a good vital first step, but wallets could go further in making this even easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the future, people may hold coins/tokens of various projects that they would like to support. But these coins and tokens will be superfluous when transacting with each other. The receiver will specify which coin/token they want to receive the payment in and the bridging between chains and tokens will need to be taken care of without the user’s intervention or awareness.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Volatility&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;People are also apprehensive of the volatility in the crypto world. In everyday usage, this is mainly caused by the denominator (typically USD) that is used to display the balance in wallets. However, our bank balances are not constantly showing us what the value is in another currency so why do we do this with our crypto wallets?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Transaction Fees&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sometimes, a big deterrent to performing transactions is the sky-high fees charged when the network is busy. There are lots of transactions that aren’t time-sensitive, such as moving funds between the user’s many wallets, settling bills between friends, and others that can actually wait to be done at a less expensive time. But there aren’t simple solutions to allow these to happen.&lt;/p&gt;
+
+&lt;p&gt;The solution currently is to either try the same transaction at another time when the network isn’t as busy and expensive, or to try and fiddle with the settings to set a lower gas fee. These are not ideal as firstly, the fees a user may be willing to pay may occur several days later on the network and may require multiple attempts. Secondly, most people aren’t savvy enough to understand what the right settings for gas fees need to be and trial and error is sometimes more expensive than actually paying the fee amount that was being charged earlier.&lt;/p&gt;
+
+&lt;p&gt;In addition to the features available today, users should also be able to simply set the price they are willing to pay and allow the transaction to occur whenever the network fees drop to that point. The wallet could let the user know if the fees set are so low as to be impractical and never occur.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*xhQj6PbWbmZvbixz&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@mbaumi?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Mika Baumeister&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-4-motivation-for-usage&quot;&gt;Focus Area #4: Motivation for Usage&lt;/h2&gt;
+
+&lt;p&gt;Just holding the coins or tokens isn’t going to be enough to build mass adoption. We need to encourage users to utilise their tokens too. The following are some ways to help them to do so.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shopping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While it may not be the case in the future, the need of the hour is for people to understand where they can spend this money that they are accumulating. Knowing that they can purchase domains, pay for utilities or even spend it on pizza will help them to understand that cryptocurrencies aren’t just meant to be held but used.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Investing Easily&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Undoubtedly, if the currencies held in a wallet can earn you money while they just sit there, it’s a big draw. Investments in DeFi should be made simple through an integration with the wallets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*KUa8oB5q51cqPBn0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@kellysikkema?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Kelly Sikkema&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-5-taxes&quot;&gt;Focus Area #5: Taxes&lt;/h2&gt;
+
+&lt;p&gt;Once regulation is more solidified, the role of the wallet in enabling tax filing and management starts to become important.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Simplifying Taxes&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The wallets will need to handle more complex things like whether a transaction is taxable or not; for example, what if the user gets a virtual sword instead of tokens when trading, or what if I swap one NFT for two others? These and other questions will need to be managed by wallets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tax Guide&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The wallets can also start to inform users of transactions that will incur high taxes compared to others that are tax beneficial. No tax consultant today can do this stuff and has therefore &lt;em&gt;got&lt;/em&gt; to be handled by the wallets based on the regulations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*GzUqlylQOQrBLMqL&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@stenslens?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Sten Ritterfeld&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;focus-area-6-preferences&quot;&gt;Focus Area #6: Preferences&lt;/h2&gt;
+
+&lt;p&gt;The settings features of wallets today extend only to how the wallet is set up and used — like default currency denominators, themes, languages, etc. But this is the decentralised world after all and the user’s preferences for the entire web and all the dApps are going to be eventually stored in the wallets.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;ZK Proofs&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some dApps will require the user’s preference for light or dark modes so the dApp can adapt to it. But others will need to verify if the user is above a certain age and the wallet will have to share the relevant ZK proof for these kinds of interactions on their behalf.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Censorship Options&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This is going to be another big area of focus. As detailed in &lt;a href=&quot;https://medium.com/arcana-network-blog/the-future-of-censorship-as-we-transition-from-web2-to-web3-419b46a38278&quot;&gt;another article&lt;/a&gt; I’ve written before, users can define their preferences for censorship and subscribe to different filters of the web as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;I. C. D.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While the industry is pretty young, having started in earnest around 2010, and the individuals in it relatively youthful, the demographics of the users will also be changing. Concerns regarding what needs to happen in case of death or permanent incapacitation of the primary wallet holder are springing up now. If the keys or access is not granted to their legal heir, the crypto stored by them are lost forever. Wallets can play a critical role here and enable the funds to be released (all at once or in specified instalments) to the next of kin in such cases.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*iH28b2pVepvg-UMB&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@withluke?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Luke Stackpoole&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;A long time ago, Personal Digital Assistants existed alongside mobile phones and the question of which device will take over the functionality of the other was being asked then. This is similar to the question that’s in front of us today. Will the wallet replace the functionality of the browser or will the browser take over the wallet? I don’t think the answer is any clearer today, but this is why we come to work everyday, isn’t it?&lt;/p&gt;
+
+&lt;p&gt;We are going through the biggest paradigm shift in the technology space since Web 1.0 and the role the wallet is going to play in terms of providing access, protecting users and a whole lot more cannot be overstated. The dream of Web 1.0, to help create a decentralised world had one fatal flaw — it didn’t allow commerce on it then. But we’re able to put the final piece of the puzzle together today through cryptocurrencies and DeFi.&lt;/p&gt;
+
+&lt;p&gt;While the tech is here, the role of user experience design will be extremely important in helping to remove all the complexity and making it ready for mainstream adoption. There’s a very long road ahead, but it’s also filled with opportunities. I hope this article will help to generate ideas and hopefully inspire you to start working in the field of wallets or even something in Web3.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/press-and-education/</link>
-        <guid isPermaLink="true">http://localhost:4000/press-and-education/</guid>
+        <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/six-ways-to-supercharge-web3-wallets/</link>
+        <guid isPermaLink="true">http://localhost:4000/six-ways-to-supercharge-web3-wallets/</guid>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+        <category>web3</category>
+        
+        <category>decentralisation</category>
         
         
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Options for creating a new site with Jekyll</title>
-        <description>&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new &amp;lt;PATH&amp;gt;&lt;/code&gt; installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;myblog&lt;/code&gt;. Here are some additional details:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To install the Jekyll site into the directory you’re currently in, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; . If the existing directory isn’t empty, you can pass the –force option with jekyll new . –force.&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; automatically initiates &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt; to install the dependencies required. (If you don’t want Bundler to install the gems, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --skip-bundle&lt;/code&gt;.)&lt;/li&gt;
-  &lt;li&gt;By default, the Jekyll site installed by &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt; uses a gem-based theme called Minima. With gem-based themes, some of the directories and files are stored in the theme-gem, hidden from your immediate view.&lt;/li&gt;
-  &lt;li&gt;We recommend setting up Jekyll with a gem-based theme but if you want to start with a blank slate, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new myblog --blank&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;To learn about other parameters you can include with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new&lt;/code&gt;, type &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll new --help&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/options-for-creating-new-site-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/options-for-creating-new-site-with-jekyll/</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
+        <category>Ideas</category>
         
       </item>
     
