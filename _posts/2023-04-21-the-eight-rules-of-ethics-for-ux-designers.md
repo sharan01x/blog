@@ -9,8 +9,8 @@ categories:
 tags:
   - ux
 featured: true
-hidden: 
-comments:
+hidden: false
+comments: false
 ---
 Reflecting on the work of many others and my own work within the field, I have distilled the following rules to act as a guide
 

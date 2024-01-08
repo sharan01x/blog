@@ -9,9 +9,9 @@ categories:
 tags:
   - ux
   - opinion
-featured: 
-hidden: 
-comments:
+featured: false
+hidden: false
+comments: false
 ---
 When you have access to tools that provide you unlimited capability, how should these tools be used
 # Introduction

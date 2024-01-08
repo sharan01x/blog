@@ -12,8 +12,8 @@ tags:
   - decentralisation
   - design
 featured: true
-hidden: 
-comments:
+hidden: false
+comments: false
 ---
 The structure of web3 influences the design of the applications
 

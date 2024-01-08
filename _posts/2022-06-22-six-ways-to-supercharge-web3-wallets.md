@@ -11,9 +11,10 @@ tags:
   - ux
   - web3
   - decentralisation
-featured: 
-hidden: 
-comments:
+  - crypto
+featured: false
+hidden: false
+comments: false
 ---
 Wallets are the entry point to web3 and they shoulder a huge responsibility
 # Let’s Set the Context

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Set Things Right</title>
-    <description>Sharan&apos;s Digital Workbench</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jan 2024 15:50:44 +0100</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2024 15:50:44 +0100</lastBuildDate>
+    <description></description>
+    <link>http://localhost:4000/blog//</link>
+    <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 08 Jan 2024 20:05:09 +0100</pubDate>
+    <lastBuildDate>Mon, 08 Jan 2024 20:05:09 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -99,8 +99,8 @@
 &lt;p&gt;The world is yearning for deeper connections. With the power of technology at our fingertips, it’s time to harness it and create platforms that truly bring people together. We must seize this opportunity to build communities, foster companionship, and combat the growing loneliness in our society. It’s time to reimagine dating platforms as platforms that serve this need, where the focus is on meeting good people and forming meaningful connections. Let’s embrace the advancements in AI and recommendation engines to make this vision a reality. We have the tools, the potential, and the responsibility to improve the human connection. It’s time to take action and create a platform that truly changes lives. It must be attempted because it is important to achieve.&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Jul 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/is-there-room-for-another-dating-app/</link>
-        <guid isPermaLink="true">http://localhost:4000/is-there-room-for-another-dating-app/</guid>
+        <link>http://localhost:4000/blog//is-there-room-for-another-dating-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//is-there-room-for-another-dating-app/</guid>
         
         <category>opinion</category>
         
@@ -108,6 +108,140 @@
         
         
         <category>Ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Generative AI Art Experiments</title>
+        <description>&lt;p&gt;Artificial Intelligence (AI) based design tools have captivated our collective imagination in the field of design. Here are my experiments.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Artificial Intelligence (AI) based design tools have captivated our collective imagination in the field of design. Being able to imagine something and bring it to life in the form of an image or video is a tempting prospect. While one part of the design world lamented the fact that these tools may replace our roles, I belong to the small minority that looks at these new technologies with the hope that it would lead to better design. I could after all never call myself a designer if I had never run into Photoshop all those years ago.&lt;/p&gt;
+
+&lt;p&gt;So I dove in head-first into figuring out what this new frontier holds for us. This is an on-going experiment and I am just documenting my learnings as I go along.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If not for Photoshop, I may have never become a designer&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;what-did-i-expect&quot;&gt;What did I expect?&lt;/h1&gt;
+
+&lt;p&gt;While I started exploring this simply out of curiosity, it later was also a business decision as I anticipated that it would help my small team do more. After all we were about to launch a second product at work and I had to find ways to  sustain all of it with the current team size.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I started by trying to find answers to the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;What are the tools that are available?&lt;/li&gt;
+  &lt;li&gt;What’s the learning curve to use these technologies?&lt;/li&gt;
+  &lt;li&gt;How much control do I have over the output?&lt;/li&gt;
+  &lt;li&gt;How much post-processing is required?&lt;/li&gt;
+  &lt;li&gt;Can they produce consistent quality and style over a period of time?&lt;/li&gt;
+  &lt;li&gt;Are the technologies mature enough for everyday use?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;october-2022-ai-based-art-nfts&quot;&gt;October 2022: AI based art NFTs&lt;/h1&gt;
+
+&lt;p&gt;I had heard of AI generated art and was amazed by what I saw in some videos but I had no idea how this was done or how. I happened to run into NFT’s on Rarible at that time and saw this collection of AI based images that someone had made. I was just so amazed with its accuracy that I ended up buying a few of them simply in the hope that I was supporting someone who was working on this and possibly getting flack for not being a true artist.&lt;/p&gt;
+
+&lt;h2 id=&quot;learnings-from-this-phase&quot;&gt;Learnings from this phase:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;AI art is dividing the world into the group that thinks this is art and the group that thinks it isn’t&lt;/li&gt;
+  &lt;li&gt;No one expected AI would set its sights on the creative fields first.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&quot;display: table;&quot;&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-2.webp&quot; alt=&quot;Image 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-3.webp&quot; alt=&quot;Image 2&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;february-2023-midjourney&quot;&gt;February 2023: MidJourney&lt;/h1&gt;
+
+&lt;p&gt;I ran into MidJourney back in late 2022 through a colleague who was using it to create some artwork that I was quite impressed with. I thought to try it out but the version that existed at the time was just not that great with the simple “prompts” I was able to provide it. It took too many tries and much too long to generate something just remotely close to what I wanted.&lt;/p&gt;
+
+&lt;p&gt;I saw others developing images that looked a lot better and saw what they had prompted MJ in order to produce it. I copied one of them that had produced a very cool image of a cat to produce an image of a dog. My dog image had three eyes!&lt;/p&gt;
+
+&lt;p&gt;My attempts at producing human portraits didn’t fare much better. All of them had messed up hands or too many fingers for some reason. I was producing Dali-esque images without intending to.&lt;/p&gt;
+
+&lt;p&gt;I walked away from a two hour session kind of impressed, but feeling that the tech wasn’t there yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;learnings-from-this-phase-1&quot;&gt;Learnings from this phase:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The learning curve was too great as I would never be able to understand all the words and prompts and styles and exclusions if I had to type all of this out&lt;/li&gt;
+  &lt;li&gt;The interface (Discord) was absolutely not the one that I could imagine using to produce images. It was a terrible fit and since I was in a public channel typing out my requests, I felt like I was being watched while I fumbled around trying to produce the output I wanted.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The tech wasn’t there yet, but I saw potential.&lt;/p&gt;
+
+&lt;h1 id=&quot;march-2023-midjourney-v5&quot;&gt;March 2023: MidJourney V5&lt;/h1&gt;
+
+&lt;p&gt;MJ V5 launched this month and I got really interested. This was a big update and they got a whole lot of changes in. They got the hands right, they got faces right, the quality of images was just amazing and the initially released with the Zoom Out feature that essentially imagined the parts of the frame that wasn’t there before and gave images this depth and drama that didn’t exist before.&lt;/p&gt;
+
+&lt;p&gt;The pace of smaller updates thereon has just been incredible and it was time for my team to start experimenting with it. As we had been working on building an NFT collection for use with the main product as rewards, this ability to generate a lot of graphics in a short period of time was important. The challenge was being able to get MJ5 to output the kinds of images that we had been producing until now with Blender.&lt;/p&gt;
+
+&lt;p&gt;The alternative was to produce a new style that worked with MJ5 but that also meant updating all the graphical properties that the company had, including the website, marketing collateral, transactional content and other assets such as NFTs.&lt;/p&gt;
+
+&lt;p&gt;So the team started to work with this and try and achieve our existing styles of artwork with the new tools. However this yielded pretty bad results. There was still a lot of manual effort required to bring the artwork to the same style. So we abandoned this approach and started pursuing the second strategy and came up with a new direction altogether.&lt;/p&gt;
+
+&lt;h2 id=&quot;learnings-from-this-phase-2&quot;&gt;Learnings from this phase:&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The tooling was still not good enough for a designer. It seemed like you can only do a full-image edit and not something specific within it. For that you’d still need tools like Photoshop. Photoshop’s generative fill provides much more control.&lt;/li&gt;
+  &lt;li&gt;Knowing that we can produce the required graphics with such ease suddenly allowed us think about doing sweeping changes that we would never think about doing before. We’re now able to think about updating a website in preparation for a launch event.&lt;/li&gt;
+  &lt;li&gt;I feel that we’re still at a stage where you can still tell when artwork has been produced by AI. It’s just “too polished” and accurate. Not sure what this means as yet, but I’m trying to understand it more.&lt;/li&gt;
+  &lt;li&gt;Stable Diffusion came onto my radar as a platform that provides us more control within the AI generative tools space. So I started exploring that next.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;scribe-characters-created-with-blender&quot;&gt;‘SCRIBE’ CHARACTERS CREATED WITH BLENDER&lt;/h3&gt;
+&lt;div style=&quot;display: table;&quot;&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-4.webp&quot; alt=&quot;Image 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-5.webp&quot; alt=&quot;Image 2&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-6.webp&quot; alt=&quot;Image 3&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;scribe-characters-created-with-midjourney-50&quot;&gt;‘SCRIBE’ CHARACTERS CREATED WITH MIDJOURNEY 5.0&lt;/h3&gt;
+
+&lt;div style=&quot;display: table;&quot;&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-7.webp&quot; alt=&quot;Image 1&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-8.webp&quot; alt=&quot;Image 2&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+&lt;img src=&quot;../assets/images/GenerativeAIArt-9.webp&quot; alt=&quot;Image 3&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 13 Jul 2023 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//generative-ai-art-experiments/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//generative-ai-art-experiments/</guid>
+        
+        <category>technology</category>
+        
+        <category>art</category>
+        
+        
+        <category>Experiments</category>
         
       </item>
     
@@ -172,8 +306,8 @@ ___&lt;/p&gt;
 &lt;p&gt;I think technology is a tool like any other and can be beneficial or detrimental depending on how we use it. It will always lure us with its promise of speed, scale, spread, smarts and asynchrony. While it can improve our lives, indiscriminate employment of it will only result in poor outputs. We must be vigilant about what we employ these tools for. Reduction of effort is a great reason to use technology, but if it can impede our thoughtfulness, it is probably a bad use of it.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Jun 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/better-tools-should-be-better-employed/</link>
-        <guid isPermaLink="true">http://localhost:4000/better-tools-should-be-better-employed/</guid>
+        <link>http://localhost:4000/blog//better-tools-should-be-better-employed/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//better-tools-should-be-better-employed/</guid>
         
         <category>ux</category>
         
@@ -283,8 +417,8 @@ ___&lt;/p&gt;
 &lt;p&gt;As UX designers, we now hold immense power and the capacity to shape the digital worlds we increasingly inhabit. It is time for us to take responsibility for our actions, learn from the best practices, and strive to create a positive impact that fosters long-term well-being. Let us seize this opportunity, embrace our ethical obligations, and design a brighter future for all.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</link>
-        <guid isPermaLink="true">http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</guid>
+        <link>http://localhost:4000/blog//the-eight-rules-of-ethics-for-ux-designers/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//the-eight-rules-of-ethics-for-ux-designers/</guid>
         
         <category>ux</category>
         
@@ -378,8 +512,8 @@ ___&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 28 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/censoring-censorship/</link>
-        <guid isPermaLink="true">http://localhost:4000/censoring-censorship/</guid>
+        <link>http://localhost:4000/blog//censoring-censorship/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//censoring-censorship/</guid>
         
         <category>opinion</category>
         
@@ -478,8 +612,8 @@ ___&lt;/p&gt;
 &lt;p&gt;However, things need to be evaluated from the ground up based on the underlying decentralised architecture in order to deliver superlative experiences that are either at par or even better than the Web2 versions as this is indeed possible.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/Seven-Structural-Elements-to-Keep-in-Mind-for-Web3-UX-Design/</link>
-        <guid isPermaLink="true">http://localhost:4000/Seven-Structural-Elements-to-Keep-in-Mind-for-Web3-UX-Design/</guid>
+        <link>http://localhost:4000/blog//seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</guid>
         
         <category>ux</category>
         
@@ -725,8 +859,8 @@ ___&lt;/p&gt;
 &lt;p&gt;While the tech is here, the role of user experience design will be extremely important in helping to remove all the complexity and making it ready for mainstream adoption. There’s a very long road ahead, but it’s also filled with opportunities. I hope this article will help to generate ideas and hopefully inspire you to start working in the field of wallets or even something in Web3.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/six-ways-to-supercharge-web3-wallets/</link>
-        <guid isPermaLink="true">http://localhost:4000/six-ways-to-supercharge-web3-wallets/</guid>
+        <link>http://localhost:4000/blog//six-ways-to-supercharge-web3-wallets/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//six-ways-to-supercharge-web3-wallets/</guid>
         
         <category>design</category>
         
@@ -735,6 +869,241 @@ ___&lt;/p&gt;
         <category>web3</category>
         
         <category>decentralisation</category>
+        
+        <category>crypto</category>
+        
+        
+        <category>Ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Designing for the Next Billion Users</title>
+        <description>&lt;p&gt;These next big wave of users is coming not from the west but from the young, educated youth of India with access to cheap data plans and speaking many different languages.&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;These next big wave of users is coming not from the west but from the young, educated youth of India with access to cheap data plans and speaking many different languages. This article talks about the design patterns to keep in mind when designing for the next billion internet users.&lt;/p&gt;
+
+&lt;p&gt;Of late, we’ve been working with a few clients that have customer bases in tier-3 and tier-4 cities in India. This trend is an important one to note as it represents a huge population that has so far been untouched by technology. This group is significant for yet another reason because it also represents the migrant populations that travel to bigger cities for work. So we began working on a framework that aims to help design applications for the next billion users.&lt;/p&gt;
+
+&lt;p&gt;To begin with, let’s understand who we are designing for a little better. All the descriptions can be debated but the objective is to describe the majority of users:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The user may be young or old but not very tech savvy.&lt;/li&gt;
+  &lt;li&gt;Smartphones are the first computing platforms they’ve handled.&lt;/li&gt;
+  &lt;li&gt;They use Android phones.&lt;/li&gt;
+  &lt;li&gt;Their income levels could vary quite greatly as this is not a group defined by economics.&lt;/li&gt;
+  &lt;li&gt;They seek technical help from other friends and family members.&lt;/li&gt;
+  &lt;li&gt;They best understand new ideas through metaphorical comparison with real-world concepts.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are a number of dos and don’ts to keep in mind and if we went through all of them, it would simply make for a very long day. So let’s discuss the most important things here:&lt;/p&gt;
+
+&lt;h2 id=&quot;1--using-permanent-positions-for-objects&quot;&gt;#1 — USING PERMANENT POSITIONS FOR OBJECTS&lt;/h2&gt;
+
+&lt;p&gt;In the real world, different objects occupy different spaces. This is starkly different in the digital world where the same area of the screen is occupied by different “objects” at different times. This is a huge hurdle to overcome for a new user. One way to design for this kind of user is to allocate spaces within the screens for certain types of actions.&lt;/p&gt;
+
+&lt;p&gt;For example, you can allocate the bottom right of the application for confirmatory actions such as Save, Submit, Okay or Approve. The other corner of the screen can be allocated for the negative actions such as Cancel, Disapprove, Reject, etc. Having a permanent place on the screen for certain types of functions helps build a relationship between the position and the action. In the long run, it also helps build muscle memory for the required kinds of actions. The users, then, can also guess where to tap on a screen that they may have never encountered yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-2.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2--avoid-scrolling&quot;&gt;#2 — AVOID SCROLLING&lt;/h2&gt;
+
+&lt;p&gt;The second thing to do is to avoid scrolling. Scrolling by itself isn’t something that this group of users will find intuitive. If possible, present all the information on multiple screens instead, with a progress button that takes them through each of them.&lt;/p&gt;
+
+&lt;p&gt;But if you must use scrolling, provide the user with some kind of hint which will allow them to understand that more of the screen is available below. Make sure that the information on a screen doesn’t “cut” exactly where the physical screen ends and instead lay out the screen such that there’s a portion of what’s below peeking above the bottom of the screen. Another hint that can be provided is to show an illustration of a finger tapping and dragging the screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-3.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3--use-transitions-when-going-between-screens&quot;&gt;#3 — USE TRANSITIONS WHEN GOING BETWEEN SCREENS&lt;/h2&gt;
+
+&lt;p&gt;The third thing to keep in mind is to use transitions when going between screens. When the same real estate is being used by different sets of information, it helps a user to understand that the same space is being used by a new lot of information if you use some kind of transition animation between the screens. If you slide a screen left, the user will know that the first set of screens has moved to the left to make space for the new screen. In addition, the user will also know that if they “go left”, they will be able to see the old screen.&lt;/p&gt;
+
+&lt;p&gt;What doesn’t work is a quick switch from one screen to another because that doesn’t allow a user to switch contexts seamlessly. This is one of those principles that actually makes sense to use for all users and not just this group, but it is essential for this particular group.&lt;/p&gt;
+
+&lt;h2 id=&quot;4--use-skeuomorphism&quot;&gt;#4 — USE SKEUOMORPHISM&lt;/h2&gt;
+
+&lt;p&gt;It is also recommended that you use skeuomorphism. If you’ve never heard the term before, it’s a fancy way of saying that the interface should use depictions of real-world objects. For example, if there’s a need to indicate a delete function, the functionality should be depicted using an icon that resembles an eraser or a trash can as opposed to an “X” which would make sense to someone familiar with technology but not to the others.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-4.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5--build-user-confidence&quot;&gt;#5 — BUILD USER CONFIDENCE&lt;/h2&gt;
+
+&lt;p&gt;As interface designers, we must also work hard to build the confidence of digital novices. These kinds of users will be worried about making mistakes, especially when it comes to using applications related to money. It would be good to let them know what they need to have available in order to perform the task and to also let them know the steps involved to complete the task.&lt;/p&gt;
+
+&lt;p&gt;Additionally, messaging on the screen can let the user know that they are doing a good job with each step. This will encourage them to go from step to step in a simple manner. A summary step that indicates all their inputs and decisions before performing the task will be required in order to allay any fears that the user may have.&lt;/p&gt;
+
+&lt;p&gt;For tasks that require the users to make multiple decisions, try and keep it to one decision per screen so the user can focus on performing that one action as accurately as possible. A mini celebration after the task is performed correctly will also reinforce the user’s confidence in being able to perform it the next time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-5.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;6--use-voice-interfaces-when-possible&quot;&gt;#6 — USE VOICE INTERFACES WHEN POSSIBLE&lt;/h2&gt;
+
+&lt;p&gt;The most important tool in the basket is the use of voice interfaces. If there is a possibility to use them within the application, the return on investment is extremely high. We frequently underestimate the amount of learning we have gone through in getting used to GUI or touch-based interfaces. While tech-savvy users get through each of these steps quickly and seamlessly, it is a huge hurdle to learn even basic actions like scrolling, copy/paste functions, navigating within screens, etc., for those who haven’t grown up with technology.&lt;/p&gt;
+
+&lt;p&gt;But voice interfaces bridge these gaps seamlessly. Everyone knows what they want to achieve and most people can put it into words easily. As designers, we could use technologies like Slang or Dialogflow which allow you to infuse voice interfaces within GUI, creating dual-modal interfaces. In this way, voice can become assistive and allow users to handle applications even if they aren’t very well-versed in GUI-based ones.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;So these are just some of the many things one needs to think about when designing for the next billion users from India. This is by no means meant to be an exhaustive list but something to get you started in thinking about how design can help bridge the technological gap that’s forming in our society.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//designing-for-the-next-billion-users/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//designing-for-the-next-billion-users/</guid>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+        
+        <category>Ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Co-existence of Voice Interfaces in Apps</title>
+        <description>&lt;p&gt;While every sci-fi show depicts Voice Interfaces as the future as it seemingly makes for very simple interactions with devices. I examine this idea.&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;While every sci-fi show depicts Voice Interfaces as the future as it seemingly makes for very simple interactions with devices, the promise seems to always have been right over the horizon.&lt;/p&gt;
+
+&lt;p&gt;But recent developments have shown promise. And no, I’m not talking about the clunky UX offered by the Siri’s or Alexas which attempt to offer a single interface  experience, but other technologies that integrate within apps to offer a multi-modal interface and there lies something that has the potential to be useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;BACKGROUND&lt;/h2&gt;
+
+&lt;p&gt;Let us begin by understanding the role of voice interfaces. Voice interfaces are great:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;They are simple to use.&lt;/li&gt;
+  &lt;li&gt;Almost everyone can use them.&lt;/li&gt;
+  &lt;li&gt;They have the potential to combine multiple steps that a typical GUI interface needs to have.&lt;/li&gt;
+  &lt;li&gt;And with localisation, they have the power to reach many more millions of users who find the existing touch-based GUI interfaces difficult to understand and use.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;But many kinds of interfaces have been built for machines in the past. You have everything right from switches and buttons to mice, pens and screen-based touch interfaces like those on your smartphones. Every time some new interface was created by someone, there has been a tendency to portray it as the killer interface that will replace all interfaces. But the fact is that switches, handles, knobs and pens all exist today.&lt;/p&gt;
+
+&lt;p&gt;The reason for this is simple — each interface offers some specific advantage over another. For example, a light switch is cheap, it is always physically available to users, it is very simple to operate and is perfect for the electrical wiring system that it is a part of. Whereas it’s a far more efficient use of space to include a touch-based screen than to include a screen and a physical keyboard.&lt;/p&gt;
+
+&lt;p&gt;Until brain-machine interfaces like the one that Neuralink is working on become mainstream, all other interfaces including voice-based ones can be only a part of a collection of interfaces that will be used by humans. They will therefore need to be integrated into existing user interfaces and not thought of as replacements for anything. So the principle of design needs to be that of coexistence, not of replacement.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;DESIGN FOR CO-EXISTENCE, NOT REPLACEMENT &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Secondly, we are talking about integrating voice-based interfaces into existing applications here using technologies like &lt;a href=&quot;https://www.dialogflow.com/&quot;&gt;DialogFlow&lt;/a&gt; or &lt;a href=&quot;https://www.slanglabs.com/&quot;&gt;Slang&lt;/a&gt; and this is not the same as creating a skill for Google or Alexa that could potentially be linked to a website or an app.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/VoiceInterfaces-2.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;interface-design-considerations&quot;&gt;INTERFACE DESIGN CONSIDERATIONS&lt;/h2&gt;
+
+&lt;p&gt;While designing interfaces for Voice UI, the following need to be considered:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Indicate that the interface is voice-enabled —&lt;/strong&gt; Since it’s best to use examples when discussing complex topics like this, we will use the interface of one of our clients, Lenskart. Lenskart, is an e-commerce store that sells prescription and non-prescription glasses through their website and their apps. For this video, we’ll focus on the mobile app. So as you’ll see from the interface, we’ve included an activation button that’s been styled to indicate that you can tap this to say something.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Indicate to the user what is voice-enabled and the kinds of commands that can be issued —&lt;/strong&gt; There are also similar-looking icons placed on other elements in the interface that indicate that these other elements too are voice-enabled.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Let the user know that their privacy is protected —&lt;/strong&gt; When one taps the activation button, it gets “enabled” and starts listening for instructions from the user. We chose not to go with activation keywords here because there’s a learning curve involved with that. You’ll also notice that there’s a line around the button that keeps reducing and when it goes down completely, the button gets disabled. This mechanism does two things — one, it allows the user to give continuous commands without activating the voice interface each time. Two, it tells the user that this interface isn’t always going to be listening and respects the user’s privacy. Finally, tapping the activation button again immediately stops the system from listening further.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide confirmation and feedback for actions performed —&lt;/strong&gt; Now when the user issues a command, something like “Show me sunglasses”, the application has been designed so it goes straight to the screen that shows the sunglasses.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide ways to recover from a mistaken action —&lt;/strong&gt; If the voice-processing engine isn’t very sure about the guess it’s made about having heard “Sunglasses”, we can indicate the same to the user and get clarity on the next screen if the user really meant to do that or not. This allows a user to recover from the error by simply clicking the “Undo” button or saying, “No, I meant sunglasses”.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Provide a way for power users to understand how to harness the power of voice —&lt;/strong&gt; Users may intuitively begin using the voice features in the app but in the initial period when people may not really know how this works, providing them with the ability to understand what’s possible may be required. What we did to enable this is to have an information icon placed to the right of the activation button. Tapping this will bring up a sheet with all the available types of commands that can be issued on the application. This sheet could also be presented when the user says things like “What can I say?” or “What can you do?” which are equivalent commands on Google Assistant or Siri.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Design for voice-only workflows —&lt;/strong&gt; Voice-only workflows are powerful new user journeys that come up when working with voice. You don’t need to work through screens sequentially anymore and in most cases, multiple steps can be combined. In this example, the user can ask to check out and the cart page will show up after which the user can choose the method of payment and the delivery address. However, with voice, these two steps can be combined using a simple command like, “Checkout using card number ending with 0399 and deliver it to my home”. Upon this command being issued, a user is brought to a confirmation page that shows the card chosen and the address chosen and all the user needs to do is hit “Proceed”.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;THIS IS AN EXTREMELY POWERFUL NEW CAPABILITY THAT IS OFFERED THROUGH VOICE INTERFACES AND REQUIRES UX DESIGNERS TO THINK DIFFERENTLY WHEN DESIGNING. &lt;/p&gt;
+
+  &lt;p&gt;Eliel SaarinenArchitect&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;additional-thoughts&quot;&gt;ADDITIONAL THOUGHTS&lt;/h2&gt;
+
+&lt;p&gt;So that’s a quick look at how to design for voice-based interfaces. One just needs to keep in mind to not take an all-or-nothing approach, but rather design for a mixed interface. Getting started is surprisingly simple, but employing voice interfaces and exploiting their full power are going to require quite a bit of thought.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Aug 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//voice-interfaces/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//voice-interfaces/</guid>
+        
+        <category>design</category>
+        
+        <category>ux</category>
+        
+        
+        <category>Ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>The UX Problem with the Voting System in India</title>
+        <description>&lt;p&gt;Something as important as voting is fraught with UX problems and the intention of the voter is not well expressed within the systems that exist in places such as India&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;A vote is defined as a right to express a wish, choice or opinion. In the context of a democracy, it is the right to express one’s opinion on how s/he would like to be governed. If that’s the primary objective of a vote, is the mechanism we are using to capture the user’s opinions serving our nation well? And from my own corner of the world armed with my own tool kit, I wonder if thoughtful UX design could make it better.&lt;/p&gt;
+
+&lt;p&gt;So what’s the problem that we need to fix this? In the “plurality voting system” that is followed in India, which we use to vote representatives to the lower house of the Parliament, a citizen is allowed one vote and to only cast it in the affirmative. This is an extremely limited form of expressing one’s opinion. Everything is hunky-dory if there’s a candidate that represents your views, you just cast your vote for them. But what do you do in the case where there are no candidates that represent your convictions? The only choices you’re left with are to express your support for the least objectionable of the candidates, abstain from voting, cast your vote for “None Of The Above” or use your vote tactically to mitigate your losses. Are any of these options clearly communicating the opinions of the citizen? Is a vote for an opponent the same as a vote for a candidate? Is a vote for the least objectionable candidate the same as support &lt;em&gt;for&lt;/em&gt; their mandate? It’s no wonder that one of the most common refrains during voting season is: “It’s like choosing between the devil and the deep sea.”&lt;/p&gt;
+
+&lt;p&gt;All of these choices leave people disenfranchised and hopeless about being able to affect change through their votes. In fact, these plurality voting systems face much more criticism than that. In a long enough timeline, these systems result in fewer political parties, reduced incentives for new players to participate, increased gerrymandering, the use of “spoiler” candidates with the sole objective of detracting from the front runners and finally, the increased use and influence (and therefore the privatisation) of mass media on political outcomes. None of these are the desired results for a nation or even the conspiracy of any political party or candidate. Not even the most jaded among us can agree with the idea that a political party wants to lead a citizenry in a direction that it doesn’t want to go. The parties just want to win the game. These are just the definite outcomes produced by a system whose rules are defined in a certain way. We find that this happens very often in UX as well. Whatever we set as the goals, key performance indicators or criteria for progress, we see the users of the system strive for this. Set new goals or new criteria, the users of the system start to strive for that new goal.&lt;/p&gt;
+
+&lt;p&gt;So, what can we do to improve our voting system? We can change the rules that govern them. We can design voting methods that keep the process efficient and also more expressive. While there are no perfect systems out there, all we can adopt is the spirit of building “a more perfect union.” We have to keep trying to find better solutions and keep fixing the new problems we find. In other words, we need to evolve.&lt;/p&gt;
+
+&lt;p&gt;There are many different solutions one could think of, but for the age of our democracy, I find two models that would work better for India:&lt;/p&gt;
+
+&lt;h2 id=&quot;model-1-parliamentary-style-voting-for-election-to-the-lower-house&quot;&gt;&lt;strong&gt;MODEL #1: PARLIAMENTARY-STYLE VOTING FOR ELECTION TO THE LOWER HOUSE&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;New bills are proposed all the time in the Parliament and votes are sought in order to make decisions on them and either passed forward or rejected. The polling is done with a “Yay” or “Nay” vote.&lt;/p&gt;
+
+&lt;p&gt;This system is efficient and much more expressive:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It tells everyone the bottom line of whether or not enough votes were received to win.&lt;/li&gt;
+  &lt;li&gt;It expresses what kind of support it had.&lt;/li&gt;
+  &lt;li&gt;It expresses what kind of opposition it had.&lt;/li&gt;
+  &lt;li&gt;It also expresses how close the vote was.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;This model can be used such that a voter could cast one vote as they do today but could cast it either in favour of OR against a candidate (you can only do one or the other).&lt;/p&gt;
+
+&lt;p&gt;This simple change would result in the following advantages:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It doesn’t have the negative effect of devolving into a scenario where there are fewer political parties.&lt;/li&gt;
+  &lt;li&gt;There is clearer indication to candidates from previous polling data on what the voter base is looking for.&lt;/li&gt;
+  &lt;li&gt;It would result in more moderate mandates that appeal to larger voter bases as parties now have to worry about the supporter’s views as well as the dissenter’s.&lt;/li&gt;
+  &lt;li&gt;It encourages new participants to come into the arena with new ideas.&lt;/li&gt;
+  &lt;li&gt;It would lead to the formation of more stable governments and therefore stronger economies.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;BY APPLYING UX DESIGN PRINCIPLES TO OUR VOTING METHODS, IT IS, IN FACT, POSSIBLE TO DEVELOP A SYSTEM THAT ALLOWS THE VOTER’S VOICE TO BE TRULY HEARD.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/VotingUX-2.webp&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;model-2-ranking-of-candidates&quot;&gt;&lt;strong&gt;MODEL #2: RANKING OF CANDIDATES&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is a much more involved process but even more expressive than the first model. This model involves ranking all of the candidates in order of preference. Just as in today’s model of affirmative voting, this ranking model is only done in the affirmative. In addition to the advantages of the system above, the ranking also expresses the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;There is no way to easily predict who the winners may be. And this is a good thing because then you can’t game the system.&lt;/li&gt;
+  &lt;li&gt;It has the potential to clearly express not just the mandate that won, but also the specific points within it that actually caused the most affirmations.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;CONCLUSION&lt;/h1&gt;
+
+&lt;p&gt;There may well be other better-suited models of voting but by applying UX design principles to our voting methods, it is, in fact, possible to develop a system that allows the voter’s voice to be truly heard. It would not only reflect the actual democratic choice of the citizens, but also benefit our nation as a whole. As one of the few countries that has electronic voting, it would pave the way for India to be a more authentic democracy as well as the largest.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 May 2019 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//ux-problem-with-the-voting-system/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//ux-problem-with-the-voting-system/</guid>
+        
+        <category>society</category>
+        
+        <category>ux</category>
+        
+        <category>design</category>
         
         
         <category>Ideas</category>

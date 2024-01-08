@@ -12,8 +12,8 @@ tags:
   - web3
   - design
 featured: false
-hidden: 
-comments:
+hidden: false
+comments: false
 ---
 It’s important to keep striving for better models of censorship that can benefit society without infringing on individual rights and freedoms.
 

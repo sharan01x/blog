@@ -1,8 +1,8 @@
 # Site
-name: "SharanX"
+name: "Digital Workbench"
 title: "Set Things Right"
-description: "Sharan's Digital Workbench"
-logo: 'assets/images/logo.png'
+description: ""
+logo: 'assets/images/sharanx-high-resolution-logo-black-on-transparent.png'
 favicon: 'assets/images/logo.png'
 baseurl: '/blog/'
 google_analytics: ''
