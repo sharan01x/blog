@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c99cf16f8f4063a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2021-06-01-muvin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2016-12-05-design-must-humanise-technology.md",
+                "file": "2021-06-01-muvin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2016-12-05-design-must-humanise-technology.md",
+                "file": "2021-06-01-muvin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2016-12-05-design-must-humanise-technology.md"
+                "file": "2021-06-01-muvin.md"
               }
             }
           }
@@ -183,12 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "761672a34cb41a18",
+  "active": "3c99cf16f8f4063a",
   "lastOpenFiles": [
-    "2017-04-04-take-off.md",
-    "2016-12-05-design-must-humanise-technology.md",
-    "2023-07-18-is-there-room-for-another-dating-app.md",
+    "2022-06-01-auditone.md",
+    "2017-06-01-fis.md",
+    "2018-03-01-cloudnine.md",
+    "2018-06-01-lenskart.md",
+    "2021-06-01-muvin.md",
     "2023-07-13-generative-ai-art-experiments.md",
+    "2016-12-05-design-must-humanise-technology.md",
+    "Zero UI is here to stay.md",
+    "UX Design for Web3 - Structure Influences Everything.md",
+    "2017-04-04-take-off.md",
+    "2023-07-18-is-there-room-for-another-dating-app.md",
     "2023-06-29-better-tools-should-be-better-employed.md",
     "2023-04-21-the-eight-rules-of-ethics-for-ux-designers.md",
     "2023-02-28-censoring-censorship.md",
@@ -202,15 +221,8 @@
     "2019-01-10-the-five-promises-of-technology.md",
     "Designing for Decentralisation.md",
     "Is AI art real art.md",
-    "UX Design for Web3 - Structure Influences Everything.md",
     "Code of Ethics for UX Designers.md",
     "2018-06-12-powerful-things-markdown-editor.md",
-    "2018-06-12-education.md",
-    "{{.md",
-    "2018-06-12-acumulated-experience.md",
-    "2018-05-12-about-bundler.md",
-    "2018-01-12-we-all-wait-for-summer.md",
-    "2018-01-12-tree-of-codes.md",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp",
     "Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp",

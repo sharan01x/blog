@@ -9,7 +9,7 @@ categories:
 tags:
   - technology
   - art
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

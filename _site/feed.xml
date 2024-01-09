@@ -5,8 +5,8 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 08 Jan 2024 23:00:01 +0100</pubDate>
-    <lastBuildDate>Mon, 08 Jan 2024 23:00:01 +0100</lastBuildDate>
+    <pubDate>Tue, 09 Jan 2024 23:40:54 +0100</pubDate>
+    <lastBuildDate>Tue, 09 Jan 2024 23:40:54 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -878,6 +878,131 @@ ___&lt;/p&gt;
       </item>
     
       <item>
+        <title>The Audit.One Project</title>
+        <description>&lt;hr /&gt;
+&lt;div style=&quot;display: table;width: 100%;&quot;&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell; width:25%;&quot;&gt;
+&lt;b&gt;Client&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Industry&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Year&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Deliverables&lt;/b&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Audit.One
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Cryptocurrency Validators&lt;br /&gt;
+Staking Services
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+2022
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Website design&lt;br /&gt;
+Communication design
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;description&quot;&gt;DESCRIPTION&lt;/h1&gt;
+
+&lt;p&gt;Audit.one is a significant revenue generator for the Persistence group and their existing website needed to be revamped to be able to cater to their audience better. We had to research and understand the very technical and complex nature of the industry they’re in, in order to redesign the website.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/AuditOneProjectSheet-1.webp&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//auditone/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//auditone/</guid>
+        
+        <category>decentralisation</category>
+        
+        <category>ux</category>
+        
+        <category>web3</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
+        <title>Muvin</title>
+        <description>&lt;hr /&gt;
+&lt;div style=&quot;display: table;width: 100%;&quot;&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell; width:25%;&quot;&gt;
+&lt;b&gt;Client&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Industry&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Year&lt;/b&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
+&lt;b&gt;Deliverables&lt;/b&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: table-row;&quot;&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Finone Financial Tech Solutions
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Finance
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+2021
+&lt;/div&gt;
+&lt;div style=&quot;display: table-cell;&quot;&gt;
+Branding&lt;br /&gt;
+App&lt;br /&gt;
+Website&lt;br /&gt;
+Credit Cards&lt;br /&gt;
+Mascot&lt;br /&gt;
+Communications&lt;br /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;description&quot;&gt;DESCRIPTION&lt;/h1&gt;
+
+&lt;p&gt;This project included the design of the brand, website and app for a neobank. The product differentiates itself by simplifying financial learning for young people and also enables them to operate their own faux bank account with the help of their parents. It reimagines banking with features that young adults care about, including being able to transfer money between friends, split bills, set goals and save for them all while getting rewarded for doing so.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Muvin-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Muvin-3.png&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/blog//muvin/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//muvin/</guid>
+        
+        <category>ux</category>
+        
+        <category>finance</category>
+        
+        <category>technology</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
+    
+      <item>
         <title>Designing for the Next Billion Users</title>
         <description>&lt;p&gt;These next big wave of users is coming not from the west but from the young, educated youth of India with access to cheap data plans and speaking many different languages.&lt;/p&gt;
 
@@ -957,153 +1082,6 @@ ___&lt;/p&gt;
         <category>design</category>
         
         <category>ux</category>
-        
-        
-        <category>Ideas</category>
-        
-      </item>
-    
-      <item>
-        <title>Co-existence of Voice Interfaces in Apps</title>
-        <description>&lt;p&gt;While every sci-fi show depicts Voice Interfaces as the future as it seemingly makes for very simple interactions with devices. I examine this idea.&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;While every sci-fi show depicts Voice Interfaces as the future as it seemingly makes for very simple interactions with devices, the promise seems to always have been right over the horizon.&lt;/p&gt;
-
-&lt;p&gt;But recent developments have shown promise. And no, I’m not talking about the clunky UX offered by the Siri’s or Alexas which attempt to offer a single interface  experience, but other technologies that integrate within apps to offer a multi-modal interface and there lies something that has the potential to be useful.&lt;/p&gt;
-
-&lt;h2 id=&quot;background&quot;&gt;BACKGROUND&lt;/h2&gt;
-
-&lt;p&gt;Let us begin by understanding the role of voice interfaces. Voice interfaces are great:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;They are simple to use.&lt;/li&gt;
-  &lt;li&gt;Almost everyone can use them.&lt;/li&gt;
-  &lt;li&gt;They have the potential to combine multiple steps that a typical GUI interface needs to have.&lt;/li&gt;
-  &lt;li&gt;And with localisation, they have the power to reach many more millions of users who find the existing touch-based GUI interfaces difficult to understand and use.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;But many kinds of interfaces have been built for machines in the past. You have everything right from switches and buttons to mice, pens and screen-based touch interfaces like those on your smartphones. Every time some new interface was created by someone, there has been a tendency to portray it as the killer interface that will replace all interfaces. But the fact is that switches, handles, knobs and pens all exist today.&lt;/p&gt;
-
-&lt;p&gt;The reason for this is simple — each interface offers some specific advantage over another. For example, a light switch is cheap, it is always physically available to users, it is very simple to operate and is perfect for the electrical wiring system that it is a part of. Whereas it’s a far more efficient use of space to include a touch-based screen than to include a screen and a physical keyboard.&lt;/p&gt;
-
-&lt;p&gt;Until brain-machine interfaces like the one that Neuralink is working on become mainstream, all other interfaces including voice-based ones can be only a part of a collection of interfaces that will be used by humans. They will therefore need to be integrated into existing user interfaces and not thought of as replacements for anything. So the principle of design needs to be that of coexistence, not of replacement.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;DESIGN FOR CO-EXISTENCE, NOT REPLACEMENT &lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Secondly, we are talking about integrating voice-based interfaces into existing applications here using technologies like &lt;a href=&quot;https://www.dialogflow.com/&quot;&gt;DialogFlow&lt;/a&gt; or &lt;a href=&quot;https://www.slanglabs.com/&quot;&gt;Slang&lt;/a&gt; and this is not the same as creating a skill for Google or Alexa that could potentially be linked to a website or an app.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/VoiceInterfaces-2.webp&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;interface-design-considerations&quot;&gt;INTERFACE DESIGN CONSIDERATIONS&lt;/h2&gt;
-
-&lt;p&gt;While designing interfaces for Voice UI, the following need to be considered:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Indicate that the interface is voice-enabled —&lt;/strong&gt; Since it’s best to use examples when discussing complex topics like this, we will use the interface of one of our clients, Lenskart. Lenskart, is an e-commerce store that sells prescription and non-prescription glasses through their website and their apps. For this video, we’ll focus on the mobile app. So as you’ll see from the interface, we’ve included an activation button that’s been styled to indicate that you can tap this to say something.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Indicate to the user what is voice-enabled and the kinds of commands that can be issued —&lt;/strong&gt; There are also similar-looking icons placed on other elements in the interface that indicate that these other elements too are voice-enabled.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Let the user know that their privacy is protected —&lt;/strong&gt; When one taps the activation button, it gets “enabled” and starts listening for instructions from the user. We chose not to go with activation keywords here because there’s a learning curve involved with that. You’ll also notice that there’s a line around the button that keeps reducing and when it goes down completely, the button gets disabled. This mechanism does two things — one, it allows the user to give continuous commands without activating the voice interface each time. Two, it tells the user that this interface isn’t always going to be listening and respects the user’s privacy. Finally, tapping the activation button again immediately stops the system from listening further.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Provide confirmation and feedback for actions performed —&lt;/strong&gt; Now when the user issues a command, something like “Show me sunglasses”, the application has been designed so it goes straight to the screen that shows the sunglasses.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Provide ways to recover from a mistaken action —&lt;/strong&gt; If the voice-processing engine isn’t very sure about the guess it’s made about having heard “Sunglasses”, we can indicate the same to the user and get clarity on the next screen if the user really meant to do that or not. This allows a user to recover from the error by simply clicking the “Undo” button or saying, “No, I meant sunglasses”.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Provide a way for power users to understand how to harness the power of voice —&lt;/strong&gt; Users may intuitively begin using the voice features in the app but in the initial period when people may not really know how this works, providing them with the ability to understand what’s possible may be required. What we did to enable this is to have an information icon placed to the right of the activation button. Tapping this will bring up a sheet with all the available types of commands that can be issued on the application. This sheet could also be presented when the user says things like “What can I say?” or “What can you do?” which are equivalent commands on Google Assistant or Siri.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Design for voice-only workflows —&lt;/strong&gt; Voice-only workflows are powerful new user journeys that come up when working with voice. You don’t need to work through screens sequentially anymore and in most cases, multiple steps can be combined. In this example, the user can ask to check out and the cart page will show up after which the user can choose the method of payment and the delivery address. However, with voice, these two steps can be combined using a simple command like, “Checkout using card number ending with 0399 and deliver it to my home”. Upon this command being issued, a user is brought to a confirmation page that shows the card chosen and the address chosen and all the user needs to do is hit “Proceed”.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;THIS IS AN EXTREMELY POWERFUL NEW CAPABILITY THAT IS OFFERED THROUGH VOICE INTERFACES AND REQUIRES UX DESIGNERS TO THINK DIFFERENTLY WHEN DESIGNING. &lt;/p&gt;
-
-  &lt;p&gt;Eliel SaarinenArchitect&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;additional-thoughts&quot;&gt;ADDITIONAL THOUGHTS&lt;/h2&gt;
-
-&lt;p&gt;So that’s a quick look at how to design for voice-based interfaces. One just needs to keep in mind to not take an all-or-nothing approach, but rather design for a mixed interface. Getting started is surprisingly simple, but employing voice interfaces and exploiting their full power are going to require quite a bit of thought.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Aug 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//voice-interfaces/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//voice-interfaces/</guid>
-        
-        <category>design</category>
-        
-        <category>ux</category>
-        
-        
-        <category>Ideas</category>
-        
-      </item>
-    
-      <item>
-        <title>The UX Problem with the Voting System in India</title>
-        <description>&lt;p&gt;Something as important as voting is fraught with UX problems and the intention of the voter is not well expressed within the systems that exist in places such as India&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;A vote is defined as a right to express a wish, choice or opinion. In the context of a democracy, it is the right to express one’s opinion on how s/he would like to be governed. If that’s the primary objective of a vote, is the mechanism we are using to capture the user’s opinions serving our nation well? And from my own corner of the world armed with my own tool kit, I wonder if thoughtful UX design could make it better.&lt;/p&gt;
-
-&lt;p&gt;So what’s the problem that we need to fix this? In the “plurality voting system” that is followed in India, which we use to vote representatives to the lower house of the Parliament, a citizen is allowed one vote and to only cast it in the affirmative. This is an extremely limited form of expressing one’s opinion. Everything is hunky-dory if there’s a candidate that represents your views, you just cast your vote for them. But what do you do in the case where there are no candidates that represent your convictions? The only choices you’re left with are to express your support for the least objectionable of the candidates, abstain from voting, cast your vote for “None Of The Above” or use your vote tactically to mitigate your losses. Are any of these options clearly communicating the opinions of the citizen? Is a vote for an opponent the same as a vote for a candidate? Is a vote for the least objectionable candidate the same as support &lt;em&gt;for&lt;/em&gt; their mandate? It’s no wonder that one of the most common refrains during voting season is: “It’s like choosing between the devil and the deep sea.”&lt;/p&gt;
-
-&lt;p&gt;All of these choices leave people disenfranchised and hopeless about being able to affect change through their votes. In fact, these plurality voting systems face much more criticism than that. In a long enough timeline, these systems result in fewer political parties, reduced incentives for new players to participate, increased gerrymandering, the use of “spoiler” candidates with the sole objective of detracting from the front runners and finally, the increased use and influence (and therefore the privatisation) of mass media on political outcomes. None of these are the desired results for a nation or even the conspiracy of any political party or candidate. Not even the most jaded among us can agree with the idea that a political party wants to lead a citizenry in a direction that it doesn’t want to go. The parties just want to win the game. These are just the definite outcomes produced by a system whose rules are defined in a certain way. We find that this happens very often in UX as well. Whatever we set as the goals, key performance indicators or criteria for progress, we see the users of the system strive for this. Set new goals or new criteria, the users of the system start to strive for that new goal.&lt;/p&gt;
-
-&lt;p&gt;So, what can we do to improve our voting system? We can change the rules that govern them. We can design voting methods that keep the process efficient and also more expressive. While there are no perfect systems out there, all we can adopt is the spirit of building “a more perfect union.” We have to keep trying to find better solutions and keep fixing the new problems we find. In other words, we need to evolve.&lt;/p&gt;
-
-&lt;p&gt;There are many different solutions one could think of, but for the age of our democracy, I find two models that would work better for India:&lt;/p&gt;
-
-&lt;h2 id=&quot;model-1-parliamentary-style-voting-for-election-to-the-lower-house&quot;&gt;&lt;strong&gt;MODEL #1: PARLIAMENTARY-STYLE VOTING FOR ELECTION TO THE LOWER HOUSE&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;New bills are proposed all the time in the Parliament and votes are sought in order to make decisions on them and either passed forward or rejected. The polling is done with a “Yay” or “Nay” vote.&lt;/p&gt;
-
-&lt;p&gt;This system is efficient and much more expressive:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;It tells everyone the bottom line of whether or not enough votes were received to win.&lt;/li&gt;
-  &lt;li&gt;It expresses what kind of support it had.&lt;/li&gt;
-  &lt;li&gt;It expresses what kind of opposition it had.&lt;/li&gt;
-  &lt;li&gt;It also expresses how close the vote was.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;This model can be used such that a voter could cast one vote as they do today but could cast it either in favour of OR against a candidate (you can only do one or the other).&lt;/p&gt;
-
-&lt;p&gt;This simple change would result in the following advantages:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;It doesn’t have the negative effect of devolving into a scenario where there are fewer political parties.&lt;/li&gt;
-  &lt;li&gt;There is clearer indication to candidates from previous polling data on what the voter base is looking for.&lt;/li&gt;
-  &lt;li&gt;It would result in more moderate mandates that appeal to larger voter bases as parties now have to worry about the supporter’s views as well as the dissenter’s.&lt;/li&gt;
-  &lt;li&gt;It encourages new participants to come into the arena with new ideas.&lt;/li&gt;
-  &lt;li&gt;It would lead to the formation of more stable governments and therefore stronger economies.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;BY APPLYING UX DESIGN PRINCIPLES TO OUR VOTING METHODS, IT IS, IN FACT, POSSIBLE TO DEVELOP A SYSTEM THAT ALLOWS THE VOTER’S VOICE TO BE TRULY HEARD.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/VotingUX-2.webp&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;model-2-ranking-of-candidates&quot;&gt;&lt;strong&gt;MODEL #2: RANKING OF CANDIDATES&lt;/strong&gt;&lt;/h2&gt;
-
-&lt;p&gt;This is a much more involved process but even more expressive than the first model. This model involves ranking all of the candidates in order of preference. Just as in today’s model of affirmative voting, this ranking model is only done in the affirmative. In addition to the advantages of the system above, the ranking also expresses the following:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;There is no way to easily predict who the winners may be. And this is a good thing because then you can’t game the system.&lt;/li&gt;
-  &lt;li&gt;It has the potential to clearly express not just the mandate that won, but also the specific points within it that actually caused the most affirmations.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;CONCLUSION&lt;/h1&gt;
-
-&lt;p&gt;There may well be other better-suited models of voting but by applying UX design principles to our voting methods, it is, in fact, possible to develop a system that allows the voter’s voice to be truly heard. It would not only reflect the actual democratic choice of the citizens, but also benefit our nation as a whole. As one of the few countries that has electronic voting, it would pave the way for India to be a more authentic democracy as well as the largest.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//ux-problem-with-the-voting-system/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//ux-problem-with-the-voting-system/</guid>
-        
-        <category>society</category>
-        
-        <category>ux</category>
-        
-        <category>design</category>
         
         
         <category>Ideas</category>
