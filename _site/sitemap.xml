@@ -81,6 +81,14 @@
 <lastmod>2023-07-18T00:00:00+02:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/blog/review-of-humane-ai-pin/</loc>
+<lastmod>2023-11-28T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/rabbit-r1-review/</loc>
+<lastmod>2024-01-10T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/blog/about</loc>
 </url>
 <url>
@@ -100,6 +108,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/category/experiments/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/category/reviews/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/blog/page2/</loc>

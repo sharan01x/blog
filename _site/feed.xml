@@ -5,9 +5,54 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jan 2024 23:40:54 +0100</pubDate>
-    <lastBuildDate>Tue, 09 Jan 2024 23:40:54 +0100</lastBuildDate>
+    <pubDate>Wed, 10 Jan 2024 13:45:50 +0100</pubDate>
+    <lastBuildDate>Wed, 10 Jan 2024 13:45:50 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Rabbit R1 Review</title>
+        <description>
+</description>
+        <pubDate>Wed, 10 Jan 2024 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog//rabbit-r1-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//rabbit-r1-review/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Design Review of the AI Pin by Humane</title>
+        <description>&lt;p&gt;As a product designer, I analysed Humane’s first product, the AI Pin, and identified several critical challenges that need to be addressed. While the product’s primary purpose of replacing mobile phones is laudable, it faces significant obstacles. Firstly, the device needs to offer a 10X better value proposition than the mobile phone to convince users to switch. However, this proved difficult as the AI Pin struggled to deliver on this promise, particularly in terms of call and message functionality, social media, calendar management, navigation, photography, entertainment, running apps, and more.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, the voice-based input/output and low-resolution screen limit the device’s usefulness compared to a high-resolution touchscreen display. Additionally, the need for a tap activation can be slow and cumbersome, hindering the AI assistant’s utility. Demonstrations showed that the AI assistant takes time to retrieve information and respond, leading to frustration in daily usage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/HumaneAIPin.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To improve the product, I would ask the following questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Why create a phone replacement as the first version of the product? It would have been more effective to demonstrate the usefulness of an always-available AI assistant, as Meta RayBan did.&lt;/li&gt;
+  &lt;li&gt;Why use tap as a wake gesture when hot keywords or head turns towards the device could be faster and more hands-free?&lt;/li&gt;
+  &lt;li&gt;What were the reasons for not pursuing a smartwatch with video capabilities? A watch offers familiar activation gestures like raising to wake, and provides a screen for information delivery and private touch inputs.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While many have criticised this project, upon closer examination, it appears that the product was rushed to market rather than be the example of the company’s vision. However, there is still hope for Humane as they continue to innovate. A truly effective always-available AI assistant has the potential to improve various aspects of life, and I await their future developments with interest.&lt;/p&gt;
+
+&lt;p&gt;It’s hard to go into uncharted waters, and one must admire them for trying.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 28 Nov 2023 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog//review-of-humane-ai-pin/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog//review-of-humane-ai-pin/</guid>
+        
+        <category>design</category>
+        
+        <category>hardware</category>
+        
+        
+        <category>Reviews</category>
+        
+      </item>
     
       <item>
         <title>Is there room for another dating app?</title>
@@ -934,157 +979,6 @@ Communication design
         
         
         <category>Projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Muvin</title>
-        <description>&lt;hr /&gt;
-&lt;div style=&quot;display: table;width: 100%;&quot;&gt;
-&lt;div style=&quot;display: table-row;&quot;&gt;
-&lt;div style=&quot;display: table-cell; width:25%;&quot;&gt;
-&lt;b&gt;Client&lt;/b&gt;
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
-&lt;b&gt;Industry&lt;/b&gt;
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
-&lt;b&gt;Year&lt;/b&gt;
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;width:25%;&quot;&gt;
-&lt;b&gt;Deliverables&lt;/b&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&quot;display: table-row;&quot;&gt;
-&lt;div style=&quot;display: table-cell;&quot;&gt;
-Finone Financial Tech Solutions
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;&quot;&gt;
-Finance
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;&quot;&gt;
-2021
-&lt;/div&gt;
-&lt;div style=&quot;display: table-cell;&quot;&gt;
-Branding&lt;br /&gt;
-App&lt;br /&gt;
-Website&lt;br /&gt;
-Credit Cards&lt;br /&gt;
-Mascot&lt;br /&gt;
-Communications&lt;br /&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;description&quot;&gt;DESCRIPTION&lt;/h1&gt;
-
-&lt;p&gt;This project included the design of the brand, website and app for a neobank. The product differentiates itself by simplifying financial learning for young people and also enables them to operate their own faux bank account with the help of their parents. It reimagines banking with features that young adults care about, including being able to transfer money between friends, split bills, set goals and save for them all while getting rewarded for doing so.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/Muvin-2.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/Muvin-3.png&quot; /&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 01 Jun 2021 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//muvin/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//muvin/</guid>
-        
-        <category>ux</category>
-        
-        <category>finance</category>
-        
-        <category>technology</category>
-        
-        
-        <category>Projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Designing for the Next Billion Users</title>
-        <description>&lt;p&gt;These next big wave of users is coming not from the west but from the young, educated youth of India with access to cheap data plans and speaking many different languages.&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;These next big wave of users is coming not from the west but from the young, educated youth of India with access to cheap data plans and speaking many different languages. This article talks about the design patterns to keep in mind when designing for the next billion internet users.&lt;/p&gt;
-
-&lt;p&gt;Of late, we’ve been working with a few clients that have customer bases in tier-3 and tier-4 cities in India. This trend is an important one to note as it represents a huge population that has so far been untouched by technology. This group is significant for yet another reason because it also represents the migrant populations that travel to bigger cities for work. So we began working on a framework that aims to help design applications for the next billion users.&lt;/p&gt;
-
-&lt;p&gt;To begin with, let’s understand who we are designing for a little better. All the descriptions can be debated but the objective is to describe the majority of users:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The user may be young or old but not very tech savvy.&lt;/li&gt;
-  &lt;li&gt;Smartphones are the first computing platforms they’ve handled.&lt;/li&gt;
-  &lt;li&gt;They use Android phones.&lt;/li&gt;
-  &lt;li&gt;Their income levels could vary quite greatly as this is not a group defined by economics.&lt;/li&gt;
-  &lt;li&gt;They seek technical help from other friends and family members.&lt;/li&gt;
-  &lt;li&gt;They best understand new ideas through metaphorical comparison with real-world concepts.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There are a number of dos and don’ts to keep in mind and if we went through all of them, it would simply make for a very long day. So let’s discuss the most important things here:&lt;/p&gt;
-
-&lt;h2 id=&quot;1--using-permanent-positions-for-objects&quot;&gt;#1 — USING PERMANENT POSITIONS FOR OBJECTS&lt;/h2&gt;
-
-&lt;p&gt;In the real world, different objects occupy different spaces. This is starkly different in the digital world where the same area of the screen is occupied by different “objects” at different times. This is a huge hurdle to overcome for a new user. One way to design for this kind of user is to allocate spaces within the screens for certain types of actions.&lt;/p&gt;
-
-&lt;p&gt;For example, you can allocate the bottom right of the application for confirmatory actions such as Save, Submit, Okay or Approve. The other corner of the screen can be allocated for the negative actions such as Cancel, Disapprove, Reject, etc. Having a permanent place on the screen for certain types of functions helps build a relationship between the position and the action. In the long run, it also helps build muscle memory for the required kinds of actions. The users, then, can also guess where to tap on a screen that they may have never encountered yet.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-2.webp&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2--avoid-scrolling&quot;&gt;#2 — AVOID SCROLLING&lt;/h2&gt;
-
-&lt;p&gt;The second thing to do is to avoid scrolling. Scrolling by itself isn’t something that this group of users will find intuitive. If possible, present all the information on multiple screens instead, with a progress button that takes them through each of them.&lt;/p&gt;
-
-&lt;p&gt;But if you must use scrolling, provide the user with some kind of hint which will allow them to understand that more of the screen is available below. Make sure that the information on a screen doesn’t “cut” exactly where the physical screen ends and instead lay out the screen such that there’s a portion of what’s below peeking above the bottom of the screen. Another hint that can be provided is to show an illustration of a finger tapping and dragging the screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-3.webp&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3--use-transitions-when-going-between-screens&quot;&gt;#3 — USE TRANSITIONS WHEN GOING BETWEEN SCREENS&lt;/h2&gt;
-
-&lt;p&gt;The third thing to keep in mind is to use transitions when going between screens. When the same real estate is being used by different sets of information, it helps a user to understand that the same space is being used by a new lot of information if you use some kind of transition animation between the screens. If you slide a screen left, the user will know that the first set of screens has moved to the left to make space for the new screen. In addition, the user will also know that if they “go left”, they will be able to see the old screen.&lt;/p&gt;
-
-&lt;p&gt;What doesn’t work is a quick switch from one screen to another because that doesn’t allow a user to switch contexts seamlessly. This is one of those principles that actually makes sense to use for all users and not just this group, but it is essential for this particular group.&lt;/p&gt;
-
-&lt;h2 id=&quot;4--use-skeuomorphism&quot;&gt;#4 — USE SKEUOMORPHISM&lt;/h2&gt;
-
-&lt;p&gt;It is also recommended that you use skeuomorphism. If you’ve never heard the term before, it’s a fancy way of saying that the interface should use depictions of real-world objects. For example, if there’s a need to indicate a delete function, the functionality should be depicted using an icon that resembles an eraser or a trash can as opposed to an “X” which would make sense to someone familiar with technology but not to the others.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-4.webp&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5--build-user-confidence&quot;&gt;#5 — BUILD USER CONFIDENCE&lt;/h2&gt;
-
-&lt;p&gt;As interface designers, we must also work hard to build the confidence of digital novices. These kinds of users will be worried about making mistakes, especially when it comes to using applications related to money. It would be good to let them know what they need to have available in order to perform the task and to also let them know the steps involved to complete the task.&lt;/p&gt;
-
-&lt;p&gt;Additionally, messaging on the screen can let the user know that they are doing a good job with each step. This will encourage them to go from step to step in a simple manner. A summary step that indicates all their inputs and decisions before performing the task will be required in order to allay any fears that the user may have.&lt;/p&gt;
-
-&lt;p&gt;For tasks that require the users to make multiple decisions, try and keep it to one decision per screen so the user can focus on performing that one action as accurately as possible. A mini celebration after the task is performed correctly will also reinforce the user’s confidence in being able to perform it the next time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-5.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;6--use-voice-interfaces-when-possible&quot;&gt;#6 — USE VOICE INTERFACES WHEN POSSIBLE&lt;/h2&gt;
-
-&lt;p&gt;The most important tool in the basket is the use of voice interfaces. If there is a possibility to use them within the application, the return on investment is extremely high. We frequently underestimate the amount of learning we have gone through in getting used to GUI or touch-based interfaces. While tech-savvy users get through each of these steps quickly and seamlessly, it is a huge hurdle to learn even basic actions like scrolling, copy/paste functions, navigating within screens, etc., for those who haven’t grown up with technology.&lt;/p&gt;
-
-&lt;p&gt;But voice interfaces bridge these gaps seamlessly. Everyone knows what they want to achieve and most people can put it into words easily. As designers, we could use technologies like Slang or Dialogflow which allow you to infuse voice interfaces within GUI, creating dual-modal interfaces. In this way, voice can become assistive and allow users to handle applications even if they aren’t very well-versed in GUI-based ones.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/DesigningForBillionUsers-6.png&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;So these are just some of the many things one needs to think about when designing for the next billion users from India. This is by no means meant to be an exhaustive list but something to get you started in thinking about how design can help bridge the technological gap that’s forming in our society.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Oct 2019 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//designing-for-the-next-billion-users/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//designing-for-the-next-billion-users/</guid>
-        
-        <category>design</category>
-        
-        <category>ux</category>
-        
-        
-        <category>Ideas</category>
         
       </item>
     
