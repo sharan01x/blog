@@ -10,7 +10,7 @@ tags:
   - design
   - technology
   - hardware
-featured: true
+featured: false
 hidden: true
 comments: false
 ---
