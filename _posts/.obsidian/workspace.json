@@ -8,78 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88d2aab1e1ebdaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019-08-23-voice-interfaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "122f43f34bdf71b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019-05-30-ux-problem-with-the-voting-system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72cd8e911f835c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2016-12-05-design-must-humanise-technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "761672a34cb41a18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2016-12-05-design-must-humanise-technology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c99cf16f8f4063a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2021-06-01-muvin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af5ff1f80da0519d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-10-rabbit-r1-review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f9340d7355b09acb",
             "type": "leaf",
             "state": {
@@ -91,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a72738d9de685256",
@@ -207,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,8 +149,10 @@
   },
   "active": "f9340d7355b09acb",
   "lastOpenFiles": [
-    "2023-11-28-review-of-humane-ai-pin.md",
+    "Untitled.md",
     "2024-01-10-rabbit-r1-review.md",
+    "@teenageengin33r.md",
+    "2023-11-28-review-of-humane-ai-pin.md",
     "2021-06-01-muvin.md",
     "2022-06-01-auditone.md",
     "2017-06-01-fis.md",
@@ -246,8 +175,6 @@
     "2019-04-05-design-should-reflect-values.md",
     "2019-02-21-4-ways-to-improve-patient-experience.md",
     "2019-01-10-the-five-promises-of-technology.md",
-    "Designing for Decentralisation.md",
-    "Is AI art real art.md",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp",
     "Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp",
