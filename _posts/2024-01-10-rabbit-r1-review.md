@@ -10,8 +10,8 @@ tags:
   - design
   - technology
   - hardware
-featured: false
-hidden: true
+featured: true
+hidden: false
 comments: false
 ---
 # The Launch of Something New
