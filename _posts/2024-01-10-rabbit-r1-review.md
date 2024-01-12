@@ -14,6 +14,9 @@ featured: true
 hidden: false
 comments: false
 ---
+*A detailed review of the newly launched Rabbit R1, exploring its hardware and software design, its strategic position in the market and its potential challenges*
+
+___
 # The Launch of Something New
 
 To say that the Rabbit team copied the Steve Jobs keynote would be an understatement! The only thing missing was the Vera Wang turtleneck. It was a black t-shirt instead, but otherwise the same slide style from Apple Keynote with the gradient, the same format for the presentation, the hand gestures, including the "One more thing..." announcement in the end. But OnePlus did this too before, including the turtleneck. While it was thought to be cringe-worthy at the time, the product made up for the lack of originality in presentation. 

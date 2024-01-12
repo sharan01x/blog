@@ -5,13 +5,16 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/blog//</link>
     <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jan 2024 16:10:26 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2024 16:10:26 +0100</lastBuildDate>
+    <pubDate>Fri, 12 Jan 2024 16:15:25 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2024 16:15:25 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Review of the Rabbit R1</title>
-        <description>&lt;h1 id=&quot;the-launch-of-something-new&quot;&gt;The Launch of Something New&lt;/h1&gt;
+        <description>&lt;p&gt;&lt;em&gt;A detailed review of the newly launched Rabbit R1, exploring its hardware and software design, its strategic position in the market and its potential challenges&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h1 id=&quot;the-launch-of-something-new&quot;&gt;The Launch of Something New&lt;/h1&gt;
 
 &lt;p&gt;To say that the Rabbit team copied the Steve Jobs keynote would be an understatement! The only thing missing was the Vera Wang turtleneck. It was a black t-shirt instead, but otherwise the same slide style from Apple Keynote with the gradient, the same format for the presentation, the hand gestures, including the “One more thing…” announcement in the end. But OnePlus did this too before, including the turtleneck. While it was thought to be cringe-worthy at the time, the product made up for the lack of originality in presentation.&lt;/p&gt;
 
