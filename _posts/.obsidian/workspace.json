@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a72738d9de685256",
@@ -149,15 +148,16 @@
   },
   "active": "f9340d7355b09acb",
   "lastOpenFiles": [
-    "Untitled.md",
+    "review-of-humane-ai-pin.md",
     "2024-01-10-rabbit-r1-review.md",
-    "@teenageengin33r.md",
     "2023-11-28-review-of-humane-ai-pin.md",
+    "2018-06-01-lenskart.md",
+    "Untitled.md",
+    "@teenageengin33r.md",
     "2021-06-01-muvin.md",
     "2022-06-01-auditone.md",
     "2017-06-01-fis.md",
     "2018-03-01-cloudnine.md",
-    "2018-06-01-lenskart.md",
     "2023-07-13-generative-ai-art-experiments.md",
     "2016-12-05-design-must-humanise-technology.md",
     "Zero UI is here to stay.md",
@@ -174,7 +174,6 @@
     "2019-05-30-ux-problem-with-the-voting-system.md",
     "2019-04-05-design-should-reflect-values.md",
     "2019-02-21-4-ways-to-improve-patient-experience.md",
-    "2019-01-10-the-five-promises-of-technology.md",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp",
     "Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp",

@@ -19,9 +19,7 @@ comments: false
 ___
 # The Launch of Something New
 
-To say that the Rabbit team copied the Steve Jobs keynote would be an understatement! The only thing missing was the Vera Wang turtleneck. It was a black t-shirt instead, but otherwise the same slide style from Apple Keynote with the gradient, the same format for the presentation, the hand gestures, including the "One more thing..." announcement in the end. But OnePlus did this too before, including the turtleneck. While it was thought to be cringe-worthy at the time, the product made up for the lack of originality in presentation. 
-
-But let's not get hung up on style and look at the substance instead.
+To say that the Rabbit team copied the Steve Jobs keynote would be an understatement! The only thing missing was the Vera Wang turtleneck. It was a black t-shirt instead, but otherwise the same slide style from Apple Keynote with the gradient, the same format for the presentation, the hand gestures, including the "One more thing..." announcement in the end. But OnePlus did this too before, including the turtleneck. While it was thought to be cringe-worthy at the time, the product made up for the lack of originality in presentation. So, let's not get hung up on style and look at the substance instead.
 # Background
 
 The tech-world has been in pursuit of two things for the past couple of years. The first is an answer to what replaces the smart phone. Depending on who you ask, the smartphone has stayed relatively the same since its debut in 2007. It's been upgraded in small ways with better screens, cameras and sensors, but otherwise the form-factor has stayed relatively the same since the beginning despite some major flaws in the structure. But it's been more than 16 years, Steve Jobs isn't around and everyone's looking for the smartphone killer.
@@ -40,9 +38,9 @@ With this backdrop, I think we can evaluate what Rabbit R1 is doing much more ac
 
 It seems they hired [teenageengineering](https://twitter.com/@teenageengin33r) (nice name), which seems to have an inclination to create retro-futuristic looking tech products and reminds me of the stuff created by Dieter Rahms's Braun products. The design is a very cool, lego-inspired shell that houses a great looking touchscreen, a camera on a swivel, a scroll wheel, mics, a slot for USB and SIM cards and a push-button on the right of the product. 
 
-But the touchscreen is a great addition and makes interacting with apps, seeing information delivery much faster, answering questions and such much, much faster than audio based delivery which the AI Pin by Humane chose to do. 
+But the touchscreen is a great addition and makes interacting with apps, seeing information delivery much faster, answering questions and such much, much faster than audio based delivery which the AI Pin by Humane chose to do.
 
-The camera on a swivel seems like a good idea as the R1 can potentially scan the environment to find what a user may be referring to in their instructions. But the plastic above the camera will not let the device be held in an angle less than about 45 degrees and the user will need to position the device like they do smartphones for the camera to be able to see. This is weird, so I am not sure why this choice was made either. Why not just position the camera on the very edge without the top plastic part causing an obstruction?
+The camera on a swivel seems like a good idea as the R1 can potentially scan the environment to find what a user may be referring to in their instructions. But the plastic above the camera will not let the device be held in an angle less than about 45 degrees and the user will need to position the device almost vertically like they do smartphones for the camera to be able to see. This is weird, so I am not sure why this choice was made either. Why not just position the camera on the very edge without the top plastic part causing an obstruction?
 
 <img src="../assets/images/RabbitR1-3.png">
 
