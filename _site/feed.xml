@@ -3,10 +3,10 @@
   <channel>
     <title>Set Things Right</title>
     <description>A digital workbench to turn my ideas into something useful</description>
-    <link>http://localhost:4000/blog//</link>
-    <atom:link href="http://localhost:4000/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jan 2024 16:45:39 +0100</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2024 16:45:39 +0100</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Jan 2024 17:05:53 +0100</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2024 17:05:53 +0100</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -79,8 +79,8 @@
 &lt;p&gt;For any AI companion the major obstacle remains payments. The demo didn’t quite show how the many payments that were alluded to be taking place actually happened and I’m curious to see how this bit works. But this is an exciting space to watch and I’m eager to see how Jesse and Rabbit overcome these obstacles.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Jan 2024 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog//rabbit-r1-review/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//rabbit-r1-review/</guid>
+        <link>http://localhost:4000/rabbit-r1-review/</link>
+        <guid isPermaLink="true">http://localhost:4000/rabbit-r1-review/</guid>
         
         <category>design</category>
         
@@ -115,8 +115,8 @@
 
 </description>
         <pubDate>Tue, 28 Nov 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog//review-of-humane-ai-pin/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//review-of-humane-ai-pin/</guid>
+        <link>http://localhost:4000/review-of-humane-ai-pin/</link>
+        <guid isPermaLink="true">http://localhost:4000/review-of-humane-ai-pin/</guid>
         
         <category>design</category>
         
@@ -217,8 +217,8 @@
 &lt;p&gt;The world is yearning for deeper connections. With the power of technology at our fingertips, it’s time to harness it and create platforms that truly bring people together. We must seize this opportunity to build communities, foster companionship, and combat the growing loneliness in our society. It’s time to reimagine dating platforms as platforms that serve this need, where the focus is on meeting good people and forming meaningful connections. Let’s embrace the advancements in AI and recommendation engines to make this vision a reality. We have the tools, the potential, and the responsibility to improve the human connection. It’s time to take action and create a platform that truly changes lives. It must be attempted because it is important to achieve.&lt;/p&gt;
 </description>
         <pubDate>Tue, 18 Jul 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//is-there-room-for-another-dating-app/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//is-there-room-for-another-dating-app/</guid>
+        <link>http://localhost:4000/is-there-room-for-another-dating-app/</link>
+        <guid isPermaLink="true">http://localhost:4000/is-there-room-for-another-dating-app/</guid>
         
         <category>opinion</category>
         
@@ -351,8 +351,8 @@
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 13 Jul 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//generative-ai-art-experiments/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//generative-ai-art-experiments/</guid>
+        <link>http://localhost:4000/generative-ai-art-experiments/</link>
+        <guid isPermaLink="true">http://localhost:4000/generative-ai-art-experiments/</guid>
         
         <category>technology</category>
         
@@ -424,8 +424,8 @@ ___&lt;/p&gt;
 &lt;p&gt;I think technology is a tool like any other and can be beneficial or detrimental depending on how we use it. It will always lure us with its promise of speed, scale, spread, smarts and asynchrony. While it can improve our lives, indiscriminate employment of it will only result in poor outputs. We must be vigilant about what we employ these tools for. Reduction of effort is a great reason to use technology, but if it can impede our thoughtfulness, it is probably a bad use of it.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Jun 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//better-tools-should-be-better-employed/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//better-tools-should-be-better-employed/</guid>
+        <link>http://localhost:4000/better-tools-should-be-better-employed/</link>
+        <guid isPermaLink="true">http://localhost:4000/better-tools-should-be-better-employed/</guid>
         
         <category>ux</category>
         
@@ -535,8 +535,8 @@ ___&lt;/p&gt;
 &lt;p&gt;As UX designers, we now hold immense power and the capacity to shape the digital worlds we increasingly inhabit. It is time for us to take responsibility for our actions, learn from the best practices, and strive to create a positive impact that fosters long-term well-being. Let us seize this opportunity, embrace our ethical obligations, and design a brighter future for all.&lt;/p&gt;
 </description>
         <pubDate>Fri, 21 Apr 2023 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//the-eight-rules-of-ethics-for-ux-designers/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//the-eight-rules-of-ethics-for-ux-designers/</guid>
+        <link>http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-eight-rules-of-ethics-for-ux-designers/</guid>
         
         <category>ux</category>
         
@@ -630,8 +630,8 @@ ___&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 28 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog//censoring-censorship/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//censoring-censorship/</guid>
+        <link>http://localhost:4000/censoring-censorship/</link>
+        <guid isPermaLink="true">http://localhost:4000/censoring-censorship/</guid>
         
         <category>opinion</category>
         
@@ -730,8 +730,8 @@ ___&lt;/p&gt;
 &lt;p&gt;However, things need to be evaluated from the ground up based on the underlying decentralised architecture in order to deliver superlative experiences that are either at par or even better than the Web2 versions as this is indeed possible.&lt;/p&gt;
 </description>
         <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/blog//seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</guid>
+        <link>http://localhost:4000/seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</link>
+        <guid isPermaLink="true">http://localhost:4000/seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</guid>
         
         <category>ux</category>
         
@@ -977,8 +977,8 @@ ___&lt;/p&gt;
 &lt;p&gt;While the tech is here, the role of user experience design will be extremely important in helping to remove all the complexity and making it ready for mainstream adoption. There’s a very long road ahead, but it’s also filled with opportunities. I hope this article will help to generate ideas and hopefully inspire you to start working in the field of wallets or even something in Web3.&lt;/p&gt;
 </description>
         <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//six-ways-to-supercharge-web3-wallets/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//six-ways-to-supercharge-web3-wallets/</guid>
+        <link>http://localhost:4000/six-ways-to-supercharge-web3-wallets/</link>
+        <guid isPermaLink="true">http://localhost:4000/six-ways-to-supercharge-web3-wallets/</guid>
         
         <category>design</category>
         
@@ -1041,8 +1041,8 @@ Communication design
 
 </description>
         <pubDate>Wed, 01 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/blog//auditone/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog//auditone/</guid>
+        <link>http://localhost:4000/auditone/</link>
+        <guid isPermaLink="true">http://localhost:4000/auditone/</guid>
         
         <category>decentralisation</category>
         

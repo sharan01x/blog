@@ -3,7 +3,7 @@ name: "Set Things Right"
 title: "Set Things Right"
 description: "A digital workbench to turn my ideas into something useful"
 logo: 'assets/images/sharanx-high-resolution-logo-black-on-transparent.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics: ''
 disqus: 'sharanx'
@@ -16,8 +16,8 @@ authors:
   sharanx:
     name: Sharan
     display_name: sharanx
-    gravatar: sharan467777e876
-    email: sharanx@redd.in
+    gravatar: 10aeed4494e1809d432a2f110d89abc3a3f5079d6fb4c7480606499e779a3426
+    email: sharan@redd.in
     twitter: https://twitter.com/sharan01x
     mastodon: https://mastodon.social/@sharanx
     lens: https://hey.lens.zone/@sharanx
