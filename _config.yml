@@ -5,7 +5,7 @@ description: "A digital workbench to turn my ideas into something useful"
 logo: 'assets/images/sharanx-high-resolution-logo-black-on-transparent.png'
 favicon: 'assets/images/favicon.png'
 baseurl: ''
-google_analytics: ''
+google_analytics: 'G-N1BYHDV9BK'
 disqus: 'sharanx'
 mailchimp-list: 
 include: ["_pages"]
