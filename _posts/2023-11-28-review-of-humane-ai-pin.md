@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design Review of the AI Pin by Humane
+title: Design review of the AI Pin by Humane
 description: A designer's perspective of Humane's first AI assistant product, the AI Pin
 image: assets/images/HumaneAIPinHeader.png
 author: sharan

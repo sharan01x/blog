@@ -1,0 +1,31 @@
+{
+  "apiKey": "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",
+  "max_tokens": "",
+  "model": "gpt-4",
+  "system_role": "",
+  "temperature": 1,
+  "userName": "USER",
+  "chatbotName": "BMO",
+  "chatbotContainerBackgroundColor": "--background-secondary",
+  "userMessageBackgroundColor": "--background-primary",
+  "botMessageBackgroundColor": "--background-secondary",
+  "chatHistoryPath": "BMO/",
+  "templateFilePath": "",
+  "promptFolderPath": "",
+  "prompt": "",
+  "openAIBaseUrl": "https://api.openai.com/v1",
+  "ollamaRestAPIUrl": "http://localhost:11434",
+  "allowOllamaStream": false,
+  "localAIRestAPIUrl": "",
+  "referenceCurrentNote": false,
+  "allowRenameNoteTitle": false,
+  "allModels": [
+    "gpt-3.5-turbo",
+    "gpt-3.5-turbo-1106",
+    "gpt-4",
+    "gpt-4-1106-preview"
+  ],
+  "ollamaModels": [],
+  "localAIModels": [],
+  "openAIBaseModels": []
+}

@@ -13,7 +13,7 @@ featured: false
 hidden: false
 comments: false
 ---
-When you have access to tools that provide you unlimited capability, how should these tools be used
+When you have access to tools that provide you unlimited capability, how should these tools be used.
 # Introduction
 In the age of AI, the only limitation to creating things is our ability to imagine them. While AI tools allow for new possibilities, there is a real growing concern that our ability to imagine itself may be eviscerated. But uniquely to our time, there are dire consequences to using *and* not using the technologies. The only way forward is to pay attention to where we employ these tools and where we don’t.
 

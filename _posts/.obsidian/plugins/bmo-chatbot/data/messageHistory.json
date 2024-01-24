@@ -1,0 +1,14 @@
+[
+    {
+        "role": "user",
+        "content": "TEst"
+    },
+    {
+        "role": "user",
+        "content": "Revise the following text for grammar:\n\n\"But while I wouldn't want to buy this product myself for the reasons an deficiencies I mentioned above, I still consider it a \"directional innovation\" that points the industry in the right direction. There will be numerous iterations before the right form factor will be realised for the product as well as the right business models will be created for the companies behind them. So I'll be following Jesse and his team closely to see if they learn and iterate as I expect they will.\""
+    },
+    {
+        "role": "assistant",
+        "content": "\"While I don't personally wish to purchase this product due to the aforementioned issues and deficiencies, I still regard it as a 'directional innovation' that pushes the industry in the proper direction. There will be numerous iterations before the ideal form factor for the product is realized, as well as the perfect business models for the companies backing them. Consequently, I intend to keep a close eye on Jesse and his team to see if they adapt and iterate as I anticipate they will.\""
+    }
+]
