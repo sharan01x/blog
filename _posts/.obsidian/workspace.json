@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b813bd1048c19c5",
+        "id": "44e9b32429c3523f",
         "type": "tabs",
         "children": [
           {
-            "id": "f9340d7355b09acb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-01-10-rabbit-r1-review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8761ad33e16edfe4",
+            "id": "b0d0e29bdb110dcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8761ad33e16edfe4",
+  "active": "b0d0e29bdb110dcd",
   "lastOpenFiles": [
     "2024-01-10-rabbit-r1-review.md",
-    "2023-11-28-review-of-humane-ai-pin.md",
     "2024-01-24-experiments with 3d printing.md",
+    "2023-11-28-review-of-humane-ai-pin.md",
     "2023-06-29-better-tools-should-be-better-employed.md",
     "review-of-humane-ai-pin.md",
     "@teenageengin33r.md",
