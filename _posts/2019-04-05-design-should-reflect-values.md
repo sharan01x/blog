@@ -9,7 +9,7 @@ categories:
 tags:
   - design
   - ux
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

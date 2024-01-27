@@ -9,7 +9,7 @@ categories:
 tags:
   - technology
   - opinion
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

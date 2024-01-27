@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-24-experiments with 3d printing.md",
-                "mode": "source",
-                "source": false
+                "file": "2022-06-01-auditone.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-24-experiments with 3d printing.md",
+                "file": "2022-06-01-auditone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-24-experiments with 3d printing.md",
+                "file": "2022-06-01-auditone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-24-experiments with 3d printing.md"
+                "file": "2022-06-01-auditone.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -148,8 +148,11 @@
   },
   "active": "b0d0e29bdb110dcd",
   "lastOpenFiles": [
-    "2024-01-10-rabbit-r1-review.md",
+    "2019-01-10-the-five-promises-of-technology.md",
+    "2023-02-12-seven-structural-elements-to-keep-in-mind-for-web3-ux-design.md",
+    "2019-04-05-design-should-reflect-values.md",
     "2024-01-24-experiments with 3d printing.md",
+    "2024-01-10-rabbit-r1-review.md",
     "2023-11-28-review-of-humane-ai-pin.md",
     "2023-06-29-better-tools-should-be-better-employed.md",
     "review-of-humane-ai-pin.md",
@@ -167,13 +170,10 @@
     "2023-07-18-is-there-room-for-another-dating-app.md",
     "2023-04-21-the-eight-rules-of-ethics-for-ux-designers.md",
     "2023-02-28-censoring-censorship.md",
-    "2023-02-12-seven-structural-elements-to-keep-in-mind-for-web3-ux-design.md",
     "2022-06-22-six-ways-to-supercharge-web3-wallets.md",
     "2019-10-17-designing-for-the-next-billion-users.md",
     "2019-08-23-voice-interfaces.md",
     "2019-05-30-ux-problem-with-the-voting-system.md",
-    "2019-04-05-design-should-reflect-values.md",
-    "2019-02-21-4-ways-to-improve-patient-experience.md",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp",
     "Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp",
