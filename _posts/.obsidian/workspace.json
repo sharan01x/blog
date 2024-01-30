@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-06-01-auditone.md",
-                "mode": "preview",
+                "file": "2024-01-24-experiments with 3d printing.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5
+    "width": 345.5,
+    "collapsed": true
   },
   "right": {
     "id": "a72738d9de685256",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-06-01-auditone.md",
+                "file": "2024-01-24-experiments with 3d printing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-06-01-auditone.md",
+                "file": "2024-01-24-experiments with 3d printing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-06-01-auditone.md"
+                "file": "2024-01-24-experiments with 3d printing.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,10 +150,12 @@
   },
   "active": "b0d0e29bdb110dcd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2024-01-24-experiments with 3d printing.md",
+    "2022-06-01-auditone.md",
     "2019-01-10-the-five-promises-of-technology.md",
     "2023-02-12-seven-structural-elements-to-keep-in-mind-for-web3-ux-design.md",
     "2019-04-05-design-should-reflect-values.md",
-    "2024-01-24-experiments with 3d printing.md",
     "2024-01-10-rabbit-r1-review.md",
     "2023-11-28-review-of-humane-ai-pin.md",
     "2023-06-29-better-tools-should-be-better-employed.md",
@@ -159,7 +163,6 @@
     "@teenageengin33r.md",
     "2018-06-01-lenskart.md",
     "2021-06-01-muvin.md",
-    "2022-06-01-auditone.md",
     "2017-06-01-fis.md",
     "2018-03-01-cloudnine.md",
     "2023-07-13-generative-ai-art-experiments.md",
@@ -173,7 +176,6 @@
     "2022-06-22-six-ways-to-supercharge-web3-wallets.md",
     "2019-10-17-designing-for-the-next-billion-users.md",
     "2019-08-23-voice-interfaces.md",
-    "2019-05-30-ux-problem-with-the-voting-system.md",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-highly-detailed-and.jpeg.webp",
     "Pencil-sketch-of-two-people-in-business-suits-having-coffee-at-a-sidewalk-cafe-in-a-European-city-h.jpeg.webp",
     "Pencil-sketch-of-a-happy-group-of-friends-at-a-sidewalk-cafe-in-a-European-city-with-sharp-focus-on-.jpeg.webp",
