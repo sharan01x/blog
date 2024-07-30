@@ -5,14 +5,15 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jul 2024 08:23:34 +0200</pubDate>
-    <lastBuildDate>Tue, 30 Jul 2024 08:23:34 +0200</lastBuildDate>
+    <pubDate>Tue, 30 Jul 2024 08:29:39 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2024 08:29:39 +0200</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
         <title>Where the puck is going to be</title>
-        <description>&lt;p&gt;&lt;em&gt;Product design requires you to imagine the future version of a product, but how do you do it reliably? Ice Hockey may offer some insights.&lt;/em&gt;
-___&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;Product design requires you to imagine the future version of a product, but how do you do it reliably? Ice Hockey may offer some insights.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
 &lt;h1 id=&quot;ice-hockey-and-product-design&quot;&gt;Ice Hockey and Product Design&lt;/h1&gt;
 
 &lt;p&gt;According to the Wayne Gretsky quote that goes, “I skate to where the puck is going to be, not where it is”, the way to win is to accurately anticipate the future outcomes as accurately as possible. The principle could be applied to product design too. The way to design a successful product is to know what the next version of the product is going to be. But the challenge of knowing what that is as challenging as judging where the hockey puck is going to be on the ice rink.&lt;/p&gt;

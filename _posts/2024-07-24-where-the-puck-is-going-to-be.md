@@ -14,6 +14,7 @@ hidden:
 comments: true
 ---
 *Product design requires you to imagine the future version of a product, but how do you do it reliably? Ice Hockey may offer some insights.*
+
 ___
 # Ice Hockey and Product Design
 
