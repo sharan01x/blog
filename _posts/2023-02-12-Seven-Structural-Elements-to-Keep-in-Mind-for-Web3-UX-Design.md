@@ -11,7 +11,7 @@ tags:
   - web3
   - decentralisation
   - design
-featured: true
+featured: false
 hidden: false
 comments: false
 ---

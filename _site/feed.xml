@@ -5,9 +5,42 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 09 Feb 2024 14:01:10 +0100</pubDate>
-    <lastBuildDate>Fri, 09 Feb 2024 14:01:10 +0100</lastBuildDate>
+    <pubDate>Tue, 30 Jul 2024 08:23:34 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Jul 2024 08:23:34 +0200</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Where the puck is going to be</title>
+        <description>&lt;p&gt;&lt;em&gt;Product design requires you to imagine the future version of a product, but how do you do it reliably? Ice Hockey may offer some insights.&lt;/em&gt;
+___&lt;/p&gt;
+&lt;h1 id=&quot;ice-hockey-and-product-design&quot;&gt;Ice Hockey and Product Design&lt;/h1&gt;
+
+&lt;p&gt;According to the Wayne Gretsky quote that goes, “I skate to where the puck is going to be, not where it is”, the way to win is to accurately anticipate the future outcomes as accurately as possible. The principle could be applied to product design too. The way to design a successful product is to know what the next version of the product is going to be. But the challenge of knowing what that is as challenging as judging where the hockey puck is going to be on the ice rink.&lt;/p&gt;
+
+&lt;p&gt;But while no one can be absolutely certain where exactly the puck is going to be on the rink, one can be absolutely certain about one thing, and that is that the puck is headed towards the other team’s goal. In a similar sense, the product’s end goal is to suit the needs of the consumer perfectly.&lt;/p&gt;
+
+&lt;p&gt;The consumer is human. The form the product must then take is to suit the form of a human body. If the product is meant to be held, it must fit the hand perfectly. If it is meant to be worn on the ear, then it must fit various ear types. If it is meant to be used over a period of time, then it must use materials that will not strain the user during that period. In terms of the function it performs, it must serve the needs of the human as accurately while also needing as little effort as possible. The final version of the product therefore is possible to define, at least in the abstract.&lt;/p&gt;
+
+&lt;p&gt;Let me illustrate the idea with some examples. Consider the evolution of the USB cable. Type A USB cables required the user guess which way should be facing up before plugging it into a socket. Many users struggled with this and the act of plugging in the USB A cable into a socket was a hit or a miss &lt;em&gt;every time&lt;/em&gt;. Making the cable pluggable into a socket in either orientation therefore was obvious. Therefore that’s what happened in the future iteration of the USB C cable.&lt;/p&gt;
+
+&lt;p&gt;Another issue with the cable was that the sockets it plugged into on the other side was variable. There were the USB A plug, USB B plug, a mini USB plug and even a micro USB plug. You therefore had to have at least one cable of each type in order to be able to connect with various device types that one bought over time, not to mention the proprietary cables that were required by some devices like smart watches. Intuitively one can see that these were too many cables to basically perform the same task. Again, no wonder the USB C cable’s invention. As of the time of writing this article, the USB C cable too has various types, the ones that supply current and the ones that also transfer data. How long do you think that’s going to stay that way?&lt;/p&gt;
+
+&lt;p&gt;The same principle can be applied to Generative AI tools – do you think specialised prompts are going to be required much longer; computer keyboards – are they more convenient than speech;  or even subscription services – will Adobe get away with charging cancellation charges for their subscription service for much longer?&lt;/p&gt;
+
+&lt;p&gt;It is easy to answer these questions I suppose. However the problem really lies in defining the intermediate states of the product between it’s current state and the final form. These intermediate states are dictated not by the human being it is meant to serve, but by other constraints such as materials available, the tools, technologies, the people available to build that next version, legal and environmental constraints, the organisational politics, available marketing budgets or even the designer’s inability to understand who the user is. After all, products aren’t designed in a vacuum.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Jul 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/where-the-puck-is-going-to-be/</link>
+        <guid isPermaLink="true">http://localhost:4000/where-the-puck-is-going-to-be/</guid>
+        
+        <category>design</category>
+        
+        <category>opinion</category>
+        
+        
+        <category>Ideas</category>
+        
+      </item>
     
       <item>
         <title>My experiments with 3D printing</title>
@@ -810,255 +843,6 @@ ___&lt;/p&gt;
         <category>decentralisation</category>
         
         <category>design</category>
-        
-        
-        <category>Ideas</category>
-        
-      </item>
-    
-      <item>
-        <title>Six Ways to Supercharge the UX of Web3 Wallets</title>
-        <description>&lt;p&gt;Wallets are the entry point to web3 and they shoulder a huge responsibility&lt;/p&gt;
-&lt;h1 id=&quot;lets-set-the-context&quot;&gt;Let’s Set the Context&lt;/h1&gt;
-
-&lt;p&gt;The debate surrounding ideal ways to organise societies is nearly as old as there have been people on this planet. We’ve gone from small bands of people living as hunter-gatherers whose primary concern was survival, to settlements centred around agriculture, which then formed countries whose primary concern became security.&lt;/p&gt;
-
-&lt;p&gt;Because of the labour surplus created by each successive organisational structure of society, individuals gained more time to focus and specialise since they were able to depend on other members for the things necessary for their survival instead of having to produce it themselves. For example, the hunter-gatherers had to do the hunting, sheltering, protecting, entertaining, sewing, medicating and child-rearing all by themselves, leaving them little time in the day to focus on figuring out the science behind space travel; whereas today, I can write this article without worrying about hunting a boar to feed myself later. Interestingly, this specialisation of individuals has allowed the group to flourish and grow and this has spurred people on to develop even more focussed skillsets.&lt;/p&gt;
-
-&lt;p&gt;On a side note, one of my favourite quotes is that of Robert Heinlein’s where he’s defining the “competent man” as I do feel a fuller perspective is useful. But it’s also special to me because it highlights how rapidly society has changed in the 50 years since it was coined!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyse a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.”&lt;/p&gt;
-
-  &lt;p&gt;— Robert Heinlein, Author&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;But while constructing societies around specialisation has obviously been beneficial, it hasn’t been without its flaws. There are still gross inefficiencies, inequities and injustices in any sizeable society. One may be tempted to blame it on corruption, but I think of it as a symptom and not the cause because it’s extremely hard to align any large group of people along a common goal — ask anyone who’s tried to arrange a dinner for a group! You try to select the restaurant that the majority prefer, or the most neutral place, or simply the boss’s favourite eatery — but none of these are going to satisfy the desires of the whole group and is bound to leave someone dissatisfied. While these strategies may be okay to apply in the case of planning dinners, they are problematic if used for anything more important; but these are also the models for the distribution of wealth, voting rights, laws to guide society, etc.&lt;/p&gt;
-
-&lt;p&gt;The problems with organising societies based on majoritarian or authoritarian models are not new. They usually leave minorities without a voice and positive evolution takes a much longer time to take effect. Moreover, they enable a few of those in power to not just unduly enrich themselves, but to also change laws and processes that benefit them greatly. And far too often, there is discord between factions of people (domestically or internationally) so those in power are portrayed as necessary to maintain the peace. We allow these paradigms for societies to exist because we believe there isn’t a better way. But that’s an assumption based on the technologies of the past. However, technology has evolved and it’s time to reconsider our long-held beliefs.&lt;/p&gt;
-
-&lt;p&gt;To develop a better model for societies, you need three things — the first is a way to organise groups around a common goal to achieve the things that can’t be done as individuals; second, a method to transact with other individuals in a trustworthy way so we don’t have to use violence as a method of resolving disagreements; and third, a foolproof system of owning property that allows us to benefit from the fruits of our labour. It wasn’t possible to provide these privileges without relying on central power structures to enforce them. Those in charge of these power structures (either through divine decree or as elected officials) used a varied set of tools like organised religion, currencies, laws, public relations and censorship to keep societies compliant and under control. When they weren’t able to do so with some individuals, they resorted to their usurped monopoly on violence to impose that control.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;I once heard the line in a movie: “Geography is destiny, my friend”, and it struck me as the fundamental definition of life for a lot of us. It’s purely the luck of the draw and far too few have opportunities to change them.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The world of cryptography, blockchains and cryptocurrencies is one where trustless architectures are laying the foundations that will enable the reorganisation of societies in any number of ways that we may wish. These technologies allow for individuals to hold custody over their currencies on their own; organise themselves into groups, vote to perform a certain action and immediately disband thereafter; recognise efforts put in by people who participate in developing “public goods” that benefit society and many others. And if the crypto world can achieve what it has set out to, societies may never be organised around geographies again and instead be driven by ideas and philosophies. One could even belong to more than one society at a time if they chose to. How amazing would that world be?&lt;/p&gt;
-
-&lt;h1 id=&quot;now-the-design-stuff&quot;&gt;Now, the Design Stuff&lt;/h1&gt;
-
-&lt;p&gt;If you’ve navigated through the sociology nerd forest above and are still reading this, you may be wondering what all that has to do with Web3 wallets. Well, I’ve always believed that any good UX designer has to understand the context they’re designing within as well as possible.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Always design a thing by considering it in its next larger context — a chair in a room, a room in a house, a house in an environment, an environment in a city plan.”&lt;/p&gt;
-
-  &lt;p&gt;— Eliel Saarinen, Architect&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Web3 wallets are the first things anyone who is interested in becoming a part of the decentralised world will be exposed to. So it’s important to understand what its role is in the bigger picture before designing it otherwise your work will always be incremental.&lt;/p&gt;
-
-&lt;p&gt;Having been first exposed to cryptocurrencies back in 2016, I’ve made mistakes, understood and overcome many of the technical limitations placed on me by the tech involved. I am now in a position to list improvements that will have the greatest impact on improving the user experience of these wallets and I’ve boiled it down to the following six areas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Education and awareness&lt;/li&gt;
-  &lt;li&gt;Security&lt;/li&gt;
-  &lt;li&gt;Daily usage&lt;/li&gt;
-  &lt;li&gt;Motivation for usage&lt;/li&gt;
-  &lt;li&gt;Taxation management&lt;/li&gt;
-  &lt;li&gt;Preferences management&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Let’s get into each of these in detail below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*VvxeiUlxaXoJ3Uf2&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@kellysikkema?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Kelly Sikkema&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-1-education-and-awareness&quot;&gt;Focus Area #1: Education and Awareness&lt;/h2&gt;
-
-&lt;p&gt;In my crypto-related conversations with people over the years, I’ve found that there are specific questions that most seem to have before they feel comfortable enough to dive in and learn the concepts themselves. The following are topics we need to cover whether through simple FAQs, orientation videos and/or interactive experiences.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;How can cryptocurrency be better than fiat?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Incremental benefits will not captivate anyone. We need to find a way to explain why cryptocurrencies and decentralised apps are 10X better than the fiat equivalents. We need to:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Explain why decentralised money is better than allowing a select few to decide what’s good for everyone else.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Show how no one will be able to confiscate them for reasons as trivial as “the home address on record hasn’t been updated in a while”.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Talk about the layers of people that are involved in traditional banking and how their salaries translate to the fees they apply on allowing us to perform even the most basic of transactions with our own money.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Highlight the convenience of being able to transact with anyone instantaneously, without restrictions, and for a very small fee.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Illustrate the benefits of being able to carry our capital anywhere in the world without any kind of constraints.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;What are the benefits of using Web3?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;No one will use something if they don’t understand the reasons for doing so. Once the benefits of decentralised currencies are understood by our users, we need to explain the advantages of Web3 dApps.&lt;/p&gt;
-
-&lt;p&gt;Here, we can highlight the obvious privacy benefits, the ability to carry our social network with us across platforms, the capacity to earn from anywhere, new job opportunities (including the ones for non-techies, which is usually a surprise to most) in the space and new business models that can help launch entirely new services and products that have not yet been built.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;What exactly are these Web3 concepts?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We need to create a glossary of terms and concepts that explains all the ideas that one needs to understand in order to use a Web3 wallet.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Are there security measures in place?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the biggest fears is about security and the potential of losing money. We should build interfaces that take users step-by-step through the security measures that they need to take in order to secure themselves on the decentralised web. This section can also be updated on an ongoing basis if new threat vectors are found.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;There’s no substitute for real sandboxes, is there?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Let’s face it, there’s no substitute to actually using the wallets and sending and receiving our first transactions for us to get the hang of using it. We must create sandboxes in which people can send and receive test tokens to simulate the real environment that they are working with. This should be as real as possible, including the ability to send and receive test tokens from friends.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversation, anyone?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This has been one of the best ways to learn about crypto for me. I can ask the questions that aren’t covered by videos, discussion threads, FAQs or the like to figure out exactly what we need to do. Wallets should have interfaces where such conversations can take place because asking someone to jump on Discord isn’t really a good alternative.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*bKZv1FWAqIjmcuDi&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@fantasyflip?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Philipp Katzenberger&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-2-security&quot;&gt;Focus Area #2: Security&lt;/h2&gt;
-
-&lt;p&gt;One of the biggest hurdles to adoption are the fears about security — security of key generation and management, recovery methods, volatility of currencies and, of course, scams.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Seed Phrases&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While seed phrases have come a long way in simplifying the generation of private and public keys, it could be further eased by allowing users to specify their own words. They could then try to form sentences that will help with better recall if it ever becomes necessary.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Key Management&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There’s a common phrase in the crypto world that goes: “Not your keys, not your crypto”, that encourages people to get off centralised exchanges and store their crypto on their own in cold wallets. But counterintuitively, it’s even more frightening to the everyday user because most of them don’t feel qualified enough to manage their own keys. This is a crucial area that needs to be addressed and solutions like those being developed by the likes of Arcana could help alleviate this problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Recovery Methods&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Forgetting to store your keys is an all-too familiar problem as evidenced by the number of support calls on Coinbase about retrieving access to wallets because the users no longer remembered where their keys were. Good UX is forgiving and allows for people to recover from mistakes. So developing good and secure ways to regain wallet access is a necessity. There are several proposals for doing this, each trying to solve the problem for a certain type of user because there really isn’t a one-size-fits-all solution.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Assistance&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Users that are unfamiliar with crypto wallets should be able to seek assistance from their family or friends. They could also appoint them as “guardians” who jump in to verify transactions in case the payment is an unexpectedly high amount or is being performed on an unsafe website or dApp.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scams&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Unfortunately there are rug pulls and cons all the time on the web — something about the anonymity seems to bring out the worst in some people. However, the wallet can take on the role of notifying users that they are operating on a website, a dApp or a wallet that’s been reported for scams by others. There are lots of details to wade through here to make this successful, but this is the higher-order bit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*Q2eH6YV78--HHhzl&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@rupixen?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;rupixen.com&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-3-daily-usage&quot;&gt;Focus Area #3: Daily Usage**&lt;/h2&gt;
-
-&lt;p&gt;The greatest impact will lie in UX refinements in the parts of the wallet that are used frequently. This includes making payment for purchases made, receiving of funds, buying things, etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Payments&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is the primary use of most wallets, but it’s too complex primarily because of wallet addresses. We will need to focus on ways to make it as easy as sending payments on Venmo or Google Pay where the transfer of money takes place using people’s names or phone numbers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Receipts&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Receiving money is usually a four-step process where we have to first determine the currency to be used, share the appropriate wallet address next, then specify the amount that needs to be transferred and finally verify if the right amount was received. Simplification? Yes, please! Ethereum Name Service has taken a good vital first step, but wallets could go further in making this even easier.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Conversions&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In the future, people may hold coins/tokens of various projects that they would like to support. But these coins and tokens will be superfluous when transacting with each other. The receiver will specify which coin/token they want to receive the payment in and the bridging between chains and tokens will need to be taken care of without the user’s intervention or awareness.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Volatility&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;People are also apprehensive of the volatility in the crypto world. In everyday usage, this is mainly caused by the denominator (typically USD) that is used to display the balance in wallets. However, our bank balances are not constantly showing us what the value is in another currency so why do we do this with our crypto wallets?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Transaction Fees&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Sometimes, a big deterrent to performing transactions is the sky-high fees charged when the network is busy. There are lots of transactions that aren’t time-sensitive, such as moving funds between the user’s many wallets, settling bills between friends, and others that can actually wait to be done at a less expensive time. But there aren’t simple solutions to allow these to happen.&lt;/p&gt;
-
-&lt;p&gt;The solution currently is to either try the same transaction at another time when the network isn’t as busy and expensive, or to try and fiddle with the settings to set a lower gas fee. These are not ideal as firstly, the fees a user may be willing to pay may occur several days later on the network and may require multiple attempts. Secondly, most people aren’t savvy enough to understand what the right settings for gas fees need to be and trial and error is sometimes more expensive than actually paying the fee amount that was being charged earlier.&lt;/p&gt;
-
-&lt;p&gt;In addition to the features available today, users should also be able to simply set the price they are willing to pay and allow the transaction to occur whenever the network fees drop to that point. The wallet could let the user know if the fees set are so low as to be impractical and never occur.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*xhQj6PbWbmZvbixz&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@mbaumi?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Mika Baumeister&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-4-motivation-for-usage&quot;&gt;Focus Area #4: Motivation for Usage&lt;/h2&gt;
-
-&lt;p&gt;Just holding the coins or tokens isn’t going to be enough to build mass adoption. We need to encourage users to utilise their tokens too. The following are some ways to help them to do so.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shopping&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While it may not be the case in the future, the need of the hour is for people to understand where they can spend this money that they are accumulating. Knowing that they can purchase domains, pay for utilities or even spend it on pizza will help them to understand that cryptocurrencies aren’t just meant to be held but used.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Investing Easily&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Undoubtedly, if the currencies held in a wallet can earn you money while they just sit there, it’s a big draw. Investments in DeFi should be made simple through an integration with the wallets.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*KUa8oB5q51cqPBn0&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@kellysikkema?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Kelly Sikkema&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-5-taxes&quot;&gt;Focus Area #5: Taxes&lt;/h2&gt;
-
-&lt;p&gt;Once regulation is more solidified, the role of the wallet in enabling tax filing and management starts to become important.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Simplifying Taxes&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The wallets will need to handle more complex things like whether a transaction is taxable or not; for example, what if the user gets a virtual sword instead of tokens when trading, or what if I swap one NFT for two others? These and other questions will need to be managed by wallets.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Tax Guide&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The wallets can also start to inform users of transactions that will incur high taxes compared to others that are tax beneficial. No tax consultant today can do this stuff and has therefore &lt;em&gt;got&lt;/em&gt; to be handled by the wallets based on the regulations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*GzUqlylQOQrBLMqL&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@stenslens?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Sten Ritterfeld&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;focus-area-6-preferences&quot;&gt;Focus Area #6: Preferences&lt;/h2&gt;
-
-&lt;p&gt;The settings features of wallets today extend only to how the wallet is set up and used — like default currency denominators, themes, languages, etc. But this is the decentralised world after all and the user’s preferences for the entire web and all the dApps are going to be eventually stored in the wallets.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;ZK Proofs&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Some dApps will require the user’s preference for light or dark modes so the dApp can adapt to it. But others will need to verify if the user is above a certain age and the wallet will have to share the relevant ZK proof for these kinds of interactions on their behalf.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Censorship Options&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This is going to be another big area of focus. As detailed in &lt;a href=&quot;https://medium.com/arcana-network-blog/the-future-of-censorship-as-we-transition-from-web2-to-web3-419b46a38278&quot;&gt;another article&lt;/a&gt; I’ve written before, users can define their preferences for censorship and subscribe to different filters of the web as well.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;I. C. D.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;While the industry is pretty young, having started in earnest around 2010, and the individuals in it relatively youthful, the demographics of the users will also be changing. Concerns regarding what needs to happen in case of death or permanent incapacitation of the primary wallet holder are springing up now. If the keys or access is not granted to their legal heir, the crypto stored by them are lost forever. Wallets can play a critical role here and enable the funds to be released (all at once or in specified instalments) to the next of kin in such cases.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*iH28b2pVepvg-UMB&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Photo by &lt;a href=&quot;https://unsplash.com/@withluke?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Luke Stackpoole&lt;/a&gt; on &lt;a href=&quot;https://unsplash.com/?utm_source=medium&amp;amp;utm_medium=referral&quot;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;A long time ago, Personal Digital Assistants existed alongside mobile phones and the question of which device will take over the functionality of the other was being asked then. This is similar to the question that’s in front of us today. Will the wallet replace the functionality of the browser or will the browser take over the wallet? I don’t think the answer is any clearer today, but this is why we come to work everyday, isn’t it?&lt;/p&gt;
-
-&lt;p&gt;We are going through the biggest paradigm shift in the technology space since Web 1.0 and the role the wallet is going to play in terms of providing access, protecting users and a whole lot more cannot be overstated. The dream of Web 1.0, to help create a decentralised world had one fatal flaw — it didn’t allow commerce on it then. But we’re able to put the final piece of the puzzle together today through cryptocurrencies and DeFi.&lt;/p&gt;
-
-&lt;p&gt;While the tech is here, the role of user experience design will be extremely important in helping to remove all the complexity and making it ready for mainstream adoption. There’s a very long road ahead, but it’s also filled with opportunities. I hope this article will help to generate ideas and hopefully inspire you to start working in the field of wallets or even something in Web3.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 22 Jun 2022 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/six-ways-to-supercharge-web3-wallets/</link>
-        <guid isPermaLink="true">http://localhost:4000/six-ways-to-supercharge-web3-wallets/</guid>
-        
-        <category>design</category>
-        
-        <category>ux</category>
-        
-        <category>web3</category>
-        
-        <category>decentralisation</category>
-        
-        <category>crypto</category>
         
         
         <category>Ideas</category>
