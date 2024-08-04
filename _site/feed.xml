@@ -5,9 +5,177 @@
     <description>A digital workbench to turn my ideas into something useful</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 30 Jul 2024 08:29:39 +0200</pubDate>
-    <lastBuildDate>Tue, 30 Jul 2024 08:29:39 +0200</lastBuildDate>
+    <pubDate>Sun, 04 Aug 2024 22:38:55 +0200</pubDate>
+    <lastBuildDate>Sun, 04 Aug 2024 22:38:55 +0200</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>DIY: A Raspberry Pi based Time Capsule</title>
+        <description>&lt;p&gt;&lt;em&gt;I built an efficient Apple Time Capsule clone that will perform the task of allowing any externally connected hard drive to be used as a backup destination using the Time Machine setup on your Mac.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;what-this-is&quot;&gt;What this is&lt;/h2&gt;
+
+&lt;p&gt;If you want to build your own Apple Time Capsule clone using the Raspberry Pi and an external hard drive, this is the slimmest and most efficient solution that you could build in under an hour, without the bonus 3D printing bit in the end of course!&lt;/p&gt;
+
+&lt;p&gt;You may also be successful if you just follow the steps below, but there’s a step where you need to find your Raspberry Pi on your network and reserve a specific IP address in your router which I won’t be going into that may require some prior knowledge.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-unique-about-this-solution&quot;&gt;What’s unique about this solution&lt;/h2&gt;
+
+&lt;p&gt;This solution has the following characteristics that make it different from other solutions that you may have seen:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You don’t need any other software such as Open Media Vault, which is great if you want to do a whole bunch of other things, but is too much of an overhead if all you want to do is build a network backup solution&lt;/li&gt;
+  &lt;li&gt;This could be setup on very low horse-powered boards like the Raspberry Pi 3A+ as it runs with the services built into the OS&lt;/li&gt;
+  &lt;li&gt;This solution works with more than one Mac on your network&lt;/li&gt;
+  &lt;li&gt;It can do this for guest logins on a network and doesn’t require an account to be setup on the Pi, so this makes it easy to use for a home environment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;requirements&quot;&gt;Requirements&lt;/h2&gt;
+
+&lt;p&gt;You need the following as a minimum:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Raspberry Pi 3 Model A+ with compatible power supply&lt;/li&gt;
+  &lt;li&gt;Micro SD Card with 4GB or more&lt;/li&gt;
+  &lt;li&gt;External hard drive of any capacity that is compatible with the Raspberry Pi’s USB port&lt;/li&gt;
+  &lt;li&gt;The drive will work with most laptops using different OS’s in case that’s needed at any time&lt;/li&gt;
+  &lt;li&gt;Raspberry Pi Imager software&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;software-setup&quot;&gt;Software Setup&lt;/h2&gt;
+
+&lt;h3 id=&quot;step-1-create-the-sd-card-image&quot;&gt;Step 1: Create the SD card image&lt;/h3&gt;
+
+&lt;p&gt;For this, simply do the following:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.1&lt;/strong&gt; Download the &lt;a href=&quot;https://www.raspberrypi.com/software/&quot;&gt;Raspberry Pi Imager&lt;/a&gt; software and open the file and follow the instructions to install the software on your Mac as you would any other software
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-9.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.2&lt;/strong&gt; Plug in the Micro SD card into your Mac. It doesn’t matter if it isn’t already formatted.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.3&lt;/strong&gt; Choose the Raspberry Pi OS Lite (64-bit) image to write to the Micro SD card
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-1.png&quot; /&gt;
+&lt;img src=&quot;../assets/images/timecapsule/timecapsule-2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/timecapsule/timecapsule-3.png&quot; /&gt;
+&lt;strong&gt;1.4&lt;/strong&gt; Choose the Micro SD card that you just inserted into your Mac as the storage destination and click ‘Next’
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-1.png&quot; /&gt;
+&lt;strong&gt;1.5&lt;/strong&gt; In the next step of OS customisation, make sure to Edit Settings and in the first tab
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-5.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5.1&lt;/strong&gt; Setup the host name – this is the name of your Pi on the network. I’ve called mine “pinstripes”, but you could just call it “timecapsule” or anything else you’d like
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5.2&lt;/strong&gt; User name and password for the machine. I suggest you set it to the default username and password for now which are ‘pi’ and ‘raspberry’. You can change this later if you’d like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5.3&lt;/strong&gt; Provide the SSID and password to enable it to connect to your Wifi network. You don’t need this if you’re using a different Raspberry Pi that connects using a LAN cable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5.4&lt;/strong&gt; On the second tab called “Services”, make sure that you enable SSH and use the password authentication mechanism. This will allow you to remotely log into your Pi with the user name and password that you setup in the previous step.
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-7.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.5.5&lt;/strong&gt; Hit “Save” and in the next screen click “Yes” and then “Next” to begin the imaging step. You may need to type in your login and password for your computer to tell your computer that you authorise this action.&lt;/p&gt;
+
+&lt;p&gt;In about 15 minutes your Micro SD card is going to be ready. Just eject your card if not already done before pulling it out of your computer.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-initialise-your-pi-and-set-it-up-on-your-network&quot;&gt;Step 2: Initialise your Pi and set it up on your network&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;2.1&lt;/strong&gt; Setup the host name – this is the name of your Pi on the network, so you could just call it “timecapsule” for simplicity or name it anything else you’d likePlug in your Micro SD card into your Pi and then plug in the power cable to the Pi. After about 5 minutes, the Pi would have booted up and then connected to your network over Wifi (or LAN in case that’s how you’d connected). You don’t need to plug in your external hard drive to the Pi as yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.2&lt;/strong&gt;  Open up a Terminal window on a laptop on the network and type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ping timecapsule.local&lt;/code&gt;. Replace “timecapsule” with whatever you named your Pi in Step 1.5.1. This should return the IP address of your Pi on the network.
+   &lt;img src=&quot;../assets/images/timecapsule/timecapsule-10.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.3&lt;/strong&gt;  Now type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;arp -a&lt;/code&gt; and get the MAC addresses of all the devices connected to your network. Look for the Pi’s MAC address that corresponds to its IP address you found in the previous step.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.4&lt;/strong&gt; Now log into your router which assigns the IP addresses on your network and setup a fixed IP address for your Raspberry Pi’s MAC address. This whole thing may work without this address reservation, but I’ve never tested it. So if you absolutely cannot perform this step, just go through the rest and let me know if it works for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.5&lt;/strong&gt; If you’ve reserved a specific IP address for your Pi and it is different from the one it is currently assigned, you will need to reboot your Pi by turning off the power.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.6&lt;/strong&gt; Once your Pi comes back on your network, go back to your Terminal window and type in the following to log into your Pi through SSH - &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ssh pi@192.168.0.10&lt;/code&gt; where ‘pi’ is the user name and the IP address is the one that you reserved for your Pi in step 2.4. If everything is setup properly, your Pi will ask you for a password and you could just type in ‘raspberry’ or whatever else you set up in Step 1.5.2.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-prepare-your-external-hard-drive&quot;&gt;Step 3: Prepare your external hard drive&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;3.1&lt;/strong&gt; Get your external drive. Be sure you’re using a hard drive that doesn’t have any data that you want to retain as it will be lost forever once you’re done with this step. Connect the hard drive to your Mac.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.2&lt;/strong&gt; Use “Disk Utility” to Erase and initialise your external drive. Name the drive anything you’d like such as “TimeCapsule” but make sure to use “Exfat” and if asked, the “GUID” options for maximum compatibility of the drive across different OS’s. 
+&lt;img src=&quot;../assets/images/timecapsule/timecapsule-11.png&quot; /&gt;
+&lt;img src=&quot;../assets/images/timecapsule/timecapsule-12.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.3&lt;/strong&gt; Once the process is complete, eject your drive from your laptop. It is ready for plugging into your Pi in the next step.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-4-get-the-software-setup&quot;&gt;Step 4: Get the software setup&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;4.1&lt;/strong&gt; While connected to your Pi through a Terminal window, do the following to update your Pi’s OS:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/timecapsule/timecapsule-13.png&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;1. `sudo apt update`
+2. `sudo apt upgrade`
+3. `sudo apt install exfat-fuse -y`
+4. `sudo apt install samba -y
+5. `sudo apt install avahi-daemon -y`
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2&lt;/strong&gt; Once the above packages are installed, let’s mount the external drive.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.1&lt;/strong&gt; Plug in your external drive into the Pi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.2&lt;/strong&gt; Type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo df -Th&lt;/code&gt; which will list all the drives connected to the Pi. Find the identifier for your drive which should most likely be “sda2” but could be different too.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.3&lt;/strong&gt; Create a mount point by typing in the following commands &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo mkdir /mnt/timecapsule&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo mount -t exfat /dev/sda2 /mnt/timecapsule&lt;/code&gt;. Just substitute “sda2” with whatever the drive’s identifier actually is.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.4&lt;/strong&gt; Type in the following to find the UUID of your drive &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;lsblk -f&lt;/code&gt; and all the drives connected to your Pi will show up (including the Micro SD card). Look for the UUID of the drive with the label ‘TimeCapsule’ if that’s what you named the drive in Step 3.2. Cross verify against the size of the drive to be sure. Copy the UUID into the clipboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.5&lt;/strong&gt; To make the mount point persist across reboots of the Pi, you will need to add the following code to the file named “fstab”. You can do that by: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo nano /etc/fstab&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.6&lt;/strong&gt; Paste the following in the end of the file  &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;UUID=your-uuid /mnt/timecapsule exfat defaults,uid=1000,gid=1000,umask=000 0 0&lt;/code&gt; but replace the UUID with the one you copied to the clipboard in the previous step.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.2.7&lt;/strong&gt; Press Ctrl-X to save the file, Yes to write the buffer to file and enter to rewrite the file.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.3&lt;/strong&gt; Now write the configuration file to Samba, which is the file networking service that shows the drive on a network in a form that is compatible with Macs and Windows. To do this, you need to write the following code into the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;smb.conf&lt;/code&gt; file by typing in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo nano /etc/samba/smb.conf&lt;/code&gt; which should bring up the existing configurations in the file. Press the page down key on your keyboard to get to the end of the page and paste this and make sure the mount points are correct:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.4&lt;/strong&gt; Save the file as the other files in step 2.5.3 and then restart the service with the new configurations by typing in the command into your command prompt in the Terminal &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo systemctl restart smbd&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.5&lt;/strong&gt; We’ve got to do the same for the avahi service configuration. To edit the file, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo nano /etc/avahi/services/samba.service&lt;/code&gt; and paste the following code. There are no changes needed to be made.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.6&lt;/strong&gt; Save the file as in step 2.5.3 and then restart the service by typing in the following command &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo systemctl restart avahi-daemon&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I suggest restarting the device itself to make sure that it works even if it ends up restarting on it’s own in the future. To do this, type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;sudo reboot now&lt;/code&gt; into your Terminal command prompt. This will disconnect your session and restart the Raspberry Pi.&lt;/p&gt;
+
+&lt;p&gt;That’s it, you’re ready to go and setup the Time Machine backup from your Mac as always!&lt;/p&gt;
+
+&lt;h2 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h2&gt;
+
+&lt;p&gt;If for any reason you don’t see the newly setup drive when you are setting up Time Machine on your Mac, try to connect to the drive first on the network by going to the Finder &amp;gt; Go &amp;gt; Connect to Server and then typing in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;smb://192.168.0.25&lt;/code&gt; replacing this with the IP address of your newly setup Time Capsule. You should be able to connect to the Raspberry Pi drive. Post that the Time Machine should automatically find the drive on the network. If for any reason this still doesn’t work, there’s probably some step above that you’ve missed. So give that a shot again.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/timecapsule/timecapsule-14.png&quot; /&gt;
+&lt;img src=&quot;../assets/images/timecapsule/timecapsule-15.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bonus-step&quot;&gt;Bonus Step&lt;/h2&gt;
+
+&lt;p&gt;Make a case for the Raspberry Pi and the hard drive to be situated together. I’m designing something for this purpose and should have a 3D printable file posted here soon. Check back in a bit. But if you’d like to print something else, look at the plethora of stuff that’s available to you on &lt;a href=&quot;https://www.printables.com/search/models?q=raspberry%20pi%203a+&amp;amp;ctx=models&quot;&gt;Printables&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 04 Aug 2024 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/raspberry-pi-timecapsule/</link>
+        <guid isPermaLink="true">http://localhost:4000/raspberry-pi-timecapsule/</guid>
+        
+        <category>DIY</category>
+        
+        <category>product</category>
+        
+        <category>design</category>
+        
+        
+        <category>Projects</category>
+        
+      </item>
     
       <item>
         <title>Where the puck is going to be</title>
@@ -742,106 +910,6 @@ ___&lt;/p&gt;
         <category>decentralisation</category>
         
         <category>web3</category>
-        
-        <category>design</category>
-        
-        
-        <category>Ideas</category>
-        
-      </item>
-    
-      <item>
-        <title>Seven Structural Elements to Keep in Mind for Web3 UX Design</title>
-        <description>&lt;p&gt;The structure of web3 influences the design of the applications&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/b1EKFhTJfdk?si=4zbUpZP9iV4fz326&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Web3 is a decentralised internet powered by cryptography and blockchain technology that allows for transacting with any entity in the world without the need for trusted middle men. It has specific uses in fields where having a trusted third-party middleman may prove to be corruptible, inefficient or expensive. But far too often UX designers are starting from equivalents in Web2 creating poor user experiences.&lt;/p&gt;
-
-&lt;h1 id=&quot;unique-elements&quot;&gt;Unique Elements&lt;/h1&gt;
-
-&lt;p&gt;There are several effects that the difference between these two structures affect the UX of applications built on top and the following are some main differences that UX designers must account for while designing Web3 applications:&lt;/p&gt;
-
-&lt;h2 id=&quot;1--decentralisation-is-slow-and-expensive&quot;&gt;1.  DECENTRALISATION IS SLOW AND EXPENSIVE&lt;/h2&gt;
-
-&lt;p&gt;Since nodes in Web3 are distributed and are of different technical capabilities, data transmission across the network takes a lot of time compared to centralised systems. These processes can cause delays on the application layer, making them slow and expensive. In order to combat this, transactions are bunched up together before being written to the blockchain as a single write operation if far less expensive than several transactions writing the same amount of data.&lt;/p&gt;
-
-&lt;p&gt;It’s therefore essential for a UX designer designing applications to decide which data needs to be written to the blockchain and also when in a user’s sessions that needs to happen. For instance, in building a decentralised version of Instagram, would you record every “like” of the user as they occur, or collect all of them and commit them only at the end of the user’s session?&lt;/p&gt;
-
-&lt;p&gt;Many applications also adopt a Web2.5 design approach, where less critical interactions such as “likes” are stored on a centralised server for faster processing, while more critical data, such as who posted which picture, is written to the blockchain.&lt;/p&gt;
-
-&lt;p&gt;But there may other approaches that suit your applications and the right solution would entirely depend on the specifics.&lt;/p&gt;
-
-&lt;h2 id=&quot;2-the-blockchain-has-the-data&quot;&gt;2. THE BLOCKCHAIN HAS THE DATA&lt;/h2&gt;
-
-&lt;p&gt;One of the most surprising ideas to me was that in the Web2 world, an application typically includes both a front-end and a back-end/storage layer delivered as an app. However, with data and storage openly available on a blockchain, the user interface and user experience &lt;strong&gt;is&lt;/strong&gt; the application. This means that someone else could write a new UX layer for the same data, and the user could choose which application they prefer, losing nothing when switching between apps.&lt;/p&gt;
-
-&lt;p&gt;So, what’s the knock-on effect of this? It makes the UX layer super competitive, and the quality of experiences will only improve going forward. The app no longer stands for how well it manages to hoard and guard user data, but rather how good the experience and community behind it are.&lt;/p&gt;
-
-&lt;h2 id=&quot;3-its-community-owned&quot;&gt;3. IT’S COMMUNITY OWNED&lt;/h2&gt;
-
-&lt;p&gt;Unlike products and services in Web2 that are owned by corporations driven by the interests of investors and shareholders, Web3 has “projects” and “protocols” that are owned by communities, not individuals, due to the philosophy of decentralisation.&lt;/p&gt;
-
-&lt;p&gt;While there are participants attempting to amass wealth rather than distribute it to the community, more and more projects are evaluated on their decentralisation and ownership distribution. This impacts how things are designed because in traditional Web2 UX design, a good designer tries to balance the user’s needs against the needs of the company. However, in Web3, the success of the project is aligned with its users, as they hold the tokens and assign them their value.&lt;/p&gt;
-
-&lt;p&gt;With data no longer locked into an app residing in a database, it brings honesty to the equation. Apps that prioritise user interests will win in the future. App that use dark UX patterns to deceive users will not be successful in Web3.&lt;/p&gt;
-
-&lt;h2 id=&quot;4-no-communication-channels-exist-yet&quot;&gt;4. NO COMMUNICATION CHANNELS EXIST, YET&lt;/h2&gt;
-
-&lt;p&gt;In Web3, there is a lack of email or chat communication tools for peer-to-peer communication, and there is no de-facto protocol that can be assumed to be universally subscribed to such as email in Web2. Although tools like Push protocol and EthMail exist, they are not yet widely used and cannot be relied on for communication. This means that if someone buys something from your Web3 marketplace, there is currently no way to follow up with them to update them on the status of their purchase or to fix any issues, and they must come back and check with you.&lt;/p&gt;
-
-&lt;p&gt;Asking for their email address is not always an option, as it could compromise their pseudonymity, allowing you to connect their email address to their wallet and potentially uncover all their blockchain activities. Therefore, it is important to design around this depending on the context.&lt;/p&gt;
-
-&lt;p&gt;What I did on one project where a certain process would take upwards of a few days to complete was to allow the user to download a calendar appointment that stated when they needed to come back and check on the status of this process. You just need to be innovative about how to solve these kinds of problems.&lt;/p&gt;
-
-&lt;h2 id=&quot;5-the-wallet-is-everything&quot;&gt;5. THE WALLET IS EVERYTHING&lt;/h2&gt;
-
-&lt;p&gt;In Web3, everything is based on cryptography using the concept of a pair of public and private keys. This provides users with pseudonymity, but not anonymity, in an otherwise transparent and open world. These keys are essential not only for authorising payments but also for verifying wallet ownership, interacting with smart contracts and linking all purchases to the wallet. Essentially, everything is connected to the wallet.&lt;/p&gt;
-
-&lt;p&gt;However, this user-facing aspect of Web3 is largely unfamiliar to most people. Although it is vitally important to understand, most people do not know what these keys are. Losing or exposing the private key can result in the loss of all assets tied to it. Therefore, this area requires considerable design intervention to help people understand the significance of the keys, the right way to generate key pairs and the proper ways to store and protect them.&lt;/p&gt;
-
-&lt;p&gt;Then comes the usage of the wallet itself. It is used to sign messages from applications to authenticate yourself and also authorise transactions being made on your behalf. But these messages keep popping up with messages asking you permission for something reminding me of the early days of Windows 10 where the user kept getting asked to authorise even the most banal tasks. A lot more polish is required to only seek the user’s attention when you absolutely need it.&lt;/p&gt;
-
-&lt;p&gt;The technology is still so new that sometimes the messages from the underlying stack are exposed to the user, and they are presented with only hexadecimal code, asking them to sign the transactions. Wallet developers have a lot of work to do to make this a lot more user-friendly.&lt;/p&gt;
-
-&lt;h2 id=&quot;6-smart-contracts-rule&quot;&gt;6. SMART CONTRACTS RULE&lt;/h2&gt;
-
-&lt;p&gt;This is another concept in Web3 that has no equivalent in Web2. Smart Contracts are computer essentially programs that run on a network that was created to enforce an agreement between two parties. This means that two parties can rely on a transaction completing as agreed without the need for third-party guarantors and any associated expenses or delays, making transactions more efficient.&lt;/p&gt;
-
-&lt;p&gt;However, since Smart Contracts are written in code and they can be difficult for people to understand. Although the code behind these contracts can be viewed on blockchain explorers, more work needs to be done to make them accessible to the mainstream. When this happens, it will revolutionise everything!&lt;/p&gt;
-
-&lt;h2 id=&quot;7-censorship-is-done-differently&quot;&gt;7. CENSORSHIP IS DONE DIFFERENTLY&lt;/h2&gt;
-
-&lt;p&gt;In Web2, platforms that are owned by individuals or a small group have another problem in that they are also held responsible for implementing the censorship on them. In theory this sounds okay and the obvious thing to do, but if you explore this question more closely, there are many problems with this supposition:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;They may very well be ill-suited to doing the job and may end up censoring things that shouldn’t have been censored excluding ideas that shouldn’t be excluded.&lt;/li&gt;
-  &lt;li&gt;They have no option but to impose their world views on their systems and if they have a very large world-wide user-base, they will essentially be imposing their views on all of them superseding what’s culturally right.&lt;/li&gt;
-  &lt;li&gt;Because they’re a central authority that can make these changes, they may be pressured by external individuals or groups to impose censorship that they themselves may not agree with.&lt;/li&gt;
-  &lt;li&gt;There is always the question of “But what about the children?” that sneaks into every conversation about censorship and since there’s no argument against that, the lowest common denominator is set as the bar.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The political leanings of a platform have been the reason for new ones to be setup creating silos and echo chambers that only confirm your already held beliefs without public discourse or the meeting of minds in the middle. This technology has the potential to fracture societies instead of bringing them together.&lt;/p&gt;
-
-&lt;p&gt;Web3 has a different architecture that does not have central authorities that can censor others, making it a haven for free speech absolutists. Adults who believe they should be exposed to all kinds of ideas to progress in life can do so without censorship. For individuals who want a certain level of censorship, they can choose to use a filter and block certain types of content. This step allows individuals to make their own choices without resorting to drastic measures of stifling someone’s voice or de-platforming them. Although it is not a whole solution, it is a step in the right direction. A lot of work has to be done in this field in terms of making this UX better.&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;A decentralised internet can solve a lot of the issues that plague the world right now and give rise to new ways of interacting with others around the world. For this to become a reality, it needs mass adoption and the only thing stopping it is the complexity. User Experience designers can make a huge difference to adoption by making things much simpler for the everyday user. So if you’re a designer on this journey, kudos to you, you’re making a huge difference to the world.&lt;/p&gt;
-
-&lt;p&gt;However, things need to be evaluated from the ground up based on the underlying decentralised architecture in order to deliver superlative experiences that are either at par or even better than the Web2 versions as this is indeed possible.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 12 Feb 2023 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</link>
-        <guid isPermaLink="true">http://localhost:4000/seven-structural-elements-to-keep-in-mind-for-web3-ux-design/</guid>
-        
-        <category>ux</category>
-        
-        <category>web3</category>
-        
-        <category>decentralisation</category>
         
         <category>design</category>
         
