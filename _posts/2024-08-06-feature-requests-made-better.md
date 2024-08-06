@@ -5,7 +5,7 @@ author: sharan
 categories:
   - Projects
 layout: post
-image: assets/images/timecapsule/timecapsule.jpg
+image: assets/images/featurelist.jpg
 featured: false
 hidden: false
 comments: true
