@@ -48,7 +48,7 @@ var documents = [{
     "id": 9,
     "url": "http://localhost:4000/feature-requests-made-better/",
     "title": "Designing a better feature request system",
-    "body": "2024/08/06 - If we get feedback and feature requests from users regarding products we’ve built, we get valuable insights into understanding what the users want. This is a great place to involve LLMs to handle the issues involved in this process. OverviewThis feedback system will do the following:  It will allow users to submit their feature requests To handle the problem of faster horses, it will produce a page where users can vote on things they didn’t think of before It will show a priority list to product teams that will allow them to understand what to develop next The same idea can be ported to handling bugs, but it needs to be separated"
+    "body": "2024/08/06 - If we get feedback and feature requests from users regarding products we’ve built, we get valuable insights into understanding what the users want. This is a great place to involve LLMs to handle the issues involved in this process. OverviewThis feedback system will do the following:  It will allow users to submit their feature requests To handle the problem of faster horses, it will produce a page where users can vote on things they didn’t think of before It will show a priority list to product teams that will allow them to understand what to develop next The same idea can be ported to handling bugs, but it needs to be a separate system altogether"
     }, {
     "id": 10,
     "url": "http://localhost:4000/raspberry-pi-timecapsule/",
