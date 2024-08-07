@@ -25,21 +25,27 @@ post_class: post-template
                 {% if page.author %}
                 <div class="row post-top-meta">
                     <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        <a target="_blank" class="link-dark" href="{{author.twitter}}">
                         {% if author.avatar %}
-                        <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
+                        <img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.display_name}}">
                         {% else %}
-                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+                        <img class="author-thumb" src="https://www.gravatar.com/avatar/{{author.gravatar}}?s=250&d=mm&r=x" alt="{{author.display_name}}">
                         {% endif %}
+                        {{author.display_name}}</a>
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
-                        <span class="author-description">{{ author.description }}</span>
+                        <!-- Post Title -->
+                        <h1 class="posttitle">{{page.title}}</h1>
+                        <!-- Post Date -->
+                        <small>
+                            <span class="post-date"><time class="post-date" datetime="{{page.date | date:"%Y-%m-%d"}}">{{page.date | date_to_string}}</time></span>           
+                            {% if page.last_modified_at %}
+                            (Updated: <time datetime="{{page.last_modified_at | date_to_xmlschema}}" itemprop="dateModified">{{page.last_modified_at | date: "%b %-d, %Y"}}</time>)
+                            {% endif %}
+                        </small>
                     </div>
                 </div>
                 {% endif %}
-
-                <!-- Post Title -->
-                <h1 class="posttitle">{{ page.title }}</h1>
 
             </div>
 
@@ -53,9 +59,9 @@ post_class: post-template
             {% if page.image %}
 
             {% if site.lazyimages == "enabled" %}
-            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{page.image}}{% else %}{{site.baseurl}}/{{page.image}}{% endif %}" alt="{{page.title}}">
             {% else %}
-            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+            <img class="featured-image img-fluid" src="{% if page.image contains "://" %}{{page.image}}{% else %}{{site.baseurl}}/{{page.image}}{% endif %}" alt="{{page.title}}">
             {% endif %}
 
             {% endif %}
@@ -84,15 +90,7 @@ post_class: post-template
             </div>
             {% endif %}
 
-            <!-- Post Date -->
-            <p>
-            <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-                </small>
-            </p>
+           
 
             <!-- Post Categories -->
             <div class="after-post-cats">
@@ -100,7 +98,7 @@ post_class: post-template
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{category | replace: " ","-"}}">{{category}}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -113,7 +111,7 @@ post_class: post-template
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{tag | replace: " ","-"}}">#{{tag}}</a>
                     </li>
                     {% endfor %}
                 </ul>
@@ -164,16 +162,16 @@ https://search.google.com/structured-data/testing-tool/u/0/
   "@type": "Review",
   "itemReviewed": {
     "@type": "Thing",
-    "name": "{{ page.title }}"
+    "name": "{{page.title}}"
   },
   "author": {
     "@type": "Person",
-    "name": "{{ author.display_name }}"
+    "name": "{{author.display_name}}"
   },
-  "datePublished": "{{ page.date | date:"%Y-%m-%d" }}",
+  "datePublished": "{{page.date | date:"%Y-%m-%d"}}",
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": "{{ page.rating }}",
+    "ratingValue": "{{page.rating}}",
     "bestRating": "5"
   }
 }
