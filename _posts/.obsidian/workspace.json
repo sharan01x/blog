@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-07-24-where-the-puck-is-going-to-be.md",
+                "file": "2024-01-10-rabbit-r1-review.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-24-where-the-puck-is-going-to-be.md",
+                "file": "2024-01-10-rabbit-r1-review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-24-where-the-puck-is-going-to-be.md",
+                "file": "2024-01-10-rabbit-r1-review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-24-where-the-puck-is-going-to-be.md"
+                "file": "2024-01-10-rabbit-r1-review.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b0d0e29bdb110dcd",
   "lastOpenFiles": [
-    "2024-08-06-feature-requests-made-better.md",
     "2024-08-04-raspberry-pi-timecapsule.md",
     "2024-07-24-where-the-puck-is-going-to-be.md",
+    "2024-08-06-feature-requests-made-better.md",
     "2024-01-24-experiments with 3d printing.md",
     "Step 1.5.2.md",
     "2019-08-23-voice-interfaces.md",
